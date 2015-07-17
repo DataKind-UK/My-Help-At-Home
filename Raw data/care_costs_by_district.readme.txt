@@ -1,0 +1,1 @@
+The CSV file (care_costs_by_district.csv) includes the costs of residential and at-home care for English "districts" as sampled using the corresponding postcode stated.
