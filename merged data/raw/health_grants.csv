@@ -4,7 +4,7 @@ Middlesbrough;2013/14;111;15932
 Redcar and Cleveland;2013/14;76;10620
 Stockton-on-Tees;2013/14;63;12711
 Darlington;2013/14;64;6989
-County Durham;2013/14;83;44533
+Durham;2013/14;83;44533
 Northumberland;2013/14;40;13043
 Gateshead;2013/14;74;15401
 Newcastle upon Tyne;2013/14;71;20721
@@ -34,7 +34,7 @@ Sefton;2013/14;69;19408
 Wirral;2013/14;78;25720
 Cumbria;2013/14;26;14176
 Lancashire;2013/14;48;57991
-Kingston upon Hull, City of;2013/14;83;21945
+Kingston upon Hull;2013/14;83;21945
 East Riding of Yorkshire;2013/14;22;8341
 North East Lincolnshire;2013/14;59;9700
 North Lincolnshire;2013/14;46;8071
@@ -58,8 +58,8 @@ Leicestershire;2013/14;28;20206
 Lincolnshire;2013/14;36;27542
 Northamptonshire;2013/14;34;26839
 Nottinghamshire;2013/14;43;35135
-Herefordshire, County of;2013/14;40;7753
-Telford and Wrekin;2013/14;61;10616
+Herefordshire;2013/14;40;7753
+Telford and the Wrekin;2013/14;61;10616
 Stoke-on-Trent;2013/14;76;19690
 Shropshire;2013/14;26;8948
 Birmingham;2013/14;70;78636
@@ -116,7 +116,7 @@ Tower Hamlets;2013/14;113;31382
 Waltham Forest;2013/14;38;11161
 Wandsworth;2013/14;76;24738
 Westminster;2013/14;128;30384
-Medway;2013/14;44;13170
+Medway Towns;2013/14;44;13170
 Bracknell Forest;2013/14;22;2772
 West Berkshire;2013/14;25;4381
 Reading;2013/14;43;7466
