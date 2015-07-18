@@ -1,1305 +1,1305 @@
-"Location" "Year" "Applications" "CASSR.Code" "Current.LA.code" "Local.authority" "County"
-"Essex" 1011 5443.75 620 "E07000066" "Basildon" "Essex"
-"Essex" 1011 5443.75 620 "E07000067" "Braintree" "Essex"
-"Essex" 1011 5443.75 620 "E07000068" "Brentwood" "Essex"
-"Essex" 1011 5443.75 620 "E07000069" "Castle Point" "Essex"
-"Essex" 1011 5443.75 620 "E07000070" "Chelmsford" "Essex"
-"Essex" 1011 5443.75 620 "E07000071" "Colchester" "Essex"
-"Essex" 1011 5443.75 620 "E07000072" "Epping Forest" "Essex"
-"Essex" 1011 5443.75 620 "E07000073" "Harlow" "Essex"
-"Essex" 1011 5443.75 620 "E07000074" "Maldon" "Essex"
-"Essex" 1011 5443.75 620 "E07000075" "Rochford" "Essex"
-"Essex" 1011 5443.75 620 "E07000076" "Tendring" "Essex"
-"Essex" 1011 5443.75 620 "E07000077" "Uttlesford" "Essex"
-"Surrey" 1011 5840.45454545455 805 "E07000207" "Elmbridge" "Surrey"
-"Surrey" 1011 5840.45454545455 805 "E07000208" "Epsom and Ewell" "Surrey"
-"Surrey" 1011 5840.45454545455 805 "E07000209" "Guildford" "Surrey"
-"Surrey" 1011 5840.45454545455 805 "E07000210" "Mole Valley" "Surrey"
-"Surrey" 1011 5840.45454545455 805 "E07000211" "Reigate and Banstead" "Surrey"
-"Surrey" 1011 5840.45454545455 805 "E07000212" "Runnymede" "Surrey"
-"Surrey" 1011 5840.45454545455 805 "E07000213" "Spelthorne" "Surrey"
-"Surrey" 1011 5840.45454545455 805 "E07000214" "Surrey Heath" "Surrey"
-"Surrey" 1011 5840.45454545455 805 "E07000215" "Tandridge" "Surrey"
-"Surrey" 1011 5840.45454545455 805 "E07000216" "Waverley" "Surrey"
-"Surrey" 1011 5840.45454545455 805 "E07000217" "Woking" "Surrey"
-"Lancashire" 1011 4383.75 323 "E07000117" "Burnley" "Lancashire"
-"Lancashire" 1011 4383.75 323 "E07000118" "Chorley" "Lancashire"
-"Lancashire" 1011 4383.75 323 "E07000119" "Fylde" "Lancashire"
-"Lancashire" 1011 4383.75 323 "E07000120" "Hyndburn" "Lancashire"
-"Lancashire" 1011 4383.75 323 "E07000121" "Lancaster" "Lancashire"
-"Lancashire" 1011 4383.75 323 "E07000122" "Pendle" "Lancashire"
-"Lancashire" 1011 4383.75 323 "E07000123" "Preston" "Lancashire"
-"Lancashire" 1011 4383.75 323 "E07000124" "Ribble Valley" "Lancashire"
-"Lancashire" 1011 4383.75 323 "E07000125" "Rossendale" "Lancashire"
-"Lancashire" 1011 4383.75 323 "E07000126" "South Ribble" "Lancashire"
-"Lancashire" 1011 4383.75 323 "E07000127" "West Lancashire" "Lancashire"
-"Lancashire" 1011 4383.75 323 "E07000128" "Wyre" "Lancashire"
-"Norfolk" 1011 7329.28571428571 607 "E07000143" "Breckland" "Norfolk"
-"Norfolk" 1011 7329.28571428571 607 "E07000144" "Broadland" "Norfolk"
-"Norfolk" 1011 7329.28571428571 607 "E07000145" "Great Yarmouth" "Norfolk"
-"Norfolk" 1011 7329.28571428571 607 "E07000146" "King’s Lynn and West Norfolk" "Norfolk"
-"Norfolk" 1011 7329.28571428571 607 "E07000147" "North Norfolk" "Norfolk"
-"Norfolk" 1011 7329.28571428571 607 "E07000148" "Norwich" "Norfolk"
-"Norfolk" 1011 7329.28571428571 607 "E07000149" "South Norfolk" "Norfolk"
-"North Yorkshire" 1011 7031.42857142857 218 "E07000163" "Craven" "North Yorkshire"
-"North Yorkshire" 1011 7031.42857142857 218 "E07000164" "Hambleton" "North Yorkshire"
-"North Yorkshire" 1011 7031.42857142857 218 "E07000165" "Harrogate" "North Yorkshire"
-"North Yorkshire" 1011 7031.42857142857 218 "E07000166" "Richmondshire" "North Yorkshire"
-"North Yorkshire" 1011 7031.42857142857 218 "E07000167" "Ryedale" "North Yorkshire"
-"North Yorkshire" 1011 7031.42857142857 218 "E07000168" "Scarborough" "North Yorkshire"
-"North Yorkshire" 1011 7031.42857142857 218 "E07000169" "Selby" "North Yorkshire"
-"Ealing" 1011 48910 722 "E09000009" "Ealing" "Greater London"
-"Hampshire" 1011 4415.45454545455 812 "E07000086" "Eastleigh" "Hampshire"
-"Hampshire" 1011 4415.45454545455 812 "E07000087" "Fareham" "Hampshire"
-"Hampshire" 1011 4415.45454545455 812 "E07000088" "Gosport" "Hampshire"
-"Hampshire" 1011 4415.45454545455 812 "E07000089" "Hart" "Hampshire"
-"Hampshire" 1011 4415.45454545455 812 "E07000090" "Havant" "Hampshire"
-"Hampshire" 1011 4415.45454545455 812 "E07000091" "New Forest" "Hampshire"
-"Hampshire" 1011 4415.45454545455 812 "E07000092" "Rushmoor" "Hampshire"
-"Hampshire" 1011 4415.45454545455 812 "E07000093" "Test Valley" "Hampshire"
-"Hampshire" 1011 4415.45454545455 812 "E07000094" "Winchester" "Hampshire"
-"Hampshire" 1011 4415.45454545455 812 "E07000084" "Basingstoke and Deane" "Hampshire"
-"Hampshire" 1011 4415.45454545455 812 "E07000085" "East Hampshire" "Hampshire"
-"Kent" 1011 3752.91666666667 820 "E07000105" "Ashford" "Kent"
-"Kent" 1011 3752.91666666667 820 "E07000106" "Canterbury" "Kent"
-"Kent" 1011 3752.91666666667 820 "E07000107" "Dartford" "Kent"
-"Kent" 1011 3752.91666666667 820 "E07000108" "Dover" "Kent"
-"Kent" 1011 3752.91666666667 820 "E07000109" "Gravesham" "Kent"
-"Kent" 1011 3752.91666666667 820 "E07000110" "Maidstone" "Kent"
-"Kent" 1011 3752.91666666667 820 "E07000111" "Sevenoaks" "Kent"
-"Kent" 1011 3752.91666666667 820 "E07000112" "Shepway" "Kent"
-"Kent" 1011 3752.91666666667 820 "E07000113" "Swale" "Kent"
-"Kent" 1011 3752.91666666667 820 "E07000114" "Thanet" "Kent"
-"Kent" 1011 3752.91666666667 820 "E07000115" "Tonbridge and Malling" "Kent"
-"Kent" 1011 3752.91666666667 820 "E07000116" "Tunbridge Wells" "Kent"
-"Cornwall" 1011 43340 902 "E06000052" "Cornwall UA" "Cornwall and Scilly"
-"Hertfordshire" 1011 4115 606 "E07000095" "Broxbourne" "Hertfordshire"
-"Hertfordshire" 1011 4115 606 "E07000096" "Dacorum" "Hertfordshire"
-"Hertfordshire" 1011 4115 606 "E07000097" "East Hertfordshire" "Hertfordshire"
-"Hertfordshire" 1011 4115 606 "E07000098" "Hertsmere" "Hertfordshire"
-"Hertfordshire" 1011 4115 606 "E07000099" "North Hertfordshire" "Hertfordshire"
-"Hertfordshire" 1011 4115 606 "E07000100" "St Albans" "Hertfordshire"
-"Hertfordshire" 1011 4115 606 "E07000101" "Stevenage" "Hertfordshire"
-"Hertfordshire" 1011 4115 606 "E07000102" "Three Rivers" "Hertfordshire"
-"Hertfordshire" 1011 4115 606 "E07000103" "Watford" "Hertfordshire"
-"Hertfordshire" 1011 4115 606 "E07000104" "Welwyn Hatfield" "Hertfordshire"
-"Nottinghamshire" 1011 5331.42857142857 511 "E07000170" "Ashfield" "Nottinghamshire"
-"Nottinghamshire" 1011 5331.42857142857 511 "E07000171" "Bassetlaw" "Nottinghamshire"
-"Nottinghamshire" 1011 5331.42857142857 511 "E07000172" "Broxtowe" "Nottinghamshire"
-"Nottinghamshire" 1011 5331.42857142857 511 "E07000173" "Gedling" "Nottinghamshire"
-"Nottinghamshire" 1011 5331.42857142857 511 "E07000174" "Mansfield" "Nottinghamshire"
-"Nottinghamshire" 1011 5331.42857142857 511 "E07000175" "Newark and Sherwood" "Nottinghamshire"
-"Nottinghamshire" 1011 5331.42857142857 511 "E07000176" "Rushcliffe" "Nottinghamshire"
-"Gloucestershire" 1011 6185.83333333333 904 "E07000078" "Cheltenham" "Gloucestershire"
-"Gloucestershire" 1011 6185.83333333333 904 "E07000079" "Cotswold" "Gloucestershire"
-"Gloucestershire" 1011 6185.83333333333 904 "E07000080" "Forest of Dean" "Gloucestershire"
-"Gloucestershire" 1011 6185.83333333333 904 "E07000081" "Gloucester" "Gloucestershire"
-"Gloucestershire" 1011 6185.83333333333 904 "E07000082" "Stroud" "Gloucestershire"
-"Gloucestershire" 1011 6185.83333333333 904 "E07000083" "Tewkesbury" "Gloucestershire"
-"Lincolnshire" 1011 5190.71428571429 503 "E07000136" "Boston" "Lincolnshire"
-"Lincolnshire" 1011 5190.71428571429 503 "E07000137" "East Lindsey" "Lincolnshire"
-"Lincolnshire" 1011 5190.71428571429 503 "E07000138" "Lincoln" "Lincolnshire"
-"Lincolnshire" 1011 5190.71428571429 503 "E07000139" "North Kesteven" "Lincolnshire"
-"Lincolnshire" 1011 5190.71428571429 503 "E07000140" "South Holland" "Lincolnshire"
-"Lincolnshire" 1011 5190.71428571429 503 "E07000141" "South Kesteven" "Lincolnshire"
-"Lincolnshire" 1011 5190.71428571429 503 "E07000142" "West Lindsey" "Lincolnshire"
-"Birmingham" 1011 36085 406 "E08000025" "Birmingham" "West Midlands"
-"Devon" 1011 4461.25 912 "E07000040" "East Devon" "Devon"
-"Devon" 1011 4461.25 912 "E07000041" "Exeter" "Devon"
-"Devon" 1011 4461.25 912 "E07000042" "Mid Devon" "Devon"
-"Devon" 1011 4461.25 912 "E07000043" "North Devon" "Devon"
-"Devon" 1011 4461.25 912 "E07000044" "South Hams" "Devon"
-"Devon" 1011 4461.25 912 "E07000045" "Teignbridge" "Devon"
-"Devon" 1011 4461.25 912 "E07000046" "Torridge" "Devon"
-"Devon" 1011 4461.25 912 "E07000047" "West Devon" "Devon"
-"Kirklees" 1011 35415 211 "E08000034" "Kirklees" "West Yorkshire"
-"Staffordshire" 1011 4311.25 413 "E07000192" "Cannock Chase" "Staffordshire"
-"Staffordshire" 1011 4311.25 413 "E07000193" "East Staffordshire" "Staffordshire"
-"Staffordshire" 1011 4311.25 413 "E07000194" "Lichfield" "Staffordshire"
-"Staffordshire" 1011 4311.25 413 "E07000195" "Newcastle-under-Lyme" "Staffordshire"
-"Staffordshire" 1011 4311.25 413 "E07000196" "South Staffordshire" "Staffordshire"
-"Staffordshire" 1011 4311.25 413 "E07000197" "Stafford" "Staffordshire"
-"Staffordshire" 1011 4311.25 413 "E07000198" "Staffordshire Moorlands" "Staffordshire"
-"Staffordshire" 1011 4311.25 413 "E07000199" "Tamworth" "Staffordshire"
-"Bradford" 1011 29670 209 "E08000032" "Bradford" "West Yorkshire"
-"Derbyshire" 1011 3603.75 506 "E07000032" "Amber Valley" "Derbyshire"
-"Derbyshire" 1011 3603.75 506 "E07000033" "Bolsover" "Derbyshire"
-"Derbyshire" 1011 3603.75 506 "E07000034" "Chesterfield" "Derbyshire"
-"Derbyshire" 1011 3603.75 506 "E07000035" "Derbyshire Dales" "Derbyshire"
-"Derbyshire" 1011 3603.75 506 "E07000036" "Erewash" "Derbyshire"
-"Derbyshire" 1011 3603.75 506 "E07000037" "High Peak" "Derbyshire"
-"Derbyshire" 1011 3603.75 506 "E07000038" "North East Derbyshire" "Derbyshire"
-"Derbyshire" 1011 3603.75 506 "E07000039" "South Derbyshire" "Derbyshire"
-"Sandwell" 1011 27915 409 "E08000028" "Sandwell" "West Midlands"
-"Wiltshire" 1011 26280 817 "E06000054" "Wiltshire UA" "Wiltshire"
-"West Sussex" 1011 3753.57142857143 807 "E07000223" "Adur" "West Sussex"
-"West Sussex" 1011 3753.57142857143 807 "E07000224" "Arun" "West Sussex"
-"West Sussex" 1011 3753.57142857143 807 "E07000225" "Chichester" "West Sussex"
-"West Sussex" 1011 3753.57142857143 807 "E07000226" "Crawley" "West Sussex"
-"West Sussex" 1011 3753.57142857143 807 "E07000227" "Horsham" "West Sussex"
-"West Sussex" 1011 3753.57142857143 807 "E07000228" "Mid Sussex" "West Sussex"
-"West Sussex" 1011 3753.57142857143 807 "E07000229" "Worthing" "West Sussex"
-"Bolton" 1011 23925 304 "E08000001" "Bolton" "Greater Manchester"
-"Somerset" 1011 4662 905 "E07000187" "Mendip" "Somerset"
-"Somerset" 1011 4662 905 "E07000188" "Sedgemoor" "Somerset"
-"Somerset" 1011 4662 905 "E07000189" "South Somerset" "Somerset"
-"Somerset" 1011 4662 905 "E07000190" "Taunton Deane" "Somerset"
-"Somerset" 1011 4662 905 "E07000191" "West Somerset" "Somerset"
-"Sefton" 1011 22915 317 "E08000014" "Sefton" "Merseyside"
-"Leeds" 1011 21960 212 "E08000035" "Leeds" "West Yorkshire"
-"Wirral" 1011 21660 319 "E08000015" "Wirral" "Merseyside"
-"Medway Towns UA" 1011 21440 NA NA NA NA
-"Suffolk" 1011 3030.71428571429 609 "E07000200" "Babergh" "Suffolk"
-"Suffolk" 1011 3030.71428571429 609 "E07000201" "Forest Heath" "Suffolk"
-"Suffolk" 1011 3030.71428571429 609 "E07000202" "Ipswich" "Suffolk"
-"Suffolk" 1011 3030.71428571429 609 "E07000203" "Mid Suffolk" "Suffolk"
-"Suffolk" 1011 3030.71428571429 609 "E07000204" "St Edmundsbury" "Suffolk"
-"Suffolk" 1011 3030.71428571429 609 "E07000205" "Suffolk Coastal" "Suffolk"
-"Suffolk" 1011 3030.71428571429 609 "E07000206" "Waveney" "Suffolk"
-"Cumbria" 1011 3432.5 102 "E07000026" "Allerdale" "Cumbria"
-"Cumbria" 1011 3432.5 102 "E07000027" "Barrow-in-Furness" "Cumbria"
-"Cumbria" 1011 3432.5 102 "E07000028" "Carlisle" "Cumbria"
-"Cumbria" 1011 3432.5 102 "E07000029" "Copeland" "Cumbria"
-"Cumbria" 1011 3432.5 102 "E07000030" "Eden" "Cumbria"
-"Cumbria" 1011 3432.5 102 "E07000031" "South Lakeland" "Cumbria"
-"Dudley" 1011 20395 408 "E08000027" "Dudley" "West Midlands"
-"Leicestershire" 1011 2901.42857142857 508 "E07000129" "Blaby" "Leicestershire"
-"Leicestershire" 1011 2901.42857142857 508 "E07000130" "Charnwood" "Leicestershire"
-"Leicestershire" 1011 2901.42857142857 508 "E07000131" "Harborough" "Leicestershire"
-"Leicestershire" 1011 2901.42857142857 508 "E07000132" "Hinckley and Bosworth" "Leicestershire"
-"Leicestershire" 1011 2901.42857142857 508 "E07000133" "Melton" "Leicestershire"
-"Leicestershire" 1011 2901.42857142857 508 "E07000134" "North West Leicestershire" "Leicestershire"
-"Leicestershire" 1011 2901.42857142857 508 "E07000135" "Oadby and Wigston" "Leicestershire"
-"Cambridgeshire" 1011 3987 623 "E07000008" "Cambridge" "Cambridgeshire"
-"Cambridgeshire" 1011 3987 623 "E07000009" "East Cambridgeshire" "Cambridgeshire"
-"Cambridgeshire" 1011 3987 623 "E07000010" "Fenland" "Cambridgeshire"
-"Cambridgeshire" 1011 3987 623 "E07000011" "Huntingdonshire" "Cambridgeshire"
-"Cambridgeshire" 1011 3987 623 "E07000012" "South Cambridgeshire" "Cambridgeshire"
-"Durham" 1011 19440 116 "E06000047" "County Durham UA" "Durham"
-"East Sussex" 1011 3771 815 "E07000061" "Eastbourne" "East Sussex"
-"East Sussex" 1011 3771 815 "E07000062" "Hastings" "East Sussex"
-"East Sussex" 1011 3771 815 "E07000063" "Lewes" "East Sussex"
-"East Sussex" 1011 3771 815 "E07000064" "Rother" "East Sussex"
-"East Sussex" 1011 3771 815 "E07000065" "Wealden" "East Sussex"
-"Worcestershire" 1011 3138.33333333333 416 "E07000234" "Bromsgrove" "Worcestershire"
-"Worcestershire" 1011 3138.33333333333 416 "E07000235" "Malvern Hills" "Worcestershire"
-"Worcestershire" 1011 3138.33333333333 416 "E07000236" "Redditch" "Worcestershire"
-"Worcestershire" 1011 3138.33333333333 416 "E07000237" "Worcester" "Worcestershire"
-"Worcestershire" 1011 3138.33333333333 416 "E07000238" "Wychavon" "Worcestershire"
-"Worcestershire" 1011 3138.33333333333 416 "E07000239" "Wyre Forest" "Worcestershire"
-"Northamptonshire" 1011 2631.42857142857 504 "E07000150" "Corby" "Northamptonshire"
-"Northamptonshire" 1011 2631.42857142857 504 "E07000151" "Daventry" "Northamptonshire"
-"Northamptonshire" 1011 2631.42857142857 504 "E07000152" "East Northamptonshire" "Northamptonshire"
-"Northamptonshire" 1011 2631.42857142857 504 "E07000153" "Kettering" "Northamptonshire"
-"Northamptonshire" 1011 2631.42857142857 504 "E07000154" "Northampton" "Northamptonshire"
-"Northamptonshire" 1011 2631.42857142857 504 "E07000155" "South Northamptonshire" "Northamptonshire"
-"Northamptonshire" 1011 2631.42857142857 504 "E07000156" "Wellingborough" "Northamptonshire"
-"Wakefield" 1011 17980 213 "E08000036" "Wakefield" "West Yorkshire"
-"Lambeth" 1011 17430 708 "E09000022" "Lambeth" "Greater London"
-"Buckinghamshire" 1011 4211.25 612 "E07000004" "Aylesbury Vale" "Buckinghamshire"
-"Buckinghamshire" 1011 4211.25 612 "E07000005" "Chiltern" "Buckinghamshire"
-"Buckinghamshire" 1011 4211.25 612 "E07000006" "South Bucks" "Buckinghamshire"
-"Buckinghamshire" 1011 4211.25 612 "E07000007" "Wycombe" "Buckinghamshire"
-"Manchester" 1011 16825 306 "E08000003" "Manchester" "Greater Manchester"
-"Sheffield" 1011 16575 207 "E08000019" "Sheffield" "South Yorkshire"
-"Stockport" 1011 16310 310 "E08000007" "Stockport" "Greater Manchester"
-"Shropshire" 1011 15980 417 "E06000051" "Shropshire UA" "Shropshire"
-"Cheshire East UA" 1011 15885 NA NA NA NA
-"Liverpool" 1011 15580 316 "E08000012" "Liverpool" "Merseyside"
-"Northumberland" 1011 15450 104 "E06000048" "Northumberland UA" "Northumberland"
-"South Tyneside" 1011 15155 109 "E08000023" "South Tyneside" "Tyne and Wear"
-"Tameside" 1011 15050 311 "E08000008" "Tameside" "Greater Manchester"
-"East Riding of Yorkshire UA" 1011 14735 NA NA NA NA
-"Plymouth UA" 1011 14570 NA NA NA NA
-"Southend-on-Sea UA" 1011 14525 NA NA NA NA
-"Warwickshire" 1011 2875 404 "E07000218" "North Warwickshire" "Warwickshire"
-"Warwickshire" 1011 2875 404 "E07000219" "Nuneaton and Bedworth" "Warwickshire"
-"Warwickshire" 1011 2875 404 "E07000220" "Rugby" "Warwickshire"
-"Warwickshire" 1011 2875 404 "E07000221" "Stratford-on-Avon" "Warwickshire"
-"Warwickshire" 1011 2875 404 "E07000222" "Warwick" "Warwickshire"
-"Wolverhampton" 1011 14210 412 "E08000031" "Wolverhampton" "West Midlands"
-"Cheshire West and Chester UA" 1011 13750 NA NA NA NA
-"Newham" 1011 13600 731 "E09000025" "Newham" "Greater London"
-"Bristol UA" 1011 13245 NA NA NA NA
-"Dorset" 1011 2178.33333333333 809 "E07000048" "Christchurch" "Dorset"
-"Dorset" 1011 2178.33333333333 809 "E07000049" "East Dorset" "Dorset"
-"Dorset" 1011 2178.33333333333 809 "E07000050" "North Dorset" "Dorset"
-"Dorset" 1011 2178.33333333333 809 "E07000051" "Purbeck" "Dorset"
-"Dorset" 1011 2178.33333333333 809 "E07000052" "West Dorset" "Dorset"
-"Dorset" 1011 2178.33333333333 809 "E07000053" "Weymouth and Portland" "Dorset"
-"Wigan" 1011 12790 313 "E08000010" "Wigan" "Greater Manchester"
-"Trafford" 1011 12570 312 "E08000009" "Trafford" "Greater Manchester"
-"North Tyneside" 1011 12485 108 "E08000022" "North Tyneside" "Tyne and Wear"
-"Barnet" 1011 12280 717 "E09000003" "Barnet" "Greater London"
-"Brent" 1011 11950 719 "E09000005" "Brent" "Greater London"
-"Newcastle upon Tyne" 1011 11805 107 "E08000021" "Newcastle upon Tyne" "Tyne and Wear"
-"Redbridge" 1011 11775 732 "E09000026" "Redbridge" "Greater London"
-"Lewisham" 1011 11770 709 "E09000023" "Lewisham" "Greater London"
-"Leicester UA" 1011 11650 NA NA NA NA
-"Bromley" 1011 11265 720 "E09000006" "Bromley" "Greater London"
-"Croydon" 1011 11180 721 "E09000008" "Croydon" "Greater London"
-"North Somerset UA" 1011 11055 NA NA NA NA
-"Salford" 1011 10985 309 "E08000006" "Salford" "Greater Manchester"
-"Derby UA" 1011 10925 NA NA NA NA
-"Herefordshire UA" 1011 10910 NA NA NA NA
-"Stoke-on-Trent UA" 1011 10875 NA NA NA NA
-"Rotherham" 1011 10815 206 "E08000018" "Rotherham" "South Yorkshire"
-"Oxfordshire" 1011 2143 608 "E07000177" "Cherwell" "Oxfordshire"
-"Oxfordshire" 1011 2143 608 "E07000178" "Oxford" "Oxfordshire"
-"Oxfordshire" 1011 2143 608 "E07000179" "South Oxfordshire" "Oxfordshire"
-"Oxfordshire" 1011 2143 608 "E07000180" "Vale of White Horse" "Oxfordshire"
-"Oxfordshire" 1011 2143 608 "E07000181" "West Oxfordshire" "Oxfordshire"
-"Southampton UA" 1011 10710 NA NA NA NA
-"North East Lincolnshire UA" 1011 10680 NA NA NA NA
-"Greenwich" 1011 10280 703 "E09000011" "Greenwich" "Greater London"
-"Westminster" 1011 9720 713 "E09000033" "Westminster" "Greater London"
-"York UA" 1011 9500 NA NA NA NA
-"Doncaster" 1011 9445 205 "E08000017" "Doncaster" "South Yorkshire"
-"Harrow" 1011 9355 725 "E09000015" "Harrow" "Greater London"
-"Hackney" 1011 9330 704 "E09000012" "Hackney" "Greater London"
-"Sunderland" 1011 9285 110 "E08000024" "Sunderland" "Tyne and Wear"
-"Bexley" 1011 9020 718 "E09000004" "Bexley" "Greater London"
-"Kingston upon Hull UA" 1011 8960 NA NA NA NA
-"Enfield" 1011 8640 723 "E09000010" "Enfield" "Greater London"
-"South Gloucestershire UA" 1011 8630 NA NA NA NA
-"Middlesbrough UA" 1011 8555 NA NA NA NA
-"Poole UA" 1011 8435 NA NA NA NA
-"Coventry" 1011 8370 407 "E08000026" "Coventry" "West Midlands"
-"Oldham" 1011 8345 307 "E08000004" "Oldham" "Greater Manchester"
-"Swindon UA" 1011 8215 NA NA NA NA
-"Brighton and Hove UA" 1011 8140 NA NA NA NA
-"Rochdale" 1011 8005 308 "E08000005" "Rochdale" "Greater Manchester"
-"St. Helens" 1011 7870 318 "E08000013" "St. Helens" "Merseyside"
-"Blackburn with Darwen UA" 1011 7785 NA NA NA NA
-"Portsmouth UA" 1011 7685 NA NA NA NA
-"Bury" 1011 7660 305 "E08000002" "Bury" "Greater Manchester"
-"Hounslow" 1011 7585 728 "E09000018" "Hounslow" "Greater London"
-"Warrington UA" 1011 7490 NA NA NA NA
-"Barking and Dagenham" 1011 7395 716 "E09000002" "Barking and Dagenham" "Greater London"
-"Stockton-on-Tees UA" 1011 7315 NA NA NA NA
-"Kensington and Chelsea" 1011 7275 707 "E09000020" "Kensington and Chelsea" "Greater London"
-"Wokingham UA" 1011 7205 NA NA NA NA
-"Haringey" 1011 7145 724 "E09000014" "Haringey" "Greater London"
-"Peterborough UA" 1011 7120 NA NA NA NA
-"North Lincolnshire UA" 1011 6785 NA NA NA NA
-"Gateshead" 1011 6690 106 "E08000020" "Gateshead" "Tyne and Wear"
-"Islington" 1011 6635 706 "E09000019" "Islington" "Greater London"
-"Calderdale" 1011 6615 210 "E08000033" "Calderdale" "West Yorkshire"
-"Isle of Wight UA" 1011 6560 NA NA NA NA
-"Torbay UA" 1011 6525 NA NA NA NA
-"Havering" 1011 6500 726 "E09000016" "Havering" "Greater London"
-"Barnsley" 1011 6260 204 "E08000016" "Barnsley" "South Yorkshire"
-"Redcar and Cleveland UA" 1011 6205 NA NA NA NA
-"Luton UA" 1011 6080 NA NA NA NA
-"Bournemouth UA" 1011 6070 NA NA NA NA
-"Blackpool UA" 1011 6060 NA NA NA NA
-"Sutton" 1011 5775 734 "E09000029" "Sutton" "Greater London"
-"Central Bedfordshire UA" 1011 5765 NA NA NA NA
-"West Berkshire UA" 1011 5715 NA NA NA NA
-"Telford and the Wrekin UA" 1011 5615 NA NA NA NA
-"Knowsley" 1011 5465 315 "E08000011" "Knowsley" "Merseyside"
-"Camden" 1011 5360 702 "E09000007" "Camden" "Greater London"
-"Southwark" 1011 5225 710 "E09000028" "Southwark" "Greater London"
-"Solihull" 1011 5165 410 "E08000029" "Solihull" "West Midlands"
-"Tower Hamlets" 1011 5115 711 "E09000030" "Tower Hamlets" "Greater London"
-"Bedford UA" 1011 5075 NA NA NA NA
-"Hammersmith and Fulham" 1011 4995 705 "E09000013" "Hammersmith and Fulham" "Greater London"
-"Reading UA" 1011 4905 NA NA NA NA
-"Merton" 1011 4830 730 "E09000024" "Merton" "Greater London"
-"Windsor and Maidenhead UA" 1011 4740 NA NA NA NA
-"Wandsworth" 1011 4615 712 "E09000032" "Wandsworth" "Greater London"
-"Bath and North East Somerset UA" 1011 4550 NA NA NA NA
-"Halton UA" 1011 4525 NA NA NA NA
-"Thurrock UA" 1011 4450 NA NA NA NA
-"Hartlepool UA" 1011 4335 NA NA NA NA
-"Milton Keynes UA" 1011 4125 NA NA NA NA
-"Waltham Forest" 1011 4115 735 "E09000031" "Waltham Forest" "Greater London"
-"Darlington UA" 1011 4055 NA NA NA NA
-"Kingston upon Thames" 1011 3855 729 "E09000021" "Kingston upon Thames" "Greater London"
-"Bracknell Forest UA" 1011 3775 NA NA NA NA
-"Hillingdon" 1011 3540 727 "E09000017" "Hillingdon" "Greater London"
-"Slough UA" 1011 3235 NA NA NA NA
-"Richmond upon Thames" 1011 2760 733 "E09000027" "Richmond upon Thames" "Greater London"
-"Nottingham UA" 1011 1935 NA NA NA NA
-"Rutland UA" 1011 1785 NA NA NA NA
-"Walsall" 1011 1145 411 "E08000030" "Walsall" "West Midlands"
-"City of London" 1011 270 714 "E09000001" "City of London" "Greater London"
-"Isles of Scilly" 1011 200 906 "E06000053" "Isles of Scilly UA" "Cornwall and Scilly"
-"Cornwall" 1112 116090 902 "E06000052" "Cornwall UA" "Cornwall and Scilly"
-"Hampshire" 1112 9515.45454545455 812 "E07000086" "Eastleigh" "Hampshire"
-"Hampshire" 1112 9515.45454545455 812 "E07000087" "Fareham" "Hampshire"
-"Hampshire" 1112 9515.45454545455 812 "E07000088" "Gosport" "Hampshire"
-"Hampshire" 1112 9515.45454545455 812 "E07000089" "Hart" "Hampshire"
-"Hampshire" 1112 9515.45454545455 812 "E07000090" "Havant" "Hampshire"
-"Hampshire" 1112 9515.45454545455 812 "E07000091" "New Forest" "Hampshire"
-"Hampshire" 1112 9515.45454545455 812 "E07000092" "Rushmoor" "Hampshire"
-"Hampshire" 1112 9515.45454545455 812 "E07000093" "Test Valley" "Hampshire"
-"Hampshire" 1112 9515.45454545455 812 "E07000094" "Winchester" "Hampshire"
-"Hampshire" 1112 9515.45454545455 812 "E07000084" "Basingstoke and Deane" "Hampshire"
-"Hampshire" 1112 9515.45454545455 812 "E07000085" "East Hampshire" "Hampshire"
-"Essex" 1112 8228 620 "E07000066" "Basildon" "Essex"
-"Essex" 1112 8228 620 "E07000067" "Braintree" "Essex"
-"Essex" 1112 8228 620 "E07000068" "Brentwood" "Essex"
-"Essex" 1112 8228 620 "E07000069" "Castle Point" "Essex"
-"Essex" 1112 8228 620 "E07000070" "Chelmsford" "Essex"
-"Essex" 1112 8228 620 "E07000071" "Colchester" "Essex"
-"Essex" 1112 8228 620 "E07000072" "Epping Forest" "Essex"
-"Essex" 1112 8228 620 "E07000073" "Harlow" "Essex"
-"Essex" 1112 8228 620 "E07000074" "Maldon" "Essex"
-"Essex" 1112 8228 620 "E07000075" "Rochford" "Essex"
-"Essex" 1112 8228 620 "E07000076" "Tendring" "Essex"
-"Essex" 1112 8228 620 "E07000077" "Uttlesford" "Essex"
-"Lancashire" 1112 8116.5 323 "E07000117" "Burnley" "Lancashire"
-"Lancashire" 1112 8116.5 323 "E07000118" "Chorley" "Lancashire"
-"Lancashire" 1112 8116.5 323 "E07000119" "Fylde" "Lancashire"
-"Lancashire" 1112 8116.5 323 "E07000120" "Hyndburn" "Lancashire"
-"Lancashire" 1112 8116.5 323 "E07000121" "Lancaster" "Lancashire"
-"Lancashire" 1112 8116.5 323 "E07000122" "Pendle" "Lancashire"
-"Lancashire" 1112 8116.5 323 "E07000123" "Preston" "Lancashire"
-"Lancashire" 1112 8116.5 323 "E07000124" "Ribble Valley" "Lancashire"
-"Lancashire" 1112 8116.5 323 "E07000125" "Rossendale" "Lancashire"
-"Lancashire" 1112 8116.5 323 "E07000126" "South Ribble" "Lancashire"
-"Lancashire" 1112 8116.5 323 "E07000127" "West Lancashire" "Lancashire"
-"Lancashire" 1112 8116.5 323 "E07000128" "Wyre" "Lancashire"
-"North Yorkshire" 1112 13879.7142857143 218 "E07000163" "Craven" "North Yorkshire"
-"North Yorkshire" 1112 13879.7142857143 218 "E07000164" "Hambleton" "North Yorkshire"
-"North Yorkshire" 1112 13879.7142857143 218 "E07000165" "Harrogate" "North Yorkshire"
-"North Yorkshire" 1112 13879.7142857143 218 "E07000166" "Richmondshire" "North Yorkshire"
-"North Yorkshire" 1112 13879.7142857143 218 "E07000167" "Ryedale" "North Yorkshire"
-"North Yorkshire" 1112 13879.7142857143 218 "E07000168" "Scarborough" "North Yorkshire"
-"North Yorkshire" 1112 13879.7142857143 218 "E07000169" "Selby" "North Yorkshire"
-"Ealing" 1112 95598 722 "E09000009" "Ealing" "Greater London"
-"Norfolk" 1112 12856 607 "E07000143" "Breckland" "Norfolk"
-"Norfolk" 1112 12856 607 "E07000144" "Broadland" "Norfolk"
-"Norfolk" 1112 12856 607 "E07000145" "Great Yarmouth" "Norfolk"
-"Norfolk" 1112 12856 607 "E07000146" "King’s Lynn and West Norfolk" "Norfolk"
-"Norfolk" 1112 12856 607 "E07000147" "North Norfolk" "Norfolk"
-"Norfolk" 1112 12856 607 "E07000148" "Norwich" "Norfolk"
-"Norfolk" 1112 12856 607 "E07000149" "South Norfolk" "Norfolk"
-"Kent" 1112 7417.83333333333 820 "E07000105" "Ashford" "Kent"
-"Kent" 1112 7417.83333333333 820 "E07000106" "Canterbury" "Kent"
-"Kent" 1112 7417.83333333333 820 "E07000107" "Dartford" "Kent"
-"Kent" 1112 7417.83333333333 820 "E07000108" "Dover" "Kent"
-"Kent" 1112 7417.83333333333 820 "E07000109" "Gravesham" "Kent"
-"Kent" 1112 7417.83333333333 820 "E07000110" "Maidstone" "Kent"
-"Kent" 1112 7417.83333333333 820 "E07000111" "Sevenoaks" "Kent"
-"Kent" 1112 7417.83333333333 820 "E07000112" "Shepway" "Kent"
-"Kent" 1112 7417.83333333333 820 "E07000113" "Swale" "Kent"
-"Kent" 1112 7417.83333333333 820 "E07000114" "Thanet" "Kent"
-"Kent" 1112 7417.83333333333 820 "E07000115" "Tonbridge and Malling" "Kent"
-"Kent" 1112 7417.83333333333 820 "E07000116" "Tunbridge Wells" "Kent"
-"Hertfordshire" 1112 8840.8 606 "E07000095" "Broxbourne" "Hertfordshire"
-"Hertfordshire" 1112 8840.8 606 "E07000096" "Dacorum" "Hertfordshire"
-"Hertfordshire" 1112 8840.8 606 "E07000097" "East Hertfordshire" "Hertfordshire"
-"Hertfordshire" 1112 8840.8 606 "E07000098" "Hertsmere" "Hertfordshire"
-"Hertfordshire" 1112 8840.8 606 "E07000099" "North Hertfordshire" "Hertfordshire"
-"Hertfordshire" 1112 8840.8 606 "E07000100" "St Albans" "Hertfordshire"
-"Hertfordshire" 1112 8840.8 606 "E07000101" "Stevenage" "Hertfordshire"
-"Hertfordshire" 1112 8840.8 606 "E07000102" "Three Rivers" "Hertfordshire"
-"Hertfordshire" 1112 8840.8 606 "E07000103" "Watford" "Hertfordshire"
-"Hertfordshire" 1112 8840.8 606 "E07000104" "Welwyn Hatfield" "Hertfordshire"
-"Lincolnshire" 1112 11622.5714285714 503 "E07000136" "Boston" "Lincolnshire"
-"Lincolnshire" 1112 11622.5714285714 503 "E07000137" "East Lindsey" "Lincolnshire"
-"Lincolnshire" 1112 11622.5714285714 503 "E07000138" "Lincoln" "Lincolnshire"
-"Lincolnshire" 1112 11622.5714285714 503 "E07000139" "North Kesteven" "Lincolnshire"
-"Lincolnshire" 1112 11622.5714285714 503 "E07000140" "South Holland" "Lincolnshire"
-"Lincolnshire" 1112 11622.5714285714 503 "E07000141" "South Kesteven" "Lincolnshire"
-"Lincolnshire" 1112 11622.5714285714 503 "E07000142" "West Lindsey" "Lincolnshire"
-"Devon" 1112 9690.25 912 "E07000040" "East Devon" "Devon"
-"Devon" 1112 9690.25 912 "E07000041" "Exeter" "Devon"
-"Devon" 1112 9690.25 912 "E07000042" "Mid Devon" "Devon"
-"Devon" 1112 9690.25 912 "E07000043" "North Devon" "Devon"
-"Devon" 1112 9690.25 912 "E07000044" "South Hams" "Devon"
-"Devon" 1112 9690.25 912 "E07000045" "Teignbridge" "Devon"
-"Devon" 1112 9690.25 912 "E07000046" "Torridge" "Devon"
-"Devon" 1112 9690.25 912 "E07000047" "West Devon" "Devon"
-"Derbyshire" 1112 8486.75 506 "E07000032" "Amber Valley" "Derbyshire"
-"Derbyshire" 1112 8486.75 506 "E07000033" "Bolsover" "Derbyshire"
-"Derbyshire" 1112 8486.75 506 "E07000034" "Chesterfield" "Derbyshire"
-"Derbyshire" 1112 8486.75 506 "E07000035" "Derbyshire Dales" "Derbyshire"
-"Derbyshire" 1112 8486.75 506 "E07000036" "Erewash" "Derbyshire"
-"Derbyshire" 1112 8486.75 506 "E07000037" "High Peak" "Derbyshire"
-"Derbyshire" 1112 8486.75 506 "E07000038" "North East Derbyshire" "Derbyshire"
-"Derbyshire" 1112 8486.75 506 "E07000039" "South Derbyshire" "Derbyshire"
-"Birmingham" 1112 63424 406 "E08000025" "Birmingham" "West Midlands"
-"Bradford" 1112 63318 209 "E08000032" "Bradford" "West Yorkshire"
-"Nottinghamshire" 1112 8693.71428571429 511 "E07000170" "Ashfield" "Nottinghamshire"
-"Nottinghamshire" 1112 8693.71428571429 511 "E07000171" "Bassetlaw" "Nottinghamshire"
-"Nottinghamshire" 1112 8693.71428571429 511 "E07000172" "Broxtowe" "Nottinghamshire"
-"Nottinghamshire" 1112 8693.71428571429 511 "E07000173" "Gedling" "Nottinghamshire"
-"Nottinghamshire" 1112 8693.71428571429 511 "E07000174" "Mansfield" "Nottinghamshire"
-"Nottinghamshire" 1112 8693.71428571429 511 "E07000175" "Newark and Sherwood" "Nottinghamshire"
-"Nottinghamshire" 1112 8693.71428571429 511 "E07000176" "Rushcliffe" "Nottinghamshire"
-"Sandwell" 1112 57096 409 "E08000028" "Sandwell" "West Midlands"
-"Gloucestershire" 1112 9363 904 "E07000078" "Cheltenham" "Gloucestershire"
-"Gloucestershire" 1112 9363 904 "E07000079" "Cotswold" "Gloucestershire"
-"Gloucestershire" 1112 9363 904 "E07000080" "Forest of Dean" "Gloucestershire"
-"Gloucestershire" 1112 9363 904 "E07000081" "Gloucester" "Gloucestershire"
-"Gloucestershire" 1112 9363 904 "E07000082" "Stroud" "Gloucestershire"
-"Gloucestershire" 1112 9363 904 "E07000083" "Tewkesbury" "Gloucestershire"
-"Surrey" 1112 4951.63636363636 805 "E07000207" "Elmbridge" "Surrey"
-"Surrey" 1112 4951.63636363636 805 "E07000208" "Epsom and Ewell" "Surrey"
-"Surrey" 1112 4951.63636363636 805 "E07000209" "Guildford" "Surrey"
-"Surrey" 1112 4951.63636363636 805 "E07000210" "Mole Valley" "Surrey"
-"Surrey" 1112 4951.63636363636 805 "E07000211" "Reigate and Banstead" "Surrey"
-"Surrey" 1112 4951.63636363636 805 "E07000212" "Runnymede" "Surrey"
-"Surrey" 1112 4951.63636363636 805 "E07000213" "Spelthorne" "Surrey"
-"Surrey" 1112 4951.63636363636 805 "E07000214" "Surrey Heath" "Surrey"
-"Surrey" 1112 4951.63636363636 805 "E07000215" "Tandridge" "Surrey"
-"Surrey" 1112 4951.63636363636 805 "E07000216" "Waverley" "Surrey"
-"Surrey" 1112 4951.63636363636 805 "E07000217" "Woking" "Surrey"
-"Kirklees" 1112 52424 211 "E08000034" "Kirklees" "West Yorkshire"
-"Wiltshire" 1112 52270 817 "E06000054" "Wiltshire UA" "Wiltshire"
-"Staffordshire" 1112 6208.25 413 "E07000192" "Cannock Chase" "Staffordshire"
-"Staffordshire" 1112 6208.25 413 "E07000193" "East Staffordshire" "Staffordshire"
-"Staffordshire" 1112 6208.25 413 "E07000194" "Lichfield" "Staffordshire"
-"Staffordshire" 1112 6208.25 413 "E07000195" "Newcastle-under-Lyme" "Staffordshire"
-"Staffordshire" 1112 6208.25 413 "E07000196" "South Staffordshire" "Staffordshire"
-"Staffordshire" 1112 6208.25 413 "E07000197" "Stafford" "Staffordshire"
-"Staffordshire" 1112 6208.25 413 "E07000198" "Staffordshire Moorlands" "Staffordshire"
-"Staffordshire" 1112 6208.25 413 "E07000199" "Tamworth" "Staffordshire"
-"Northamptonshire" 1112 6820 504 "E07000150" "Corby" "Northamptonshire"
-"Northamptonshire" 1112 6820 504 "E07000151" "Daventry" "Northamptonshire"
-"Northamptonshire" 1112 6820 504 "E07000152" "East Northamptonshire" "Northamptonshire"
-"Northamptonshire" 1112 6820 504 "E07000153" "Kettering" "Northamptonshire"
-"Northamptonshire" 1112 6820 504 "E07000154" "Northampton" "Northamptonshire"
-"Northamptonshire" 1112 6820 504 "E07000155" "South Northamptonshire" "Northamptonshire"
-"Northamptonshire" 1112 6820 504 "E07000156" "Wellingborough" "Northamptonshire"
-"Sefton" 1112 46082 317 "E08000014" "Sefton" "Merseyside"
-"Medway Towns UA" 1112 45900 NA NA NA NA
-"Wirral" 1112 44950 319 "E08000015" "Wirral" "Merseyside"
-"West Sussex" 1112 6420.57142857143 807 "E07000223" "Adur" "West Sussex"
-"West Sussex" 1112 6420.57142857143 807 "E07000224" "Arun" "West Sussex"
-"West Sussex" 1112 6420.57142857143 807 "E07000225" "Chichester" "West Sussex"
-"West Sussex" 1112 6420.57142857143 807 "E07000226" "Crawley" "West Sussex"
-"West Sussex" 1112 6420.57142857143 807 "E07000227" "Horsham" "West Sussex"
-"West Sussex" 1112 6420.57142857143 807 "E07000228" "Mid Sussex" "West Sussex"
-"West Sussex" 1112 6420.57142857143 807 "E07000229" "Worthing" "West Sussex"
-"Cambridgeshire" 1112 8938.8 623 "E07000008" "Cambridge" "Cambridgeshire"
-"Cambridgeshire" 1112 8938.8 623 "E07000009" "East Cambridgeshire" "Cambridgeshire"
-"Cambridgeshire" 1112 8938.8 623 "E07000010" "Fenland" "Cambridgeshire"
-"Cambridgeshire" 1112 8938.8 623 "E07000011" "Huntingdonshire" "Cambridgeshire"
-"Cambridgeshire" 1112 8938.8 623 "E07000012" "South Cambridgeshire" "Cambridgeshire"
-"Cumbria" 1112 7083 102 "E07000026" "Allerdale" "Cumbria"
-"Cumbria" 1112 7083 102 "E07000027" "Barrow-in-Furness" "Cumbria"
-"Cumbria" 1112 7083 102 "E07000028" "Carlisle" "Cumbria"
-"Cumbria" 1112 7083 102 "E07000029" "Copeland" "Cumbria"
-"Cumbria" 1112 7083 102 "E07000030" "Eden" "Cumbria"
-"Cumbria" 1112 7083 102 "E07000031" "South Lakeland" "Cumbria"
-"Leicestershire" 1112 6062.28571428571 508 "E07000129" "Blaby" "Leicestershire"
-"Leicestershire" 1112 6062.28571428571 508 "E07000130" "Charnwood" "Leicestershire"
-"Leicestershire" 1112 6062.28571428571 508 "E07000131" "Harborough" "Leicestershire"
-"Leicestershire" 1112 6062.28571428571 508 "E07000132" "Hinckley and Bosworth" "Leicestershire"
-"Leicestershire" 1112 6062.28571428571 508 "E07000133" "Melton" "Leicestershire"
-"Leicestershire" 1112 6062.28571428571 508 "E07000134" "North West Leicestershire" "Leicestershire"
-"Leicestershire" 1112 6062.28571428571 508 "E07000135" "Oadby and Wigston" "Leicestershire"
-"Dudley" 1112 39798 408 "E08000027" "Dudley" "West Midlands"
-"Worcestershire" 1112 6482 416 "E07000234" "Bromsgrove" "Worcestershire"
-"Worcestershire" 1112 6482 416 "E07000235" "Malvern Hills" "Worcestershire"
-"Worcestershire" 1112 6482 416 "E07000236" "Redditch" "Worcestershire"
-"Worcestershire" 1112 6482 416 "E07000237" "Worcester" "Worcestershire"
-"Worcestershire" 1112 6482 416 "E07000238" "Wychavon" "Worcestershire"
-"Worcestershire" 1112 6482 416 "E07000239" "Wyre Forest" "Worcestershire"
-"Buckinghamshire" 1112 9487.5 612 "E07000004" "Aylesbury Vale" "Buckinghamshire"
-"Buckinghamshire" 1112 9487.5 612 "E07000005" "Chiltern" "Buckinghamshire"
-"Buckinghamshire" 1112 9487.5 612 "E07000006" "South Bucks" "Buckinghamshire"
-"Buckinghamshire" 1112 9487.5 612 "E07000007" "Wycombe" "Buckinghamshire"
-"Leeds" 1112 37550 212 "E08000035" "Leeds" "West Yorkshire"
-"Somerset" 1112 7402.4 905 "E07000187" "Mendip" "Somerset"
-"Somerset" 1112 7402.4 905 "E07000188" "Sedgemoor" "Somerset"
-"Somerset" 1112 7402.4 905 "E07000189" "South Somerset" "Somerset"
-"Somerset" 1112 7402.4 905 "E07000190" "Taunton Deane" "Somerset"
-"Somerset" 1112 7402.4 905 "E07000191" "West Somerset" "Somerset"
-"Durham" 1112 35530 116 "E06000047" "County Durham UA" "Durham"
-"East Sussex" 1112 7042.4 815 "E07000061" "Eastbourne" "East Sussex"
-"East Sussex" 1112 7042.4 815 "E07000062" "Hastings" "East Sussex"
-"East Sussex" 1112 7042.4 815 "E07000063" "Lewes" "East Sussex"
-"East Sussex" 1112 7042.4 815 "E07000064" "Rother" "East Sussex"
-"East Sussex" 1112 7042.4 815 "E07000065" "Wealden" "East Sussex"
-"Lambeth" 1112 34434 708 "E09000022" "Lambeth" "Greater London"
-"Sheffield" 1112 33924 207 "E08000019" "Sheffield" "South Yorkshire"
-"Wakefield" 1112 32298 213 "E08000036" "Wakefield" "West Yorkshire"
-"Stockport" 1112 32278 310 "E08000007" "Stockport" "Greater Manchester"
-"Cheshire East UA" 1112 29828 NA NA NA NA
-"Northumberland" 1112 29490 104 "E06000048" "Northumberland UA" "Northumberland"
-"Cheshire West and Chester UA" 1112 29108 NA NA NA NA
-"South Tyneside" 1112 27240 109 "E08000023" "South Tyneside" "Tyne and Wear"
-"Plymouth UA" 1112 27180 NA NA NA NA
-"Wolverhampton" 1112 27142 412 "E08000031" "Wolverhampton" "West Midlands"
-"Liverpool" 1112 26990 316 "E08000012" "Liverpool" "Merseyside"
-"Dorset" 1112 4488 809 "E07000048" "Christchurch" "Dorset"
-"Dorset" 1112 4488 809 "E07000049" "East Dorset" "Dorset"
-"Dorset" 1112 4488 809 "E07000050" "North Dorset" "Dorset"
-"Dorset" 1112 4488 809 "E07000051" "Purbeck" "Dorset"
-"Dorset" 1112 4488 809 "E07000052" "West Dorset" "Dorset"
-"Dorset" 1112 4488 809 "E07000053" "Weymouth and Portland" "Dorset"
-"Redbridge" 1112 26714 732 "E09000026" "Redbridge" "Greater London"
-"Trafford" 1112 26552 312 "E08000009" "Trafford" "Greater Manchester"
-"Manchester" 1112 26318 306 "E08000003" "Manchester" "Greater Manchester"
-"Southend-on-Sea UA" 1112 26150 NA NA NA NA
-"Salford" 1112 26002 309 "E08000006" "Salford" "Greater Manchester"
-"Shropshire" 1112 25950 417 "E06000051" "Shropshire UA" "Shropshire"
-"East Riding of Yorkshire UA" 1112 25690 NA NA NA NA
-"Lewisham" 1112 25228 709 "E09000023" "Lewisham" "Greater London"
-"Warwickshire" 1112 4816.4 404 "E07000218" "North Warwickshire" "Warwickshire"
-"Warwickshire" 1112 4816.4 404 "E07000219" "Nuneaton and Bedworth" "Warwickshire"
-"Warwickshire" 1112 4816.4 404 "E07000220" "Rugby" "Warwickshire"
-"Warwickshire" 1112 4816.4 404 "E07000221" "Stratford-on-Avon" "Warwickshire"
-"Warwickshire" 1112 4816.4 404 "E07000222" "Warwick" "Warwickshire"
-"Barnet" 1112 23960 717 "E09000003" "Barnet" "Greater London"
-"Suffolk" 1112 3407.71428571429 609 "E07000200" "Babergh" "Suffolk"
-"Suffolk" 1112 3407.71428571429 609 "E07000201" "Forest Heath" "Suffolk"
-"Suffolk" 1112 3407.71428571429 609 "E07000202" "Ipswich" "Suffolk"
-"Suffolk" 1112 3407.71428571429 609 "E07000203" "Mid Suffolk" "Suffolk"
-"Suffolk" 1112 3407.71428571429 609 "E07000204" "St Edmundsbury" "Suffolk"
-"Suffolk" 1112 3407.71428571429 609 "E07000205" "Suffolk Coastal" "Suffolk"
-"Suffolk" 1112 3407.71428571429 609 "E07000206" "Waveney" "Suffolk"
-"Tameside" 1112 23782 311 "E08000008" "Tameside" "Greater Manchester"
-"Rotherham" 1112 23482 206 "E08000018" "Rotherham" "South Yorkshire"
-"Bromley" 1112 22900 720 "E09000006" "Bromley" "Greater London"
-"Newcastle upon Tyne" 1112 22890 107 "E08000021" "Newcastle upon Tyne" "Tyne and Wear"
-"Southampton UA" 1112 22558 NA NA NA NA
-"Leicester UA" 1112 21630 NA NA NA NA
-"North East Lincolnshire UA" 1112 21542 NA NA NA NA
-"Wigan" 1112 21426 313 "E08000010" "Wigan" "Greater Manchester"
-"St. Helens" 1112 21028 318 "E08000013" "St. Helens" "Merseyside"
-"Croydon" 1112 20944 721 "E09000008" "Croydon" "Greater London"
-"North Somerset UA" 1112 20880 NA NA NA NA
-"Derby UA" 1112 20862 NA NA NA NA
-"North Tyneside" 1112 20508 108 "E08000022" "North Tyneside" "Tyne and Wear"
-"York UA" 1112 20046 NA NA NA NA
-"Bristol UA" 1112 19780 NA NA NA NA
-"Sunderland" 1112 19708 110 "E08000024" "Sunderland" "Tyne and Wear"
-"Bolton" 1112 19340 304 "E08000001" "Bolton" "Greater Manchester"
-"Westminster" 1112 18692 713 "E09000033" "Westminster" "Greater London"
-"Bexley" 1112 18600 718 "E09000004" "Bexley" "Greater London"
-"Stoke-on-Trent UA" 1112 18472 NA NA NA NA
-"Harrow" 1112 18390 725 "E09000015" "Harrow" "Greater London"
-"Hackney" 1112 18384 704 "E09000012" "Hackney" "Greater London"
-"Calderdale" 1112 18148 210 "E08000033" "Calderdale" "West Yorkshire"
-"Warrington UA" 1112 17172 NA NA NA NA
-"Peterborough UA" 1112 17000 NA NA NA NA
-"Herefordshire UA" 1112 16764 NA NA NA NA
-"Newham" 1112 16598 731 "E09000025" "Newham" "Greater London"
-"Doncaster" 1112 16526 205 "E08000017" "Doncaster" "South Yorkshire"
-"Brent" 1112 16498 719 "E09000005" "Brent" "Greater London"
-"Bury" 1112 16480 305 "E08000002" "Bury" "Greater Manchester"
-"Oldham" 1112 16394 307 "E08000004" "Oldham" "Greater Manchester"
-"Middlesbrough UA" 1112 16230 NA NA NA NA
-"Greenwich" 1112 16224 703 "E09000011" "Greenwich" "Greater London"
-"Barnsley" 1112 16078 204 "E08000016" "Barnsley" "South Yorkshire"
-"Poole UA" 1112 15900 NA NA NA NA
-"Rochdale" 1112 15774 308 "E08000005" "Rochdale" "Greater Manchester"
-"Enfield" 1112 15664 723 "E09000010" "Enfield" "Greater London"
-"Kingston upon Hull UA" 1112 15620 NA NA NA NA
-"Blackburn with Darwen UA" 1112 15400 NA NA NA NA
-"Swindon UA" 1112 14948 NA NA NA NA
-"Gateshead" 1112 14514 106 "E08000020" "Gateshead" "Tyne and Wear"
-"Haringey" 1112 14478 724 "E09000014" "Haringey" "Greater London"
-"South Gloucestershire UA" 1112 14386 NA NA NA NA
-"Brighton and Hove UA" 1112 14320 NA NA NA NA
-"Hillingdon" 1112 14074 727 "E09000017" "Hillingdon" "Greater London"
-"Portsmouth UA" 1112 13944 NA NA NA NA
-"Stockton-on-Tees UA" 1112 13888 NA NA NA NA
-"Coventry" 1112 13878 407 "E08000026" "Coventry" "West Midlands"
-"North Lincolnshire UA" 1112 13590 NA NA NA NA
-"Barking and Dagenham" 1112 13526 716 "E09000002" "Barking and Dagenham" "Greater London"
-"Wokingham UA" 1112 13470 NA NA NA NA
-"Kensington and Chelsea" 1112 13370 707 "E09000020" "Kensington and Chelsea" "Greater London"
-"Redcar and Cleveland UA" 1112 12832 NA NA NA NA
-"Torbay UA" 1112 12540 NA NA NA NA
-"Hounslow" 1112 12378 728 "E09000018" "Hounslow" "Greater London"
-"Isle of Wight UA" 1112 12016 NA NA NA NA
-"Havering" 1112 11966 726 "E09000016" "Havering" "Greater London"
-"Oxfordshire" 1112 2388.8 608 "E07000177" "Cherwell" "Oxfordshire"
-"Oxfordshire" 1112 2388.8 608 "E07000178" "Oxford" "Oxfordshire"
-"Oxfordshire" 1112 2388.8 608 "E07000179" "South Oxfordshire" "Oxfordshire"
-"Oxfordshire" 1112 2388.8 608 "E07000180" "Vale of White Horse" "Oxfordshire"
-"Oxfordshire" 1112 2388.8 608 "E07000181" "West Oxfordshire" "Oxfordshire"
-"Luton UA" 1112 11926 NA NA NA NA
-"Solihull" 1112 11828 410 "E08000029" "Solihull" "West Midlands"
-"Hammersmith and Fulham" 1112 11718 705 "E09000013" "Hammersmith and Fulham" "Greater London"
-"Blackpool UA" 1112 11656 NA NA NA NA
-"Knowsley" 1112 11350 315 "E08000011" "Knowsley" "Merseyside"
-"West Berkshire UA" 1112 11232 NA NA NA NA
-"Thurrock UA" 1112 11160 NA NA NA NA
-"Central Bedfordshire UA" 1112 11076 NA NA NA NA
-"Nottingham UA" 1112 10920 NA NA NA NA
-"Islington" 1112 10864 706 "E09000019" "Islington" "Greater London"
-"Bournemouth UA" 1112 10822 NA NA NA NA
-"Tower Hamlets" 1112 10002 711 "E09000030" "Tower Hamlets" "Greater London"
-"Telford and the Wrekin UA" 1112 9970 NA NA NA NA
-"Kingston upon Thames" 1112 9728 729 "E09000021" "Kingston upon Thames" "Greater London"
-"Merton" 1112 9476 730 "E09000024" "Merton" "Greater London"
-"Wandsworth" 1112 9294 712 "E09000032" "Wandsworth" "Greater London"
-"Camden" 1112 9278 702 "E09000007" "Camden" "Greater London"
-"Halton UA" 1112 9210 NA NA NA NA
-"Southwark" 1112 9152 710 "E09000028" "Southwark" "Greater London"
-"Windsor and Maidenhead UA" 1112 9058 NA NA NA NA
-"Reading UA" 1112 9026 NA NA NA NA
-"Walsall" 1112 8910 411 "E08000030" "Walsall" "West Midlands"
-"Sutton" 1112 8812 734 "E09000029" "Sutton" "Greater London"
-"Hartlepool UA" 1112 8374 NA NA NA NA
-"Waltham Forest" 1112 8306 735 "E09000031" "Waltham Forest" "Greater London"
-"Milton Keynes UA" 1112 8072 NA NA NA NA
-"Bedford UA" 1112 7966 NA NA NA NA
-"Darlington UA" 1112 7858 NA NA NA NA
-"Richmond upon Thames" 1112 7552 733 "E09000027" "Richmond upon Thames" "Greater London"
-"Bath and North East Somerset UA" 1112 6576 NA NA NA NA
-"Bracknell Forest UA" 1112 6238 NA NA NA NA
-"Slough UA" 1112 5222 NA NA NA NA
-"Rutland UA" 1112 3670 NA NA NA NA
-"Isles of Scilly" 1112 590 906 "E06000053" "Isles of Scilly UA" "Cornwall and Scilly"
-"City of London" 1112 422 714 "E09000001" "City of London" "Greater London"
-"Cornwall" 1213 115850 902 "E06000052" "Cornwall UA" "Cornwall and Scilly"
-"Hampshire" 1213 9586.36363636364 812 "E07000086" "Eastleigh" "Hampshire"
-"Hampshire" 1213 9586.36363636364 812 "E07000087" "Fareham" "Hampshire"
-"Hampshire" 1213 9586.36363636364 812 "E07000088" "Gosport" "Hampshire"
-"Hampshire" 1213 9586.36363636364 812 "E07000089" "Hart" "Hampshire"
-"Hampshire" 1213 9586.36363636364 812 "E07000090" "Havant" "Hampshire"
-"Hampshire" 1213 9586.36363636364 812 "E07000091" "New Forest" "Hampshire"
-"Hampshire" 1213 9586.36363636364 812 "E07000092" "Rushmoor" "Hampshire"
-"Hampshire" 1213 9586.36363636364 812 "E07000093" "Test Valley" "Hampshire"
-"Hampshire" 1213 9586.36363636364 812 "E07000094" "Winchester" "Hampshire"
-"Hampshire" 1213 9586.36363636364 812 "E07000084" "Basingstoke and Deane" "Hampshire"
-"Hampshire" 1213 9586.36363636364 812 "E07000085" "East Hampshire" "Hampshire"
-"North Yorkshire" 1213 14238.5714285714 218 "E07000163" "Craven" "North Yorkshire"
-"North Yorkshire" 1213 14238.5714285714 218 "E07000164" "Hambleton" "North Yorkshire"
-"North Yorkshire" 1213 14238.5714285714 218 "E07000165" "Harrogate" "North Yorkshire"
-"North Yorkshire" 1213 14238.5714285714 218 "E07000166" "Richmondshire" "North Yorkshire"
-"North Yorkshire" 1213 14238.5714285714 218 "E07000167" "Ryedale" "North Yorkshire"
-"North Yorkshire" 1213 14238.5714285714 218 "E07000168" "Scarborough" "North Yorkshire"
-"North Yorkshire" 1213 14238.5714285714 218 "E07000169" "Selby" "North Yorkshire"
-"Essex" 1213 8154.16666666667 620 "E07000066" "Basildon" "Essex"
-"Essex" 1213 8154.16666666667 620 "E07000067" "Braintree" "Essex"
-"Essex" 1213 8154.16666666667 620 "E07000068" "Brentwood" "Essex"
-"Essex" 1213 8154.16666666667 620 "E07000069" "Castle Point" "Essex"
-"Essex" 1213 8154.16666666667 620 "E07000070" "Chelmsford" "Essex"
-"Essex" 1213 8154.16666666667 620 "E07000071" "Colchester" "Essex"
-"Essex" 1213 8154.16666666667 620 "E07000072" "Epping Forest" "Essex"
-"Essex" 1213 8154.16666666667 620 "E07000073" "Harlow" "Essex"
-"Essex" 1213 8154.16666666667 620 "E07000074" "Maldon" "Essex"
-"Essex" 1213 8154.16666666667 620 "E07000075" "Rochford" "Essex"
-"Essex" 1213 8154.16666666667 620 "E07000076" "Tendring" "Essex"
-"Essex" 1213 8154.16666666667 620 "E07000077" "Uttlesford" "Essex"
-"Lancashire" 1213 7976.66666666667 323 "E07000117" "Burnley" "Lancashire"
-"Lancashire" 1213 7976.66666666667 323 "E07000118" "Chorley" "Lancashire"
-"Lancashire" 1213 7976.66666666667 323 "E07000119" "Fylde" "Lancashire"
-"Lancashire" 1213 7976.66666666667 323 "E07000120" "Hyndburn" "Lancashire"
-"Lancashire" 1213 7976.66666666667 323 "E07000121" "Lancaster" "Lancashire"
-"Lancashire" 1213 7976.66666666667 323 "E07000122" "Pendle" "Lancashire"
-"Lancashire" 1213 7976.66666666667 323 "E07000123" "Preston" "Lancashire"
-"Lancashire" 1213 7976.66666666667 323 "E07000124" "Ribble Valley" "Lancashire"
-"Lancashire" 1213 7976.66666666667 323 "E07000125" "Rossendale" "Lancashire"
-"Lancashire" 1213 7976.66666666667 323 "E07000126" "South Ribble" "Lancashire"
-"Lancashire" 1213 7976.66666666667 323 "E07000127" "West Lancashire" "Lancashire"
-"Lancashire" 1213 7976.66666666667 323 "E07000128" "Wyre" "Lancashire"
-"Norfolk" 1213 12598.5714285714 607 "E07000143" "Breckland" "Norfolk"
-"Norfolk" 1213 12598.5714285714 607 "E07000144" "Broadland" "Norfolk"
-"Norfolk" 1213 12598.5714285714 607 "E07000145" "Great Yarmouth" "Norfolk"
-"Norfolk" 1213 12598.5714285714 607 "E07000146" "King’s Lynn and West Norfolk" "Norfolk"
-"Norfolk" 1213 12598.5714285714 607 "E07000147" "North Norfolk" "Norfolk"
-"Norfolk" 1213 12598.5714285714 607 "E07000148" "Norwich" "Norfolk"
-"Norfolk" 1213 12598.5714285714 607 "E07000149" "South Norfolk" "Norfolk"
-"Ealing" 1213 87950 722 "E09000009" "Ealing" "Greater London"
-"Hertfordshire" 1213 7976 606 "E07000095" "Broxbourne" "Hertfordshire"
-"Hertfordshire" 1213 7976 606 "E07000096" "Dacorum" "Hertfordshire"
-"Hertfordshire" 1213 7976 606 "E07000097" "East Hertfordshire" "Hertfordshire"
-"Hertfordshire" 1213 7976 606 "E07000098" "Hertsmere" "Hertfordshire"
-"Hertfordshire" 1213 7976 606 "E07000099" "North Hertfordshire" "Hertfordshire"
-"Hertfordshire" 1213 7976 606 "E07000100" "St Albans" "Hertfordshire"
-"Hertfordshire" 1213 7976 606 "E07000101" "Stevenage" "Hertfordshire"
-"Hertfordshire" 1213 7976 606 "E07000102" "Three Rivers" "Hertfordshire"
-"Hertfordshire" 1213 7976 606 "E07000103" "Watford" "Hertfordshire"
-"Hertfordshire" 1213 7976 606 "E07000104" "Welwyn Hatfield" "Hertfordshire"
-"Devon" 1213 9213.75 912 "E07000040" "East Devon" "Devon"
-"Devon" 1213 9213.75 912 "E07000041" "Exeter" "Devon"
-"Devon" 1213 9213.75 912 "E07000042" "Mid Devon" "Devon"
-"Devon" 1213 9213.75 912 "E07000043" "North Devon" "Devon"
-"Devon" 1213 9213.75 912 "E07000044" "South Hams" "Devon"
-"Devon" 1213 9213.75 912 "E07000045" "Teignbridge" "Devon"
-"Devon" 1213 9213.75 912 "E07000046" "Torridge" "Devon"
-"Devon" 1213 9213.75 912 "E07000047" "West Devon" "Devon"
-"Derbyshire" 1213 8970 506 "E07000032" "Amber Valley" "Derbyshire"
-"Derbyshire" 1213 8970 506 "E07000033" "Bolsover" "Derbyshire"
-"Derbyshire" 1213 8970 506 "E07000034" "Chesterfield" "Derbyshire"
-"Derbyshire" 1213 8970 506 "E07000035" "Derbyshire Dales" "Derbyshire"
-"Derbyshire" 1213 8970 506 "E07000036" "Erewash" "Derbyshire"
-"Derbyshire" 1213 8970 506 "E07000037" "High Peak" "Derbyshire"
-"Derbyshire" 1213 8970 506 "E07000038" "North East Derbyshire" "Derbyshire"
-"Derbyshire" 1213 8970 506 "E07000039" "South Derbyshire" "Derbyshire"
-"Surrey" 1213 6203.63636363636 805 "E07000207" "Elmbridge" "Surrey"
-"Surrey" 1213 6203.63636363636 805 "E07000208" "Epsom and Ewell" "Surrey"
-"Surrey" 1213 6203.63636363636 805 "E07000209" "Guildford" "Surrey"
-"Surrey" 1213 6203.63636363636 805 "E07000210" "Mole Valley" "Surrey"
-"Surrey" 1213 6203.63636363636 805 "E07000211" "Reigate and Banstead" "Surrey"
-"Surrey" 1213 6203.63636363636 805 "E07000212" "Runnymede" "Surrey"
-"Surrey" 1213 6203.63636363636 805 "E07000213" "Spelthorne" "Surrey"
-"Surrey" 1213 6203.63636363636 805 "E07000214" "Surrey Heath" "Surrey"
-"Surrey" 1213 6203.63636363636 805 "E07000215" "Tandridge" "Surrey"
-"Surrey" 1213 6203.63636363636 805 "E07000216" "Waverley" "Surrey"
-"Surrey" 1213 6203.63636363636 805 "E07000217" "Woking" "Surrey"
-"Kent" 1213 5660.83333333333 820 "E07000105" "Ashford" "Kent"
-"Kent" 1213 5660.83333333333 820 "E07000106" "Canterbury" "Kent"
-"Kent" 1213 5660.83333333333 820 "E07000107" "Dartford" "Kent"
-"Kent" 1213 5660.83333333333 820 "E07000108" "Dover" "Kent"
-"Kent" 1213 5660.83333333333 820 "E07000109" "Gravesham" "Kent"
-"Kent" 1213 5660.83333333333 820 "E07000110" "Maidstone" "Kent"
-"Kent" 1213 5660.83333333333 820 "E07000111" "Sevenoaks" "Kent"
-"Kent" 1213 5660.83333333333 820 "E07000112" "Shepway" "Kent"
-"Kent" 1213 5660.83333333333 820 "E07000113" "Swale" "Kent"
-"Kent" 1213 5660.83333333333 820 "E07000114" "Thanet" "Kent"
-"Kent" 1213 5660.83333333333 820 "E07000115" "Tonbridge and Malling" "Kent"
-"Kent" 1213 5660.83333333333 820 "E07000116" "Tunbridge Wells" "Kent"
-"Nottinghamshire" 1213 9471.42857142857 511 "E07000170" "Ashfield" "Nottinghamshire"
-"Nottinghamshire" 1213 9471.42857142857 511 "E07000171" "Bassetlaw" "Nottinghamshire"
-"Nottinghamshire" 1213 9471.42857142857 511 "E07000172" "Broxtowe" "Nottinghamshire"
-"Nottinghamshire" 1213 9471.42857142857 511 "E07000173" "Gedling" "Nottinghamshire"
-"Nottinghamshire" 1213 9471.42857142857 511 "E07000174" "Mansfield" "Nottinghamshire"
-"Nottinghamshire" 1213 9471.42857142857 511 "E07000175" "Newark and Sherwood" "Nottinghamshire"
-"Nottinghamshire" 1213 9471.42857142857 511 "E07000176" "Rushcliffe" "Nottinghamshire"
-"Birmingham" 1213 65140 406 "E08000025" "Birmingham" "West Midlands"
-"Lincolnshire" 1213 9285.71428571429 503 "E07000136" "Boston" "Lincolnshire"
-"Lincolnshire" 1213 9285.71428571429 503 "E07000137" "East Lindsey" "Lincolnshire"
-"Lincolnshire" 1213 9285.71428571429 503 "E07000138" "Lincoln" "Lincolnshire"
-"Lincolnshire" 1213 9285.71428571429 503 "E07000139" "North Kesteven" "Lincolnshire"
-"Lincolnshire" 1213 9285.71428571429 503 "E07000140" "South Holland" "Lincolnshire"
-"Lincolnshire" 1213 9285.71428571429 503 "E07000141" "South Kesteven" "Lincolnshire"
-"Lincolnshire" 1213 9285.71428571429 503 "E07000142" "West Lindsey" "Lincolnshire"
-"Gloucestershire" 1213 10306.6666666667 904 "E07000078" "Cheltenham" "Gloucestershire"
-"Gloucestershire" 1213 10306.6666666667 904 "E07000079" "Cotswold" "Gloucestershire"
-"Gloucestershire" 1213 10306.6666666667 904 "E07000080" "Forest of Dean" "Gloucestershire"
-"Gloucestershire" 1213 10306.6666666667 904 "E07000081" "Gloucester" "Gloucestershire"
-"Gloucestershire" 1213 10306.6666666667 904 "E07000082" "Stroud" "Gloucestershire"
-"Gloucestershire" 1213 10306.6666666667 904 "E07000083" "Tewkesbury" "Gloucestershire"
-"Bradford" 1213 60920 209 "E08000032" "Bradford" "West Yorkshire"
-"Northamptonshire" 1213 8022.85714285714 504 "E07000150" "Corby" "Northamptonshire"
-"Northamptonshire" 1213 8022.85714285714 504 "E07000151" "Daventry" "Northamptonshire"
-"Northamptonshire" 1213 8022.85714285714 504 "E07000152" "East Northamptonshire" "Northamptonshire"
-"Northamptonshire" 1213 8022.85714285714 504 "E07000153" "Kettering" "Northamptonshire"
-"Northamptonshire" 1213 8022.85714285714 504 "E07000154" "Northampton" "Northamptonshire"
-"Northamptonshire" 1213 8022.85714285714 504 "E07000155" "South Northamptonshire" "Northamptonshire"
-"Northamptonshire" 1213 8022.85714285714 504 "E07000156" "Wellingborough" "Northamptonshire"
-"Wiltshire" 1213 52760 817 "E06000054" "Wiltshire UA" "Wiltshire"
-"Sandwell" 1213 52290 409 "E08000028" "Sandwell" "West Midlands"
-"Staffordshire" 1213 6393.75 413 "E07000192" "Cannock Chase" "Staffordshire"
-"Staffordshire" 1213 6393.75 413 "E07000193" "East Staffordshire" "Staffordshire"
-"Staffordshire" 1213 6393.75 413 "E07000194" "Lichfield" "Staffordshire"
-"Staffordshire" 1213 6393.75 413 "E07000195" "Newcastle-under-Lyme" "Staffordshire"
-"Staffordshire" 1213 6393.75 413 "E07000196" "South Staffordshire" "Staffordshire"
-"Staffordshire" 1213 6393.75 413 "E07000197" "Stafford" "Staffordshire"
-"Staffordshire" 1213 6393.75 413 "E07000198" "Staffordshire Moorlands" "Staffordshire"
-"Staffordshire" 1213 6393.75 413 "E07000199" "Tamworth" "Staffordshire"
-"Cambridgeshire" 1213 9290 623 "E07000008" "Cambridge" "Cambridgeshire"
-"Cambridgeshire" 1213 9290 623 "E07000009" "East Cambridgeshire" "Cambridgeshire"
-"Cambridgeshire" 1213 9290 623 "E07000010" "Fenland" "Cambridgeshire"
-"Cambridgeshire" 1213 9290 623 "E07000011" "Huntingdonshire" "Cambridgeshire"
-"Cambridgeshire" 1213 9290 623 "E07000012" "South Cambridgeshire" "Cambridgeshire"
-"Dudley" 1213 45250 408 "E08000027" "Dudley" "West Midlands"
-"Leicestershire" 1213 6302.85714285714 508 "E07000129" "Blaby" "Leicestershire"
-"Leicestershire" 1213 6302.85714285714 508 "E07000130" "Charnwood" "Leicestershire"
-"Leicestershire" 1213 6302.85714285714 508 "E07000131" "Harborough" "Leicestershire"
-"Leicestershire" 1213 6302.85714285714 508 "E07000132" "Hinckley and Bosworth" "Leicestershire"
-"Leicestershire" 1213 6302.85714285714 508 "E07000133" "Melton" "Leicestershire"
-"Leicestershire" 1213 6302.85714285714 508 "E07000134" "North West Leicestershire" "Leicestershire"
-"Leicestershire" 1213 6302.85714285714 508 "E07000135" "Oadby and Wigston" "Leicestershire"
-"Worcestershire" 1213 7250 416 "E07000234" "Bromsgrove" "Worcestershire"
-"Worcestershire" 1213 7250 416 "E07000235" "Malvern Hills" "Worcestershire"
-"Worcestershire" 1213 7250 416 "E07000236" "Redditch" "Worcestershire"
-"Worcestershire" 1213 7250 416 "E07000237" "Worcester" "Worcestershire"
-"Worcestershire" 1213 7250 416 "E07000238" "Wychavon" "Worcestershire"
-"Worcestershire" 1213 7250 416 "E07000239" "Wyre Forest" "Worcestershire"
-"Cumbria" 1213 6970 102 "E07000026" "Allerdale" "Cumbria"
-"Cumbria" 1213 6970 102 "E07000027" "Barrow-in-Furness" "Cumbria"
-"Cumbria" 1213 6970 102 "E07000028" "Carlisle" "Cumbria"
-"Cumbria" 1213 6970 102 "E07000029" "Copeland" "Cumbria"
-"Cumbria" 1213 6970 102 "E07000030" "Eden" "Cumbria"
-"Cumbria" 1213 6970 102 "E07000031" "South Lakeland" "Cumbria"
-"Medway Towns" 1213 41810 821 "E06000035" "Medway UA" "Kent"
-"Kirklees" 1213 39330 211 "E08000034" "Kirklees" "West Yorkshire"
-"Buckinghamshire" 1213 9672.5 612 "E07000004" "Aylesbury Vale" "Buckinghamshire"
-"Buckinghamshire" 1213 9672.5 612 "E07000005" "Chiltern" "Buckinghamshire"
-"Buckinghamshire" 1213 9672.5 612 "E07000006" "South Bucks" "Buckinghamshire"
-"Buckinghamshire" 1213 9672.5 612 "E07000007" "Wycombe" "Buckinghamshire"
-"West Sussex" 1213 5488.57142857143 807 "E07000223" "Adur" "West Sussex"
-"West Sussex" 1213 5488.57142857143 807 "E07000224" "Arun" "West Sussex"
-"West Sussex" 1213 5488.57142857143 807 "E07000225" "Chichester" "West Sussex"
-"West Sussex" 1213 5488.57142857143 807 "E07000226" "Crawley" "West Sussex"
-"West Sussex" 1213 5488.57142857143 807 "E07000227" "Horsham" "West Sussex"
-"West Sussex" 1213 5488.57142857143 807 "E07000228" "Mid Sussex" "West Sussex"
-"West Sussex" 1213 5488.57142857143 807 "E07000229" "Worthing" "West Sussex"
-"Leeds" 1213 36560 212 "E08000035" "Leeds" "West Yorkshire"
-"Wakefield" 1213 34680 213 "E08000036" "Wakefield" "West Yorkshire"
-"Sefton" 1213 34130 317 "E08000014" "Sefton" "Merseyside"
-"Somerset" 1213 6398 905 "E07000187" "Mendip" "Somerset"
-"Somerset" 1213 6398 905 "E07000188" "Sedgemoor" "Somerset"
-"Somerset" 1213 6398 905 "E07000189" "South Somerset" "Somerset"
-"Somerset" 1213 6398 905 "E07000190" "Taunton Deane" "Somerset"
-"Somerset" 1213 6398 905 "E07000191" "West Somerset" "Somerset"
-"Durham" 1213 30920 116 "E06000047" "County Durham UA" "Durham"
-"Cheshire East" 1213 30810 326 "E06000049" "Cheshire East UA" "Cheshire"
-"Cheshire West and Chester" 1213 30710 327 "E06000050" "Chester" "Cheshire"
-"Southend-on-Sea" 1213 30710 621 "E06000033" "Southend-on-Sea UA" "Essex"
-"Liverpool" 1213 30430 316 "E08000012" "Liverpool" "Merseyside"
-"Stockport" 1213 29440 310 "E08000007" "Stockport" "Greater Manchester"
-"East Sussex" 1213 5876 815 "E07000061" "Eastbourne" "East Sussex"
-"East Sussex" 1213 5876 815 "E07000062" "Hastings" "East Sussex"
-"East Sussex" 1213 5876 815 "E07000063" "Lewes" "East Sussex"
-"East Sussex" 1213 5876 815 "E07000064" "Rother" "East Sussex"
-"East Sussex" 1213 5876 815 "E07000065" "Wealden" "East Sussex"
-"Lambeth" 1213 29200 708 "E09000022" "Lambeth" "Greater London"
-"Dorset" 1213 4820 809 "E07000048" "Christchurch" "Dorset"
-"Dorset" 1213 4820 809 "E07000049" "East Dorset" "Dorset"
-"Dorset" 1213 4820 809 "E07000050" "North Dorset" "Dorset"
-"Dorset" 1213 4820 809 "E07000051" "Purbeck" "Dorset"
-"Dorset" 1213 4820 809 "E07000052" "West Dorset" "Dorset"
-"Dorset" 1213 4820 809 "E07000053" "Weymouth and Portland" "Dorset"
-"Trafford" 1213 28770 312 "E08000009" "Trafford" "Greater Manchester"
-"Sheffield" 1213 28660 207 "E08000019" "Sheffield" "South Yorkshire"
-"Salford" 1213 28440 309 "E08000006" "Salford" "Greater Manchester"
-"Wirral" 1213 27980 319 "E08000015" "Wirral" "Merseyside"
-"Northumberland" 1213 27640 104 "E06000048" "Northumberland UA" "Northumberland"
-"East Riding of Yorkshire" 1213 27480 214 "E06000011" "East Riding of Yorkshire UA" "East Riding of Yorkshire"
-"St. Helens" 1213 26960 318 "E08000013" "St. Helens" "Merseyside"
-"Wolverhampton" 1213 26700 412 "E08000031" "Wolverhampton" "West Midlands"
-"Manchester" 1213 26640 306 "E08000003" "Manchester" "Greater Manchester"
-"Lewisham" 1213 26390 709 "E09000023" "Lewisham" "Greater London"
-"Redbridge" 1213 22760 732 "E09000026" "Redbridge" "Greater London"
-"Leicester" 1213 22600 509 "E06000016" "Leicester UA" "Leicestershire"
-"North Somerset" 1213 22510 910 "E06000024" "North Somerset UA" "Somerset"
-"Suffolk" 1213 3198.57142857143 609 "E07000200" "Babergh" "Suffolk"
-"Suffolk" 1213 3198.57142857143 609 "E07000201" "Forest Heath" "Suffolk"
-"Suffolk" 1213 3198.57142857143 609 "E07000202" "Ipswich" "Suffolk"
-"Suffolk" 1213 3198.57142857143 609 "E07000203" "Mid Suffolk" "Suffolk"
-"Suffolk" 1213 3198.57142857143 609 "E07000204" "St Edmundsbury" "Suffolk"
-"Suffolk" 1213 3198.57142857143 609 "E07000205" "Suffolk Coastal" "Suffolk"
-"Suffolk" 1213 3198.57142857143 609 "E07000206" "Waveney" "Suffolk"
-"Bromley" 1213 22180 720 "E09000006" "Bromley" "Greater London"
-"York" 1213 21790 219 "E06000014" "York UA" "North Yorkshire"
-"Sunderland" 1213 21630 110 "E08000024" "Sunderland" "Tyne and Wear"
-"Rotherham" 1213 21410 206 "E08000018" "Rotherham" "South Yorkshire"
-"Newham" 1213 21270 731 "E09000025" "Newham" "Greater London"
-"Warwickshire" 1213 4228 404 "E07000218" "North Warwickshire" "Warwickshire"
-"Warwickshire" 1213 4228 404 "E07000219" "Nuneaton and Bedworth" "Warwickshire"
-"Warwickshire" 1213 4228 404 "E07000220" "Rugby" "Warwickshire"
-"Warwickshire" 1213 4228 404 "E07000221" "Stratford-on-Avon" "Warwickshire"
-"Warwickshire" 1213 4228 404 "E07000222" "Warwick" "Warwickshire"
-"Barking and Dagenham" 1213 20760 716 "E09000002" "Barking and Dagenham" "Greater London"
-"Herefordshire" 1213 20540 415 "E06000019" "Herefordshire, County of UA" "Hereforshire"
-"Wigan" 1213 20420 313 "E08000010" "Wigan" "Greater Manchester"
-"Barnet" 1213 20120 717 "E09000003" "Barnet" "Greater London"
-"Greenwich" 1213 19900 703 "E09000011" "Greenwich" "Greater London"
-"South Tyneside" 1213 19900 109 "E08000023" "South Tyneside" "Tyne and Wear"
-"Newcastle upon Tyne" 1213 19820 107 "E08000021" "Newcastle upon Tyne" "Tyne and Wear"
-"Harrow" 1213 19650 725 "E09000015" "Harrow" "Greater London"
-"Derby" 1213 19200 507 "E06000015" "Derby UA" "Derbyshire"
-"Bolton" 1213 19030 304 "E08000001" "Bolton" "Greater Manchester"
-"Bristol" 1213 18350 909 "E06000023" "Bristol, City of UA" "Bristol"
-"Croydon" 1213 18200 721 "E09000008" "Croydon" "Greater London"
-"Southampton" 1213 18160 814 "E06000045" "Southampton UA" "Hampshire"
-"North Tyneside" 1213 17200 108 "E08000022" "North Tyneside" "Tyne and Wear"
-"Tameside" 1213 17060 311 "E08000008" "Tameside" "Greater Manchester"
-"Haringey" 1213 16750 724 "E09000014" "Haringey" "Greater London"
-"Peterborough" 1213 16680 624 "E06000031" "Peterborough UA" "Cambridgeshire"
-"Calderdale" 1213 16640 210 "E08000033" "Calderdale" "West Yorkshire"
-"Doncaster" 1213 16640 205 "E08000017" "Doncaster" "South Yorkshire"
-"Plymouth" 1213 16610 913 "E06000026" "Plymouth UA" "Devon"
-"Bexley" 1213 16440 718 "E09000004" "Bexley" "Greater London"
-"Kingston upon Hull" 1213 16320 215 "E06000010" "Kingston upon Hull, City of UA" "East Riding of Yorkshire"
-"North East Lincolnshire" 1213 16000 216 "E06000012" "North East Lincolnshire UA" "Lincolnshire"
-"Swindon" 1213 15860 819 "E06000030" "Swindon UA" "Wiltshire"
-"Bury" 1213 15760 305 "E08000002" "Bury" "Greater Manchester"
-"Middlesbrough" 1213 15510 112 "E06000002" "Middlesbrough UA" "North Yorkshire"
-"North Lincolnshire" 1213 15410 217 "E06000013" "North Lincolnshire UA" "Lincolnshire"
-"Enfield" 1213 15240 723 "E09000010" "Enfield" "Greater London"
-"Hackney" 1213 15130 704 "E09000012" "Hackney" "Greater London"
-"Stoke-on-Trent" 1213 14910 414 "E06000021" "Stoke-on-Trent UA" "Staffordshire"
-"Oldham" 1213 14830 307 "E08000004" "Oldham" "Greater Manchester"
-"Rochdale" 1213 14730 308 "E08000005" "Rochdale" "Greater Manchester"
-"Westminster" 1213 14600 713 "E09000033" "Westminster" "Greater London"
-"Coventry" 1213 13920 407 "E08000026" "Coventry" "West Midlands"
-"Barnsley" 1213 13910 204 "E08000016" "Barnsley" "South Yorkshire"
-"Luton" 1213 13310 611 "E06000032" "Luton UA" "Bedforshire"
-"Poole" 1213 13250 811 "E06000029" "Poole UA" "Dorset"
-"Shropshire" 1213 13060 417 "E06000051" "Shropshire UA" "Shropshire"
-"Gateshead" 1213 13010 106 "E08000020" "Gateshead" "Tyne and Wear"
-"Warrington" 1213 12760 322 "E06000007" "Warrington UA" "Cheshire"
-"Kensington and Chelsea" 1213 12710 707 "E09000020" "Kensington and Chelsea" "Greater London"
-"Brighton and Hove" 1213 12660 816 "E06000043" "Brighton and Hove UA" "East Sussex"
-"South Gloucestershire" 1213 12490 911 "E06000025" "South Gloucestershire UA" "Gloucestershire"
-"Torbay" 1213 12320 914 "E06000027" "Torbay UA" "Devon"
-"Havering" 1213 12260 726 "E09000016" "Havering" "Greater London"
-"Wokingham" 1213 12090 619 "E06000041" "Wokingham UA" "Berkshire"
-"Bournemouth" 1213 11880 810 "E06000028" "Bournemouth UA" "Dorset"
-"Redcar and Cleveland" 1213 11870 113 "E06000003" "Redcar and Cleveland UA" "North Yorkshire"
-"Brent" 1213 11730 719 "E09000005" "Brent" "Greater London"
-"Stockton-on-Tees" 1213 11680 114 "E06000004" "Stockton-on-Tees UA" "Durham"
-"Oxfordshire" 1213 2320 608 "E07000177" "Cherwell" "Oxfordshire"
-"Oxfordshire" 1213 2320 608 "E07000178" "Oxford" "Oxfordshire"
-"Oxfordshire" 1213 2320 608 "E07000179" "South Oxfordshire" "Oxfordshire"
-"Oxfordshire" 1213 2320 608 "E07000180" "Vale of White Horse" "Oxfordshire"
-"Oxfordshire" 1213 2320 608 "E07000181" "West Oxfordshire" "Oxfordshire"
-"Blackburn with Darwen" 1213 11390 324 "E06000008" "Blackburn with Darwen UA" "Lancashire"
-"Knowsley" 1213 11030 315 "E08000011" "Knowsley" "Merseyside"
-"Central Bedfordshire" 1213 10990 626 "E06000056" "Central Bedfordshire UA" "Bedforshire"
-"Waltham Forest" 1213 10920 735 "E09000031" "Waltham Forest" "Greater London"
-"Portsmouth" 1213 10840 813 "E06000044" "Portsmouth UA" "Hampshire"
-"Tower Hamlets" 1213 10720 711 "E09000030" "Tower Hamlets" "Greater London"
-"Hounslow" 1213 10650 728 "E09000018" "Hounslow" "Greater London"
-"Nottingham" 1213 10460 512 "E06000018" "Nottingham UA" "Nottinghamshire"
-"Solihull" 1213 10100 410 "E08000029" "Solihull" "West Midlands"
-"Hartlepool" 1213 9690 111 "E06000001" "Hartlepool UA" "Durham"
-"Camden" 1213 9390 702 "E09000007" "Camden" "Greater London"
-"Halton" 1213 9290 321 "E06000006" "Halton UA" "Cheshire"
-"Richmond upon Thames" 1213 9250 733 "E09000027" "Richmond upon Thames" "Greater London"
-"Thurrock" 1213 9210 622 "E06000034" "Thurrock UA" "Essex"
-"Southwark" 1213 9150 710 "E09000028" "Southwark" "Greater London"
-"Isle of Wight" 1213 9000 803 "E06000046" "Isle of Wight UA" "Isle of Wight"
-"Walsall" 1213 8920 411 "E08000030" "Walsall" "West Midlands"
-"Wandsworth" 1213 8880 712 "E09000032" "Wandsworth" "Greater London"
-"West Berkshire" 1213 8680 615 "E06000037" "West Berkshire UA" "Berkshire"
-"Milton Keynes" 1213 8550 613 "E06000042" "Milton Keynes UA" "Buckinghamshire"
-"Windsor and Maidenhead" 1213 8480 618 "E06000040" "Windsor and Maidenhead UA" "Berkshire"
-"Islington" 1213 8060 706 "E09000019" "Islington" "Greater London"
-"Kingston upon Thames" 1213 7740 729 "E09000021" "Kingston upon Thames" "Greater London"
-"Bracknell Forest" 1213 7690 614 "E06000036" "Bracknell Forest UA" "Berkshire"
-"Sutton" 1213 7580 734 "E09000029" "Sutton" "Greater London"
-"Hillingdon" 1213 7530 727 "E09000017" "Hillingdon" "Greater London"
-"Darlington" 1213 7500 117 "E06000005" "Darlington UA" "Durham"
-"Bedford" 1213 7260 625 "E06000055" "Bedford UA" "Bedforshire"
-"Merton" 1213 6860 730 "E09000024" "Merton" "Greater London"
-"Telford and the Wrekin" 1213 6690 418 "E06000020" "Telford and Wrekin UA" "Shropshire"
-"Blackpool" 1213 6480 325 "E06000009" "Blackpool UA" "Lancashire"
-"Bath and North East Somerset" 1213 5830 908 "E06000022" "Bath and North East Somerset UA" "Somerset"
-"Reading" 1213 5420 616 "E06000038" "Reading UA" "Berkshire"
-"Hammersmith and Fulham" 1213 5160 705 "E09000013" "Hammersmith and Fulham" "Greater London"
-"Slough" 1213 3530 617 "E06000039" "Slough UA" "Berkshire"
-"Rutland" 1213 3390 510 "E06000017" "Rutland UA" "Rutland"
-"Isles of Scilly" 1213 540 906 "E06000053" "Isles of Scilly UA" "Cornwall and Scilly"
-"City of London" 1213 290 714 "E09000001" "City of London" "Greater London"
-"Cornwall" 1314 123940 902 "E06000052" "Cornwall UA" "Cornwall and Scilly"
-"Hampshire" 1314 9939.09090909091 812 "E07000086" "Eastleigh" "Hampshire"
-"Hampshire" 1314 9939.09090909091 812 "E07000087" "Fareham" "Hampshire"
-"Hampshire" 1314 9939.09090909091 812 "E07000088" "Gosport" "Hampshire"
-"Hampshire" 1314 9939.09090909091 812 "E07000089" "Hart" "Hampshire"
-"Hampshire" 1314 9939.09090909091 812 "E07000090" "Havant" "Hampshire"
-"Hampshire" 1314 9939.09090909091 812 "E07000091" "New Forest" "Hampshire"
-"Hampshire" 1314 9939.09090909091 812 "E07000092" "Rushmoor" "Hampshire"
-"Hampshire" 1314 9939.09090909091 812 "E07000093" "Test Valley" "Hampshire"
-"Hampshire" 1314 9939.09090909091 812 "E07000094" "Winchester" "Hampshire"
-"Hampshire" 1314 9939.09090909091 812 "E07000084" "Basingstoke and Deane" "Hampshire"
-"Hampshire" 1314 9939.09090909091 812 "E07000085" "East Hampshire" "Hampshire"
-"North Yorkshire" 1314 14795.7142857143 218 "E07000163" "Craven" "North Yorkshire"
-"North Yorkshire" 1314 14795.7142857143 218 "E07000164" "Hambleton" "North Yorkshire"
-"North Yorkshire" 1314 14795.7142857143 218 "E07000165" "Harrogate" "North Yorkshire"
-"North Yorkshire" 1314 14795.7142857143 218 "E07000166" "Richmondshire" "North Yorkshire"
-"North Yorkshire" 1314 14795.7142857143 218 "E07000167" "Ryedale" "North Yorkshire"
-"North Yorkshire" 1314 14795.7142857143 218 "E07000168" "Scarborough" "North Yorkshire"
-"North Yorkshire" 1314 14795.7142857143 218 "E07000169" "Selby" "North Yorkshire"
-"Essex" 1314 8241.66666666667 620 "E07000066" "Basildon" "Essex"
-"Essex" 1314 8241.66666666667 620 "E07000067" "Braintree" "Essex"
-"Essex" 1314 8241.66666666667 620 "E07000068" "Brentwood" "Essex"
-"Essex" 1314 8241.66666666667 620 "E07000069" "Castle Point" "Essex"
-"Essex" 1314 8241.66666666667 620 "E07000070" "Chelmsford" "Essex"
-"Essex" 1314 8241.66666666667 620 "E07000071" "Colchester" "Essex"
-"Essex" 1314 8241.66666666667 620 "E07000072" "Epping Forest" "Essex"
-"Essex" 1314 8241.66666666667 620 "E07000073" "Harlow" "Essex"
-"Essex" 1314 8241.66666666667 620 "E07000074" "Maldon" "Essex"
-"Essex" 1314 8241.66666666667 620 "E07000075" "Rochford" "Essex"
-"Essex" 1314 8241.66666666667 620 "E07000076" "Tendring" "Essex"
-"Essex" 1314 8241.66666666667 620 "E07000077" "Uttlesford" "Essex"
-"Lancashire" 1314 7868.33333333333 323 "E07000117" "Burnley" "Lancashire"
-"Lancashire" 1314 7868.33333333333 323 "E07000118" "Chorley" "Lancashire"
-"Lancashire" 1314 7868.33333333333 323 "E07000119" "Fylde" "Lancashire"
-"Lancashire" 1314 7868.33333333333 323 "E07000120" "Hyndburn" "Lancashire"
-"Lancashire" 1314 7868.33333333333 323 "E07000121" "Lancaster" "Lancashire"
-"Lancashire" 1314 7868.33333333333 323 "E07000122" "Pendle" "Lancashire"
-"Lancashire" 1314 7868.33333333333 323 "E07000123" "Preston" "Lancashire"
-"Lancashire" 1314 7868.33333333333 323 "E07000124" "Ribble Valley" "Lancashire"
-"Lancashire" 1314 7868.33333333333 323 "E07000125" "Rossendale" "Lancashire"
-"Lancashire" 1314 7868.33333333333 323 "E07000126" "South Ribble" "Lancashire"
-"Lancashire" 1314 7868.33333333333 323 "E07000127" "West Lancashire" "Lancashire"
-"Lancashire" 1314 7868.33333333333 323 "E07000128" "Wyre" "Lancashire"
-"Lincolnshire" 1314 12784.2857142857 503 "E07000136" "Boston" "Lincolnshire"
-"Lincolnshire" 1314 12784.2857142857 503 "E07000137" "East Lindsey" "Lincolnshire"
-"Lincolnshire" 1314 12784.2857142857 503 "E07000138" "Lincoln" "Lincolnshire"
-"Lincolnshire" 1314 12784.2857142857 503 "E07000139" "North Kesteven" "Lincolnshire"
-"Lincolnshire" 1314 12784.2857142857 503 "E07000140" "South Holland" "Lincolnshire"
-"Lincolnshire" 1314 12784.2857142857 503 "E07000141" "South Kesteven" "Lincolnshire"
-"Lincolnshire" 1314 12784.2857142857 503 "E07000142" "West Lindsey" "Lincolnshire"
-"Hertfordshire" 1314 8937 606 "E07000095" "Broxbourne" "Hertfordshire"
-"Hertfordshire" 1314 8937 606 "E07000096" "Dacorum" "Hertfordshire"
-"Hertfordshire" 1314 8937 606 "E07000097" "East Hertfordshire" "Hertfordshire"
-"Hertfordshire" 1314 8937 606 "E07000098" "Hertsmere" "Hertfordshire"
-"Hertfordshire" 1314 8937 606 "E07000099" "North Hertfordshire" "Hertfordshire"
-"Hertfordshire" 1314 8937 606 "E07000100" "St Albans" "Hertfordshire"
-"Hertfordshire" 1314 8937 606 "E07000101" "Stevenage" "Hertfordshire"
-"Hertfordshire" 1314 8937 606 "E07000102" "Three Rivers" "Hertfordshire"
-"Hertfordshire" 1314 8937 606 "E07000103" "Watford" "Hertfordshire"
-"Hertfordshire" 1314 8937 606 "E07000104" "Welwyn Hatfield" "Hertfordshire"
-"Ealing" 1314 88980 722 "E09000009" "Ealing" "Greater London"
-"Norfolk" 1314 12088.5714285714 607 "E07000143" "Breckland" "Norfolk"
-"Norfolk" 1314 12088.5714285714 607 "E07000144" "Broadland" "Norfolk"
-"Norfolk" 1314 12088.5714285714 607 "E07000145" "Great Yarmouth" "Norfolk"
-"Norfolk" 1314 12088.5714285714 607 "E07000146" "King’s Lynn and West Norfolk" "Norfolk"
-"Norfolk" 1314 12088.5714285714 607 "E07000147" "North Norfolk" "Norfolk"
-"Norfolk" 1314 12088.5714285714 607 "E07000148" "Norwich" "Norfolk"
-"Norfolk" 1314 12088.5714285714 607 "E07000149" "South Norfolk" "Norfolk"
-"Derbyshire" 1314 9967.5 506 "E07000032" "Amber Valley" "Derbyshire"
-"Derbyshire" 1314 9967.5 506 "E07000033" "Bolsover" "Derbyshire"
-"Derbyshire" 1314 9967.5 506 "E07000034" "Chesterfield" "Derbyshire"
-"Derbyshire" 1314 9967.5 506 "E07000035" "Derbyshire Dales" "Derbyshire"
-"Derbyshire" 1314 9967.5 506 "E07000036" "Erewash" "Derbyshire"
-"Derbyshire" 1314 9967.5 506 "E07000037" "High Peak" "Derbyshire"
-"Derbyshire" 1314 9967.5 506 "E07000038" "North East Derbyshire" "Derbyshire"
-"Derbyshire" 1314 9967.5 506 "E07000039" "South Derbyshire" "Derbyshire"
-"Kent" 1314 6276.66666666667 820 "E07000105" "Ashford" "Kent"
-"Kent" 1314 6276.66666666667 820 "E07000106" "Canterbury" "Kent"
-"Kent" 1314 6276.66666666667 820 "E07000107" "Dartford" "Kent"
-"Kent" 1314 6276.66666666667 820 "E07000108" "Dover" "Kent"
-"Kent" 1314 6276.66666666667 820 "E07000109" "Gravesham" "Kent"
-"Kent" 1314 6276.66666666667 820 "E07000110" "Maidstone" "Kent"
-"Kent" 1314 6276.66666666667 820 "E07000111" "Sevenoaks" "Kent"
-"Kent" 1314 6276.66666666667 820 "E07000112" "Shepway" "Kent"
-"Kent" 1314 6276.66666666667 820 "E07000113" "Swale" "Kent"
-"Kent" 1314 6276.66666666667 820 "E07000114" "Thanet" "Kent"
-"Kent" 1314 6276.66666666667 820 "E07000115" "Tonbridge and Malling" "Kent"
-"Kent" 1314 6276.66666666667 820 "E07000116" "Tunbridge Wells" "Kent"
-"Devon" 1314 9105 912 "E07000040" "East Devon" "Devon"
-"Devon" 1314 9105 912 "E07000041" "Exeter" "Devon"
-"Devon" 1314 9105 912 "E07000042" "Mid Devon" "Devon"
-"Devon" 1314 9105 912 "E07000043" "North Devon" "Devon"
-"Devon" 1314 9105 912 "E07000044" "South Hams" "Devon"
-"Devon" 1314 9105 912 "E07000045" "Teignbridge" "Devon"
-"Devon" 1314 9105 912 "E07000046" "Torridge" "Devon"
-"Devon" 1314 9105 912 "E07000047" "West Devon" "Devon"
-"Birmingham" 1314 71800 406 "E08000025" "Birmingham" "West Midlands"
-"Surrey" 1314 6300 805 "E07000207" "Elmbridge" "Surrey"
-"Surrey" 1314 6300 805 "E07000208" "Epsom and Ewell" "Surrey"
-"Surrey" 1314 6300 805 "E07000209" "Guildford" "Surrey"
-"Surrey" 1314 6300 805 "E07000210" "Mole Valley" "Surrey"
-"Surrey" 1314 6300 805 "E07000211" "Reigate and Banstead" "Surrey"
-"Surrey" 1314 6300 805 "E07000212" "Runnymede" "Surrey"
-"Surrey" 1314 6300 805 "E07000213" "Spelthorne" "Surrey"
-"Surrey" 1314 6300 805 "E07000214" "Surrey Heath" "Surrey"
-"Surrey" 1314 6300 805 "E07000215" "Tandridge" "Surrey"
-"Surrey" 1314 6300 805 "E07000216" "Waverley" "Surrey"
-"Surrey" 1314 6300 805 "E07000217" "Woking" "Surrey"
-"Gloucestershire" 1314 10285 904 "E07000078" "Cheltenham" "Gloucestershire"
-"Gloucestershire" 1314 10285 904 "E07000079" "Cotswold" "Gloucestershire"
-"Gloucestershire" 1314 10285 904 "E07000080" "Forest of Dean" "Gloucestershire"
-"Gloucestershire" 1314 10285 904 "E07000081" "Gloucester" "Gloucestershire"
-"Gloucestershire" 1314 10285 904 "E07000082" "Stroud" "Gloucestershire"
-"Gloucestershire" 1314 10285 904 "E07000083" "Tewkesbury" "Gloucestershire"
-"Wiltshire" 1314 55290 817 "E06000054" "Wiltshire UA" "Wiltshire"
-"Nottinghamshire" 1314 7795.71428571429 511 "E07000170" "Ashfield" "Nottinghamshire"
-"Nottinghamshire" 1314 7795.71428571429 511 "E07000171" "Bassetlaw" "Nottinghamshire"
-"Nottinghamshire" 1314 7795.71428571429 511 "E07000172" "Broxtowe" "Nottinghamshire"
-"Nottinghamshire" 1314 7795.71428571429 511 "E07000173" "Gedling" "Nottinghamshire"
-"Nottinghamshire" 1314 7795.71428571429 511 "E07000174" "Mansfield" "Nottinghamshire"
-"Nottinghamshire" 1314 7795.71428571429 511 "E07000175" "Newark and Sherwood" "Nottinghamshire"
-"Nottinghamshire" 1314 7795.71428571429 511 "E07000176" "Rushcliffe" "Nottinghamshire"
-"Bradford" 1314 53560 209 "E08000032" "Bradford" "West Yorkshire"
-"Buckinghamshire" 1314 12877.5 612 "E07000004" "Aylesbury Vale" "Buckinghamshire"
-"Buckinghamshire" 1314 12877.5 612 "E07000005" "Chiltern" "Buckinghamshire"
-"Buckinghamshire" 1314 12877.5 612 "E07000006" "South Bucks" "Buckinghamshire"
-"Buckinghamshire" 1314 12877.5 612 "E07000007" "Wycombe" "Buckinghamshire"
-"Sandwell" 1314 51410 409 "E08000028" "Sandwell" "West Midlands"
-"Leicestershire" 1314 7151.42857142857 508 "E07000129" "Blaby" "Leicestershire"
-"Leicestershire" 1314 7151.42857142857 508 "E07000130" "Charnwood" "Leicestershire"
-"Leicestershire" 1314 7151.42857142857 508 "E07000131" "Harborough" "Leicestershire"
-"Leicestershire" 1314 7151.42857142857 508 "E07000132" "Hinckley and Bosworth" "Leicestershire"
-"Leicestershire" 1314 7151.42857142857 508 "E07000133" "Melton" "Leicestershire"
-"Leicestershire" 1314 7151.42857142857 508 "E07000134" "North West Leicestershire" "Leicestershire"
-"Leicestershire" 1314 7151.42857142857 508 "E07000135" "Oadby and Wigston" "Leicestershire"
-"Cambridgeshire" 1314 9852 623 "E07000008" "Cambridge" "Cambridgeshire"
-"Cambridgeshire" 1314 9852 623 "E07000009" "East Cambridgeshire" "Cambridgeshire"
-"Cambridgeshire" 1314 9852 623 "E07000010" "Fenland" "Cambridgeshire"
-"Cambridgeshire" 1314 9852 623 "E07000011" "Huntingdonshire" "Cambridgeshire"
-"Cambridgeshire" 1314 9852 623 "E07000012" "South Cambridgeshire" "Cambridgeshire"
-"Staffordshire" 1314 6040 413 "E07000192" "Cannock Chase" "Staffordshire"
-"Staffordshire" 1314 6040 413 "E07000193" "East Staffordshire" "Staffordshire"
-"Staffordshire" 1314 6040 413 "E07000194" "Lichfield" "Staffordshire"
-"Staffordshire" 1314 6040 413 "E07000195" "Newcastle-under-Lyme" "Staffordshire"
-"Staffordshire" 1314 6040 413 "E07000196" "South Staffordshire" "Staffordshire"
-"Staffordshire" 1314 6040 413 "E07000197" "Stafford" "Staffordshire"
-"Staffordshire" 1314 6040 413 "E07000198" "Staffordshire Moorlands" "Staffordshire"
-"Staffordshire" 1314 6040 413 "E07000199" "Tamworth" "Staffordshire"
-"Kirklees" 1314 48140 211 "E08000034" "Kirklees" "West Yorkshire"
-"Dudley" 1314 46240 408 "E08000027" "Dudley" "West Midlands"
-"Medway Towns" 1314 42850 821 "E06000035" "Medway UA" "Kent"
-"Cumbria" 1314 7093.33333333333 102 "E07000026" "Allerdale" "Cumbria"
-"Cumbria" 1314 7093.33333333333 102 "E07000027" "Barrow-in-Furness" "Cumbria"
-"Cumbria" 1314 7093.33333333333 102 "E07000028" "Carlisle" "Cumbria"
-"Cumbria" 1314 7093.33333333333 102 "E07000029" "Copeland" "Cumbria"
-"Cumbria" 1314 7093.33333333333 102 "E07000030" "Eden" "Cumbria"
-"Cumbria" 1314 7093.33333333333 102 "E07000031" "South Lakeland" "Cumbria"
-"Manchester" 1314 40530 306 "E08000003" "Manchester" "Greater Manchester"
-"Northamptonshire" 1314 5732.85714285714 504 "E07000150" "Corby" "Northamptonshire"
-"Northamptonshire" 1314 5732.85714285714 504 "E07000151" "Daventry" "Northamptonshire"
-"Northamptonshire" 1314 5732.85714285714 504 "E07000152" "East Northamptonshire" "Northamptonshire"
-"Northamptonshire" 1314 5732.85714285714 504 "E07000153" "Kettering" "Northamptonshire"
-"Northamptonshire" 1314 5732.85714285714 504 "E07000154" "Northampton" "Northamptonshire"
-"Northamptonshire" 1314 5732.85714285714 504 "E07000155" "South Northamptonshire" "Northamptonshire"
-"Northamptonshire" 1314 5732.85714285714 504 "E07000156" "Wellingborough" "Northamptonshire"
-"Wakefield" 1314 39470 213 "E08000036" "Wakefield" "West Yorkshire"
-"Worcestershire" 1314 6470 416 "E07000234" "Bromsgrove" "Worcestershire"
-"Worcestershire" 1314 6470 416 "E07000235" "Malvern Hills" "Worcestershire"
-"Worcestershire" 1314 6470 416 "E07000236" "Redditch" "Worcestershire"
-"Worcestershire" 1314 6470 416 "E07000237" "Worcester" "Worcestershire"
-"Worcestershire" 1314 6470 416 "E07000238" "Wychavon" "Worcestershire"
-"Worcestershire" 1314 6470 416 "E07000239" "Wyre Forest" "Worcestershire"
-"Southend-on-Sea" 1314 36930 621 "E06000033" "Southend-on-Sea UA" "Essex"
-"Leeds" 1314 35060 212 "E08000035" "Leeds" "West Yorkshire"
-"West Sussex" 1314 4831.42857142857 807 "E07000223" "Adur" "West Sussex"
-"West Sussex" 1314 4831.42857142857 807 "E07000224" "Arun" "West Sussex"
-"West Sussex" 1314 4831.42857142857 807 "E07000225" "Chichester" "West Sussex"
-"West Sussex" 1314 4831.42857142857 807 "E07000226" "Crawley" "West Sussex"
-"West Sussex" 1314 4831.42857142857 807 "E07000227" "Horsham" "West Sussex"
-"West Sussex" 1314 4831.42857142857 807 "E07000228" "Mid Sussex" "West Sussex"
-"West Sussex" 1314 4831.42857142857 807 "E07000229" "Worthing" "West Sussex"
-"Sheffield" 1314 32300 207 "E08000019" "Sheffield" "South Yorkshire"
-"Cheshire West and Chester" 1314 32280 327 "E06000050" "Chester" "Cheshire"
-"Lambeth" 1314 31160 708 "E09000022" "Lambeth" "Greater London"
-"Liverpool" 1314 30690 316 "E08000012" "Liverpool" "Merseyside"
-"Calderdale" 1314 30200 210 "E08000033" "Calderdale" "West Yorkshire"
-"East Riding of Yorkshire" 1314 28870 214 "E06000011" "East Riding of Yorkshire UA" "East Riding of Yorkshire"
-"Trafford" 1314 28420 312 "E08000009" "Trafford" "Greater Manchester"
-"Durham" 1314 28410 116 "E06000047" "County Durham UA" "Durham"
-"Cheshire East" 1314 28250 326 "E06000049" "Cheshire East UA" "Cheshire"
-"Suffolk" 1314 3962.85714285714 609 "E07000200" "Babergh" "Suffolk"
-"Suffolk" 1314 3962.85714285714 609 "E07000201" "Forest Heath" "Suffolk"
-"Suffolk" 1314 3962.85714285714 609 "E07000202" "Ipswich" "Suffolk"
-"Suffolk" 1314 3962.85714285714 609 "E07000203" "Mid Suffolk" "Suffolk"
-"Suffolk" 1314 3962.85714285714 609 "E07000204" "St Edmundsbury" "Suffolk"
-"Suffolk" 1314 3962.85714285714 609 "E07000205" "Suffolk Coastal" "Suffolk"
-"Suffolk" 1314 3962.85714285714 609 "E07000206" "Waveney" "Suffolk"
-"Stockport" 1314 27300 310 "E08000007" "Stockport" "Greater Manchester"
-"St. Helens" 1314 27110 318 "E08000013" "St. Helens" "Merseyside"
-"Northumberland" 1314 26960 104 "E06000048" "Northumberland UA" "Northumberland"
-"Salford" 1314 26460 309 "E08000006" "Salford" "Greater Manchester"
-"North Somerset" 1314 26440 910 "E06000024" "North Somerset UA" "Somerset"
-"East Sussex" 1314 5192 815 "E07000061" "Eastbourne" "East Sussex"
-"East Sussex" 1314 5192 815 "E07000062" "Hastings" "East Sussex"
-"East Sussex" 1314 5192 815 "E07000063" "Lewes" "East Sussex"
-"East Sussex" 1314 5192 815 "E07000064" "Rother" "East Sussex"
-"East Sussex" 1314 5192 815 "E07000065" "Wealden" "East Sussex"
-"Wirral" 1314 25780 319 "E08000015" "Wirral" "Merseyside"
-"Leicester" 1314 25310 509 "E06000016" "Leicester UA" "Leicestershire"
-"Dorset" 1314 4181.66666666667 809 "E07000048" "Christchurch" "Dorset"
-"Dorset" 1314 4181.66666666667 809 "E07000049" "East Dorset" "Dorset"
-"Dorset" 1314 4181.66666666667 809 "E07000050" "North Dorset" "Dorset"
-"Dorset" 1314 4181.66666666667 809 "E07000051" "Purbeck" "Dorset"
-"Dorset" 1314 4181.66666666667 809 "E07000052" "West Dorset" "Dorset"
-"Dorset" 1314 4181.66666666667 809 "E07000053" "Weymouth and Portland" "Dorset"
-"Wolverhampton" 1314 25090 412 "E08000031" "Wolverhampton" "West Midlands"
-"Sunderland" 1314 23850 110 "E08000024" "Sunderland" "Tyne and Wear"
-"Redbridge" 1314 22630 732 "E09000026" "Redbridge" "Greater London"
-"Lewisham" 1314 22330 709 "E09000023" "Lewisham" "Greater London"
-"Barnet" 1314 21650 717 "E09000003" "Barnet" "Greater London"
-"Bromley" 1314 21500 720 "E09000006" "Bromley" "Greater London"
-"York" 1314 21280 219 "E06000014" "York UA" "North Yorkshire"
-"Harrow" 1314 21060 725 "E09000015" "Harrow" "Greater London"
-"Newcastle upon Tyne" 1314 20400 107 "E08000021" "Newcastle upon Tyne" "Tyne and Wear"
-"Bolton" 1314 20240 304 "E08000001" "Bolton" "Greater Manchester"
-"Newham" 1314 19930 731 "E09000025" "Newham" "Greater London"
-"Wigan" 1314 19570 313 "E08000010" "Wigan" "Greater Manchester"
-"Plymouth" 1314 19440 913 "E06000026" "Plymouth UA" "Devon"
-"Warwickshire" 1314 3880 404 "E07000218" "North Warwickshire" "Warwickshire"
-"Warwickshire" 1314 3880 404 "E07000219" "Nuneaton and Bedworth" "Warwickshire"
-"Warwickshire" 1314 3880 404 "E07000220" "Rugby" "Warwickshire"
-"Warwickshire" 1314 3880 404 "E07000221" "Stratford-on-Avon" "Warwickshire"
-"Warwickshire" 1314 3880 404 "E07000222" "Warwick" "Warwickshire"
-"Barking and Dagenham" 1314 19160 716 "E09000002" "Barking and Dagenham" "Greater London"
-"Croydon" 1314 18950 721 "E09000008" "Croydon" "Greater London"
-"Herefordshire" 1314 18500 415 "E06000019" "Herefordshire, County of UA" "Hereforshire"
-"Somerset" 1314 3688 905 "E07000187" "Mendip" "Somerset"
-"Somerset" 1314 3688 905 "E07000188" "Sedgemoor" "Somerset"
-"Somerset" 1314 3688 905 "E07000189" "South Somerset" "Somerset"
-"Somerset" 1314 3688 905 "E07000190" "Taunton Deane" "Somerset"
-"Somerset" 1314 3688 905 "E07000191" "West Somerset" "Somerset"
-"South Tyneside" 1314 18320 109 "E08000023" "South Tyneside" "Tyne and Wear"
-"Rotherham" 1314 18240 206 "E08000018" "Rotherham" "South Yorkshire"
-"Southampton" 1314 18190 814 "E06000045" "Southampton UA" "Hampshire"
-"Bexley" 1314 18180 718 "E09000004" "Bexley" "Greater London"
-"Greenwich" 1314 17860 703 "E09000011" "Greenwich" "Greater London"
-"Kingston upon Hull" 1314 17830 215 "E06000010" "Kingston upon Hull, City of UA" "East Riding of Yorkshire"
-"North Tyneside" 1314 17830 108 "E08000022" "North Tyneside" "Tyne and Wear"
-"Tameside" 1314 17380 311 "E08000008" "Tameside" "Greater Manchester"
-"Coventry" 1314 17240 407 "E08000026" "Coventry" "West Midlands"
-"Sefton" 1314 17190 317 "E08000014" "Sefton" "Merseyside"
-"Peterborough" 1314 16710 624 "E06000031" "Peterborough UA" "Cambridgeshire"
-"North Lincolnshire" 1314 16630 217 "E06000013" "North Lincolnshire UA" "Lincolnshire"
-"Stoke-on-Trent" 1314 16600 414 "E06000021" "Stoke-on-Trent UA" "Staffordshire"
-"Derby" 1314 16410 507 "E06000015" "Derby UA" "Derbyshire"
-"Bury" 1314 16260 305 "E08000002" "Bury" "Greater Manchester"
-"Bristol" 1314 16090 909 "E06000023" "Bristol, City of UA" "Bristol"
-"Doncaster" 1314 16080 205 "E08000017" "Doncaster" "South Yorkshire"
-"Haringey" 1314 16040 724 "E09000014" "Haringey" "Greater London"
-"Swindon" 1314 16040 819 "E06000030" "Swindon UA" "Wiltshire"
-"Rochdale" 1314 15860 308 "E08000005" "Rochdale" "Greater Manchester"
-"Hackney" 1314 15330 704 "E09000012" "Hackney" "Greater London"
-"Enfield" 1314 15100 723 "E09000010" "Enfield" "Greater London"
-"Walsall" 1314 14850 411 "E08000030" "Walsall" "West Midlands"
-"Poole" 1314 14330 811 "E06000029" "Poole UA" "Dorset"
-"Middlesbrough" 1314 14270 112 "E06000002" "Middlesbrough UA" "North Yorkshire"
-"Luton" 1314 14000 611 "E06000032" "Luton UA" "Bedforshire"
-"Waltham Forest" 1314 13820 735 "E09000031" "Waltham Forest" "Greater London"
-"South Gloucestershire" 1314 13640 911 "E06000025" "South Gloucestershire UA" "Gloucestershire"
-"Oxfordshire" 1314 2694 608 "E07000177" "Cherwell" "Oxfordshire"
-"Oxfordshire" 1314 2694 608 "E07000178" "Oxford" "Oxfordshire"
-"Oxfordshire" 1314 2694 608 "E07000179" "South Oxfordshire" "Oxfordshire"
-"Oxfordshire" 1314 2694 608 "E07000180" "Vale of White Horse" "Oxfordshire"
-"Oxfordshire" 1314 2694 608 "E07000181" "West Oxfordshire" "Oxfordshire"
-"Oldham" 1314 13430 307 "E08000004" "Oldham" "Greater Manchester"
-"Barnsley" 1314 13360 204 "E08000016" "Barnsley" "South Yorkshire"
-"Havering" 1314 13210 726 "E09000016" "Havering" "Greater London"
-"Westminster" 1314 13210 713 "E09000033" "Westminster" "Greater London"
-"Blackburn with Darwen" 1314 13150 324 "E06000008" "Blackburn with Darwen UA" "Lancashire"
-"Hounslow" 1314 12880 728 "E09000018" "Hounslow" "Greater London"
-"Brighton and Hove" 1314 12840 816 "E06000043" "Brighton and Hove UA" "East Sussex"
-"Gateshead" 1314 12420 106 "E08000020" "Gateshead" "Tyne and Wear"
-"Redcar and Cleveland" 1314 12140 113 "E06000003" "Redcar and Cleveland UA" "North Yorkshire"
-"Kensington and Chelsea" 1314 11950 707 "E09000020" "Kensington and Chelsea" "Greater London"
-"Central Bedfordshire" 1314 11580 626 "E06000056" "Central Bedfordshire UA" "Bedforshire"
-"Knowsley" 1314 11560 315 "E08000011" "Knowsley" "Merseyside"
-"Tower Hamlets" 1314 11490 711 "E09000030" "Tower Hamlets" "Greater London"
-"Warrington" 1314 11310 322 "E06000007" "Warrington UA" "Cheshire"
-"Torbay" 1314 11070 914 "E06000027" "Torbay UA" "Devon"
-"Stockton-on-Tees" 1314 10870 114 "E06000004" "Stockton-on-Tees UA" "Durham"
-"Nottingham" 1314 10750 512 "E06000018" "Nottingham UA" "Nottinghamshire"
-"Solihull" 1314 10560 410 "E08000029" "Solihull" "West Midlands"
-"Wokingham" 1314 10480 619 "E06000041" "Wokingham UA" "Berkshire"
-"Shropshire" 1314 10330 417 "E06000051" "Shropshire UA" "Shropshire"
-"Bournemouth" 1314 10240 810 "E06000028" "Bournemouth UA" "Dorset"
-"Darlington" 1314 10240 117 "E06000005" "Darlington UA" "Durham"
-"Richmond upon Thames" 1314 9690 733 "E09000027" "Richmond upon Thames" "Greater London"
-"Portsmouth" 1314 9410 813 "E06000044" "Portsmouth UA" "Hampshire"
-"West Berkshire" 1314 9410 615 "E06000037" "West Berkshire UA" "Berkshire"
-"Halton" 1314 9300 321 "E06000006" "Halton UA" "Cheshire"
-"Southwark" 1314 9300 710 "E09000028" "Southwark" "Greater London"
-"Thurrock" 1314 9100 622 "E06000034" "Thurrock UA" "Essex"
-"North East Lincolnshire" 1314 8980 216 "E06000012" "North East Lincolnshire UA" "Lincolnshire"
-"Wandsworth" 1314 8970 712 "E09000032" "Wandsworth" "Greater London"
-"Brent" 1314 8830 719 "E09000005" "Brent" "Greater London"
-"Islington" 1314 8670 706 "E09000019" "Islington" "Greater London"
-"Camden" 1314 8590 702 "E09000007" "Camden" "Greater London"
-"Bedford" 1314 8470 625 "E06000055" "Bedford UA" "Bedforshire"
-"Isle of Wight" 1314 8440 803 "E06000046" "Isle of Wight UA" "Isle of Wight"
-"Kingston upon Thames" 1314 8370 729 "E09000021" "Kingston upon Thames" "Greater London"
-"Windsor and Maidenhead" 1314 8160 618 "E06000040" "Windsor and Maidenhead UA" "Berkshire"
-"Milton Keynes" 1314 8070 613 "E06000042" "Milton Keynes UA" "Buckinghamshire"
-"Sutton" 1314 7900 734 "E09000029" "Sutton" "Greater London"
-"Telford and the Wrekin" 1314 7710 418 "E06000020" "Telford and Wrekin UA" "Shropshire"
-"Blackpool" 1314 7530 325 "E06000009" "Blackpool UA" "Lancashire"
-"Reading" 1314 7320 616 "E06000038" "Reading UA" "Berkshire"
-"Bracknell Forest" 1314 7220 614 "E06000036" "Bracknell Forest UA" "Berkshire"
-"Hillingdon" 1314 6950 727 "E09000017" "Hillingdon" "Greater London"
-"Hartlepool" 1314 6900 111 "E06000001" "Hartlepool UA" "Durham"
-"Bath and North East Somerset" 1314 5120 908 "E06000022" "Bath and North East Somerset UA" "Somerset"
-"Hammersmith and Fulham" 1314 4690 705 "E09000013" "Hammersmith and Fulham" "Greater London"
-"Merton" 1314 4330 730 "E09000024" "Merton" "Greater London"
-"Rutland" 1314 3500 510 "E06000017" "Rutland UA" "Rutland"
-"Slough" 1314 3370 617 "E06000039" "Slough UA" "Berkshire"
-"City of London" 1314 290 714 "E09000001" "City of London" "Greater London"
-"Isles of Scilly" 1314 260 906 "E06000053" "Isles of Scilly UA" "Cornwall and Scilly"
+"Location" "Local.authority" "Year" "Applications"
+"Essex" "Basildon" "2010/11" 5443.75
+"Essex" "Braintree" "2010/11" 5443.75
+"Essex" "Brentwood" "2010/11" 5443.75
+"Essex" "Castle Point" "2010/11" 5443.75
+"Essex" "Chelmsford" "2010/11" 5443.75
+"Essex" "Colchester" "2010/11" 5443.75
+"Essex" "Epping Forest" "2010/11" 5443.75
+"Essex" "Harlow" "2010/11" 5443.75
+"Essex" "Maldon" "2010/11" 5443.75
+"Essex" "Rochford" "2010/11" 5443.75
+"Essex" "Tendring" "2010/11" 5443.75
+"Essex" "Uttlesford" "2010/11" 5443.75
+"Surrey" "Elmbridge" "2010/11" 5840.45454545455
+"Surrey" "Epsom and Ewell" "2010/11" 5840.45454545455
+"Surrey" "Guildford" "2010/11" 5840.45454545455
+"Surrey" "Mole Valley" "2010/11" 5840.45454545455
+"Surrey" "Reigate and Banstead" "2010/11" 5840.45454545455
+"Surrey" "Runnymede" "2010/11" 5840.45454545455
+"Surrey" "Spelthorne" "2010/11" 5840.45454545455
+"Surrey" "Surrey Heath" "2010/11" 5840.45454545455
+"Surrey" "Tandridge" "2010/11" 5840.45454545455
+"Surrey" "Waverley" "2010/11" 5840.45454545455
+"Surrey" "Woking" "2010/11" 5840.45454545455
+"Lancashire" "Burnley" "2010/11" 4383.75
+"Lancashire" "Chorley" "2010/11" 4383.75
+"Lancashire" "Fylde" "2010/11" 4383.75
+"Lancashire" "Hyndburn" "2010/11" 4383.75
+"Lancashire" "Lancaster" "2010/11" 4383.75
+"Lancashire" "Pendle" "2010/11" 4383.75
+"Lancashire" "Preston" "2010/11" 4383.75
+"Lancashire" "Ribble Valley" "2010/11" 4383.75
+"Lancashire" "Rossendale" "2010/11" 4383.75
+"Lancashire" "South Ribble" "2010/11" 4383.75
+"Lancashire" "West Lancashire" "2010/11" 4383.75
+"Lancashire" "Wyre" "2010/11" 4383.75
+"Norfolk" "Breckland" "2010/11" 7329.28571428571
+"Norfolk" "Broadland" "2010/11" 7329.28571428571
+"Norfolk" "Great Yarmouth" "2010/11" 7329.28571428571
+"Norfolk" "King’s Lynn and West Norfolk" "2010/11" 7329.28571428571
+"Norfolk" "North Norfolk" "2010/11" 7329.28571428571
+"Norfolk" "Norwich" "2010/11" 7329.28571428571
+"Norfolk" "South Norfolk" "2010/11" 7329.28571428571
+"North Yorkshire" "Craven" "2010/11" 7031.42857142857
+"North Yorkshire" "Hambleton" "2010/11" 7031.42857142857
+"North Yorkshire" "Harrogate" "2010/11" 7031.42857142857
+"North Yorkshire" "Richmondshire" "2010/11" 7031.42857142857
+"North Yorkshire" "Ryedale" "2010/11" 7031.42857142857
+"North Yorkshire" "Scarborough" "2010/11" 7031.42857142857
+"North Yorkshire" "Selby" "2010/11" 7031.42857142857
+"Ealing" "Ealing" "2010/11" 48910
+"Hampshire" "Eastleigh" "2010/11" 4415.45454545455
+"Hampshire" "Fareham" "2010/11" 4415.45454545455
+"Hampshire" "Gosport" "2010/11" 4415.45454545455
+"Hampshire" "Hart" "2010/11" 4415.45454545455
+"Hampshire" "Havant" "2010/11" 4415.45454545455
+"Hampshire" "New Forest" "2010/11" 4415.45454545455
+"Hampshire" "Rushmoor" "2010/11" 4415.45454545455
+"Hampshire" "Test Valley" "2010/11" 4415.45454545455
+"Hampshire" "Winchester" "2010/11" 4415.45454545455
+"Hampshire" "Basingstoke and Deane" "2010/11" 4415.45454545455
+"Hampshire" "East Hampshire" "2010/11" 4415.45454545455
+"Kent" "Ashford" "2010/11" 3752.91666666667
+"Kent" "Canterbury" "2010/11" 3752.91666666667
+"Kent" "Dartford" "2010/11" 3752.91666666667
+"Kent" "Dover" "2010/11" 3752.91666666667
+"Kent" "Gravesham" "2010/11" 3752.91666666667
+"Kent" "Maidstone" "2010/11" 3752.91666666667
+"Kent" "Sevenoaks" "2010/11" 3752.91666666667
+"Kent" "Shepway" "2010/11" 3752.91666666667
+"Kent" "Swale" "2010/11" 3752.91666666667
+"Kent" "Thanet" "2010/11" 3752.91666666667
+"Kent" "Tonbridge and Malling" "2010/11" 3752.91666666667
+"Kent" "Tunbridge Wells" "2010/11" 3752.91666666667
+"Cornwall" "Cornwall UA" "2010/11" 43340
+"Hertfordshire" "Broxbourne" "2010/11" 4115
+"Hertfordshire" "Dacorum" "2010/11" 4115
+"Hertfordshire" "East Hertfordshire" "2010/11" 4115
+"Hertfordshire" "Hertsmere" "2010/11" 4115
+"Hertfordshire" "North Hertfordshire" "2010/11" 4115
+"Hertfordshire" "St Albans" "2010/11" 4115
+"Hertfordshire" "Stevenage" "2010/11" 4115
+"Hertfordshire" "Three Rivers" "2010/11" 4115
+"Hertfordshire" "Watford" "2010/11" 4115
+"Hertfordshire" "Welwyn Hatfield" "2010/11" 4115
+"Nottinghamshire" "Ashfield" "2010/11" 5331.42857142857
+"Nottinghamshire" "Bassetlaw" "2010/11" 5331.42857142857
+"Nottinghamshire" "Broxtowe" "2010/11" 5331.42857142857
+"Nottinghamshire" "Gedling" "2010/11" 5331.42857142857
+"Nottinghamshire" "Mansfield" "2010/11" 5331.42857142857
+"Nottinghamshire" "Newark and Sherwood" "2010/11" 5331.42857142857
+"Nottinghamshire" "Rushcliffe" "2010/11" 5331.42857142857
+"Gloucestershire" "Cheltenham" "2010/11" 6185.83333333333
+"Gloucestershire" "Cotswold" "2010/11" 6185.83333333333
+"Gloucestershire" "Forest of Dean" "2010/11" 6185.83333333333
+"Gloucestershire" "Gloucester" "2010/11" 6185.83333333333
+"Gloucestershire" "Stroud" "2010/11" 6185.83333333333
+"Gloucestershire" "Tewkesbury" "2010/11" 6185.83333333333
+"Lincolnshire" "Boston" "2010/11" 5190.71428571429
+"Lincolnshire" "East Lindsey" "2010/11" 5190.71428571429
+"Lincolnshire" "Lincoln" "2010/11" 5190.71428571429
+"Lincolnshire" "North Kesteven" "2010/11" 5190.71428571429
+"Lincolnshire" "South Holland" "2010/11" 5190.71428571429
+"Lincolnshire" "South Kesteven" "2010/11" 5190.71428571429
+"Lincolnshire" "West Lindsey" "2010/11" 5190.71428571429
+"Birmingham" "Birmingham" "2010/11" 36085
+"Devon" "East Devon" "2010/11" 4461.25
+"Devon" "Exeter" "2010/11" 4461.25
+"Devon" "Mid Devon" "2010/11" 4461.25
+"Devon" "North Devon" "2010/11" 4461.25
+"Devon" "South Hams" "2010/11" 4461.25
+"Devon" "Teignbridge" "2010/11" 4461.25
+"Devon" "Torridge" "2010/11" 4461.25
+"Devon" "West Devon" "2010/11" 4461.25
+"Kirklees" "Kirklees" "2010/11" 35415
+"Staffordshire" "Cannock Chase" "2010/11" 4311.25
+"Staffordshire" "East Staffordshire" "2010/11" 4311.25
+"Staffordshire" "Lichfield" "2010/11" 4311.25
+"Staffordshire" "Newcastle-under-Lyme" "2010/11" 4311.25
+"Staffordshire" "South Staffordshire" "2010/11" 4311.25
+"Staffordshire" "Stafford" "2010/11" 4311.25
+"Staffordshire" "Staffordshire Moorlands" "2010/11" 4311.25
+"Staffordshire" "Tamworth" "2010/11" 4311.25
+"Bradford" "Bradford" "2010/11" 29670
+"Derbyshire" "Amber Valley" "2010/11" 3603.75
+"Derbyshire" "Bolsover" "2010/11" 3603.75
+"Derbyshire" "Chesterfield" "2010/11" 3603.75
+"Derbyshire" "Derbyshire Dales" "2010/11" 3603.75
+"Derbyshire" "Erewash" "2010/11" 3603.75
+"Derbyshire" "High Peak" "2010/11" 3603.75
+"Derbyshire" "North East Derbyshire" "2010/11" 3603.75
+"Derbyshire" "South Derbyshire" "2010/11" 3603.75
+"Sandwell" "Sandwell" "2010/11" 27915
+"Wiltshire" "Wiltshire UA" "2010/11" 26280
+"West Sussex" "Adur" "2010/11" 3753.57142857143
+"West Sussex" "Arun" "2010/11" 3753.57142857143
+"West Sussex" "Chichester" "2010/11" 3753.57142857143
+"West Sussex" "Crawley" "2010/11" 3753.57142857143
+"West Sussex" "Horsham" "2010/11" 3753.57142857143
+"West Sussex" "Mid Sussex" "2010/11" 3753.57142857143
+"West Sussex" "Worthing" "2010/11" 3753.57142857143
+"Bolton" "Bolton" "2010/11" 23925
+"Somerset" "Mendip" "2010/11" 4662
+"Somerset" "Sedgemoor" "2010/11" 4662
+"Somerset" "South Somerset" "2010/11" 4662
+"Somerset" "Taunton Deane" "2010/11" 4662
+"Somerset" "West Somerset" "2010/11" 4662
+"Sefton" "Sefton" "2010/11" 22915
+"Leeds" "Leeds" "2010/11" 21960
+"Wirral" "Wirral" "2010/11" 21660
+"Medway Towns UA" NA "2010/11" 21440
+"Suffolk" "Babergh" "2010/11" 3030.71428571429
+"Suffolk" "Forest Heath" "2010/11" 3030.71428571429
+"Suffolk" "Ipswich" "2010/11" 3030.71428571429
+"Suffolk" "Mid Suffolk" "2010/11" 3030.71428571429
+"Suffolk" "St Edmundsbury" "2010/11" 3030.71428571429
+"Suffolk" "Suffolk Coastal" "2010/11" 3030.71428571429
+"Suffolk" "Waveney" "2010/11" 3030.71428571429
+"Cumbria" "Allerdale" "2010/11" 3432.5
+"Cumbria" "Barrow-in-Furness" "2010/11" 3432.5
+"Cumbria" "Carlisle" "2010/11" 3432.5
+"Cumbria" "Copeland" "2010/11" 3432.5
+"Cumbria" "Eden" "2010/11" 3432.5
+"Cumbria" "South Lakeland" "2010/11" 3432.5
+"Dudley" "Dudley" "2010/11" 20395
+"Leicestershire" "Blaby" "2010/11" 2901.42857142857
+"Leicestershire" "Charnwood" "2010/11" 2901.42857142857
+"Leicestershire" "Harborough" "2010/11" 2901.42857142857
+"Leicestershire" "Hinckley and Bosworth" "2010/11" 2901.42857142857
+"Leicestershire" "Melton" "2010/11" 2901.42857142857
+"Leicestershire" "North West Leicestershire" "2010/11" 2901.42857142857
+"Leicestershire" "Oadby and Wigston" "2010/11" 2901.42857142857
+"Cambridgeshire" "Cambridge" "2010/11" 3987
+"Cambridgeshire" "East Cambridgeshire" "2010/11" 3987
+"Cambridgeshire" "Fenland" "2010/11" 3987
+"Cambridgeshire" "Huntingdonshire" "2010/11" 3987
+"Cambridgeshire" "South Cambridgeshire" "2010/11" 3987
+"Durham" "County Durham UA" "2010/11" 19440
+"East Sussex" "Eastbourne" "2010/11" 3771
+"East Sussex" "Hastings" "2010/11" 3771
+"East Sussex" "Lewes" "2010/11" 3771
+"East Sussex" "Rother" "2010/11" 3771
+"East Sussex" "Wealden" "2010/11" 3771
+"Worcestershire" "Bromsgrove" "2010/11" 3138.33333333333
+"Worcestershire" "Malvern Hills" "2010/11" 3138.33333333333
+"Worcestershire" "Redditch" "2010/11" 3138.33333333333
+"Worcestershire" "Worcester" "2010/11" 3138.33333333333
+"Worcestershire" "Wychavon" "2010/11" 3138.33333333333
+"Worcestershire" "Wyre Forest" "2010/11" 3138.33333333333
+"Northamptonshire" "Corby" "2010/11" 2631.42857142857
+"Northamptonshire" "Daventry" "2010/11" 2631.42857142857
+"Northamptonshire" "East Northamptonshire" "2010/11" 2631.42857142857
+"Northamptonshire" "Kettering" "2010/11" 2631.42857142857
+"Northamptonshire" "Northampton" "2010/11" 2631.42857142857
+"Northamptonshire" "South Northamptonshire" "2010/11" 2631.42857142857
+"Northamptonshire" "Wellingborough" "2010/11" 2631.42857142857
+"Wakefield" "Wakefield" "2010/11" 17980
+"Lambeth" "Lambeth" "2010/11" 17430
+"Buckinghamshire" "Aylesbury Vale" "2010/11" 4211.25
+"Buckinghamshire" "Chiltern" "2010/11" 4211.25
+"Buckinghamshire" "South Bucks" "2010/11" 4211.25
+"Buckinghamshire" "Wycombe" "2010/11" 4211.25
+"Manchester" "Manchester" "2010/11" 16825
+"Sheffield" "Sheffield" "2010/11" 16575
+"Stockport" "Stockport" "2010/11" 16310
+"Shropshire" "Shropshire UA" "2010/11" 15980
+"Cheshire East UA" NA "2010/11" 15885
+"Liverpool" "Liverpool" "2010/11" 15580
+"Northumberland" "Northumberland UA" "2010/11" 15450
+"South Tyneside" "South Tyneside" "2010/11" 15155
+"Tameside" "Tameside" "2010/11" 15050
+"East Riding of Yorkshire UA" NA "2010/11" 14735
+"Plymouth UA" NA "2010/11" 14570
+"Southend-on-Sea UA" NA "2010/11" 14525
+"Warwickshire" "North Warwickshire" "2010/11" 2875
+"Warwickshire" "Nuneaton and Bedworth" "2010/11" 2875
+"Warwickshire" "Rugby" "2010/11" 2875
+"Warwickshire" "Stratford-on-Avon" "2010/11" 2875
+"Warwickshire" "Warwick" "2010/11" 2875
+"Wolverhampton" "Wolverhampton" "2010/11" 14210
+"Cheshire West and Chester UA" NA "2010/11" 13750
+"Newham" "Newham" "2010/11" 13600
+"Bristol UA" NA "2010/11" 13245
+"Dorset" "Christchurch" "2010/11" 2178.33333333333
+"Dorset" "East Dorset" "2010/11" 2178.33333333333
+"Dorset" "North Dorset" "2010/11" 2178.33333333333
+"Dorset" "Purbeck" "2010/11" 2178.33333333333
+"Dorset" "West Dorset" "2010/11" 2178.33333333333
+"Dorset" "Weymouth and Portland" "2010/11" 2178.33333333333
+"Wigan" "Wigan" "2010/11" 12790
+"Trafford" "Trafford" "2010/11" 12570
+"North Tyneside" "North Tyneside" "2010/11" 12485
+"Barnet" "Barnet" "2010/11" 12280
+"Brent" "Brent" "2010/11" 11950
+"Newcastle upon Tyne" "Newcastle upon Tyne" "2010/11" 11805
+"Redbridge" "Redbridge" "2010/11" 11775
+"Lewisham" "Lewisham" "2010/11" 11770
+"Leicester UA" NA "2010/11" 11650
+"Bromley" "Bromley" "2010/11" 11265
+"Croydon" "Croydon" "2010/11" 11180
+"North Somerset UA" NA "2010/11" 11055
+"Salford" "Salford" "2010/11" 10985
+"Derby UA" NA "2010/11" 10925
+"Herefordshire UA" NA "2010/11" 10910
+"Stoke-on-Trent UA" NA "2010/11" 10875
+"Rotherham" "Rotherham" "2010/11" 10815
+"Oxfordshire" "Cherwell" "2010/11" 2143
+"Oxfordshire" "Oxford" "2010/11" 2143
+"Oxfordshire" "South Oxfordshire" "2010/11" 2143
+"Oxfordshire" "Vale of White Horse" "2010/11" 2143
+"Oxfordshire" "West Oxfordshire" "2010/11" 2143
+"Southampton UA" NA "2010/11" 10710
+"North East Lincolnshire UA" NA "2010/11" 10680
+"Greenwich" "Greenwich" "2010/11" 10280
+"Westminster" "Westminster" "2010/11" 9720
+"York UA" NA "2010/11" 9500
+"Doncaster" "Doncaster" "2010/11" 9445
+"Harrow" "Harrow" "2010/11" 9355
+"Hackney" "Hackney" "2010/11" 9330
+"Sunderland" "Sunderland" "2010/11" 9285
+"Bexley" "Bexley" "2010/11" 9020
+"Kingston upon Hull UA" NA "2010/11" 8960
+"Enfield" "Enfield" "2010/11" 8640
+"South Gloucestershire UA" NA "2010/11" 8630
+"Middlesbrough UA" NA "2010/11" 8555
+"Poole UA" NA "2010/11" 8435
+"Coventry" "Coventry" "2010/11" 8370
+"Oldham" "Oldham" "2010/11" 8345
+"Swindon UA" NA "2010/11" 8215
+"Brighton and Hove UA" NA "2010/11" 8140
+"Rochdale" "Rochdale" "2010/11" 8005
+"St. Helens" "St. Helens" "2010/11" 7870
+"Blackburn with Darwen UA" NA "2010/11" 7785
+"Portsmouth UA" NA "2010/11" 7685
+"Bury" "Bury" "2010/11" 7660
+"Hounslow" "Hounslow" "2010/11" 7585
+"Warrington UA" NA "2010/11" 7490
+"Barking and Dagenham" "Barking and Dagenham" "2010/11" 7395
+"Stockton-on-Tees UA" NA "2010/11" 7315
+"Kensington and Chelsea" "Kensington and Chelsea" "2010/11" 7275
+"Wokingham UA" NA "2010/11" 7205
+"Haringey" "Haringey" "2010/11" 7145
+"Peterborough UA" NA "2010/11" 7120
+"North Lincolnshire UA" NA "2010/11" 6785
+"Gateshead" "Gateshead" "2010/11" 6690
+"Islington" "Islington" "2010/11" 6635
+"Calderdale" "Calderdale" "2010/11" 6615
+"Isle of Wight UA" NA "2010/11" 6560
+"Torbay UA" NA "2010/11" 6525
+"Havering" "Havering" "2010/11" 6500
+"Barnsley" "Barnsley" "2010/11" 6260
+"Redcar and Cleveland UA" NA "2010/11" 6205
+"Luton UA" NA "2010/11" 6080
+"Bournemouth UA" NA "2010/11" 6070
+"Blackpool UA" NA "2010/11" 6060
+"Sutton" "Sutton" "2010/11" 5775
+"Central Bedfordshire UA" NA "2010/11" 5765
+"West Berkshire UA" NA "2010/11" 5715
+"Telford and the Wrekin UA" NA "2010/11" 5615
+"Knowsley" "Knowsley" "2010/11" 5465
+"Camden" "Camden" "2010/11" 5360
+"Southwark" "Southwark" "2010/11" 5225
+"Solihull" "Solihull" "2010/11" 5165
+"Tower Hamlets" "Tower Hamlets" "2010/11" 5115
+"Bedford UA" NA "2010/11" 5075
+"Hammersmith and Fulham" "Hammersmith and Fulham" "2010/11" 4995
+"Reading UA" NA "2010/11" 4905
+"Merton" "Merton" "2010/11" 4830
+"Windsor and Maidenhead UA" NA "2010/11" 4740
+"Wandsworth" "Wandsworth" "2010/11" 4615
+"Bath and North East Somerset UA" NA "2010/11" 4550
+"Halton UA" NA "2010/11" 4525
+"Thurrock UA" NA "2010/11" 4450
+"Hartlepool UA" NA "2010/11" 4335
+"Milton Keynes UA" NA "2010/11" 4125
+"Waltham Forest" "Waltham Forest" "2010/11" 4115
+"Darlington UA" NA "2010/11" 4055
+"Kingston upon Thames" "Kingston upon Thames" "2010/11" 3855
+"Bracknell Forest UA" NA "2010/11" 3775
+"Hillingdon" "Hillingdon" "2010/11" 3540
+"Slough UA" NA "2010/11" 3235
+"Richmond upon Thames" "Richmond upon Thames" "2010/11" 2760
+"Nottingham UA" NA "2010/11" 1935
+"Rutland UA" NA "2010/11" 1785
+"Walsall" "Walsall" "2010/11" 1145
+"City of London" "City of London" "2010/11" 270
+"Isles of Scilly" "Isles of Scilly UA" "2010/11" 200
+"Cornwall" "Cornwall UA" "2011/12" 116090
+"Hampshire" "Eastleigh" "2011/12" 9515.45454545455
+"Hampshire" "Fareham" "2011/12" 9515.45454545455
+"Hampshire" "Gosport" "2011/12" 9515.45454545455
+"Hampshire" "Hart" "2011/12" 9515.45454545455
+"Hampshire" "Havant" "2011/12" 9515.45454545455
+"Hampshire" "New Forest" "2011/12" 9515.45454545455
+"Hampshire" "Rushmoor" "2011/12" 9515.45454545455
+"Hampshire" "Test Valley" "2011/12" 9515.45454545455
+"Hampshire" "Winchester" "2011/12" 9515.45454545455
+"Hampshire" "Basingstoke and Deane" "2011/12" 9515.45454545455
+"Hampshire" "East Hampshire" "2011/12" 9515.45454545455
+"Essex" "Basildon" "2011/12" 8228
+"Essex" "Braintree" "2011/12" 8228
+"Essex" "Brentwood" "2011/12" 8228
+"Essex" "Castle Point" "2011/12" 8228
+"Essex" "Chelmsford" "2011/12" 8228
+"Essex" "Colchester" "2011/12" 8228
+"Essex" "Epping Forest" "2011/12" 8228
+"Essex" "Harlow" "2011/12" 8228
+"Essex" "Maldon" "2011/12" 8228
+"Essex" "Rochford" "2011/12" 8228
+"Essex" "Tendring" "2011/12" 8228
+"Essex" "Uttlesford" "2011/12" 8228
+"Lancashire" "Burnley" "2011/12" 8116.5
+"Lancashire" "Chorley" "2011/12" 8116.5
+"Lancashire" "Fylde" "2011/12" 8116.5
+"Lancashire" "Hyndburn" "2011/12" 8116.5
+"Lancashire" "Lancaster" "2011/12" 8116.5
+"Lancashire" "Pendle" "2011/12" 8116.5
+"Lancashire" "Preston" "2011/12" 8116.5
+"Lancashire" "Ribble Valley" "2011/12" 8116.5
+"Lancashire" "Rossendale" "2011/12" 8116.5
+"Lancashire" "South Ribble" "2011/12" 8116.5
+"Lancashire" "West Lancashire" "2011/12" 8116.5
+"Lancashire" "Wyre" "2011/12" 8116.5
+"North Yorkshire" "Craven" "2011/12" 13879.7142857143
+"North Yorkshire" "Hambleton" "2011/12" 13879.7142857143
+"North Yorkshire" "Harrogate" "2011/12" 13879.7142857143
+"North Yorkshire" "Richmondshire" "2011/12" 13879.7142857143
+"North Yorkshire" "Ryedale" "2011/12" 13879.7142857143
+"North Yorkshire" "Scarborough" "2011/12" 13879.7142857143
+"North Yorkshire" "Selby" "2011/12" 13879.7142857143
+"Ealing" "Ealing" "2011/12" 95598
+"Norfolk" "Breckland" "2011/12" 12856
+"Norfolk" "Broadland" "2011/12" 12856
+"Norfolk" "Great Yarmouth" "2011/12" 12856
+"Norfolk" "King’s Lynn and West Norfolk" "2011/12" 12856
+"Norfolk" "North Norfolk" "2011/12" 12856
+"Norfolk" "Norwich" "2011/12" 12856
+"Norfolk" "South Norfolk" "2011/12" 12856
+"Kent" "Ashford" "2011/12" 7417.83333333333
+"Kent" "Canterbury" "2011/12" 7417.83333333333
+"Kent" "Dartford" "2011/12" 7417.83333333333
+"Kent" "Dover" "2011/12" 7417.83333333333
+"Kent" "Gravesham" "2011/12" 7417.83333333333
+"Kent" "Maidstone" "2011/12" 7417.83333333333
+"Kent" "Sevenoaks" "2011/12" 7417.83333333333
+"Kent" "Shepway" "2011/12" 7417.83333333333
+"Kent" "Swale" "2011/12" 7417.83333333333
+"Kent" "Thanet" "2011/12" 7417.83333333333
+"Kent" "Tonbridge and Malling" "2011/12" 7417.83333333333
+"Kent" "Tunbridge Wells" "2011/12" 7417.83333333333
+"Hertfordshire" "Broxbourne" "2011/12" 8840.8
+"Hertfordshire" "Dacorum" "2011/12" 8840.8
+"Hertfordshire" "East Hertfordshire" "2011/12" 8840.8
+"Hertfordshire" "Hertsmere" "2011/12" 8840.8
+"Hertfordshire" "North Hertfordshire" "2011/12" 8840.8
+"Hertfordshire" "St Albans" "2011/12" 8840.8
+"Hertfordshire" "Stevenage" "2011/12" 8840.8
+"Hertfordshire" "Three Rivers" "2011/12" 8840.8
+"Hertfordshire" "Watford" "2011/12" 8840.8
+"Hertfordshire" "Welwyn Hatfield" "2011/12" 8840.8
+"Lincolnshire" "Boston" "2011/12" 11622.5714285714
+"Lincolnshire" "East Lindsey" "2011/12" 11622.5714285714
+"Lincolnshire" "Lincoln" "2011/12" 11622.5714285714
+"Lincolnshire" "North Kesteven" "2011/12" 11622.5714285714
+"Lincolnshire" "South Holland" "2011/12" 11622.5714285714
+"Lincolnshire" "South Kesteven" "2011/12" 11622.5714285714
+"Lincolnshire" "West Lindsey" "2011/12" 11622.5714285714
+"Devon" "East Devon" "2011/12" 9690.25
+"Devon" "Exeter" "2011/12" 9690.25
+"Devon" "Mid Devon" "2011/12" 9690.25
+"Devon" "North Devon" "2011/12" 9690.25
+"Devon" "South Hams" "2011/12" 9690.25
+"Devon" "Teignbridge" "2011/12" 9690.25
+"Devon" "Torridge" "2011/12" 9690.25
+"Devon" "West Devon" "2011/12" 9690.25
+"Derbyshire" "Amber Valley" "2011/12" 8486.75
+"Derbyshire" "Bolsover" "2011/12" 8486.75
+"Derbyshire" "Chesterfield" "2011/12" 8486.75
+"Derbyshire" "Derbyshire Dales" "2011/12" 8486.75
+"Derbyshire" "Erewash" "2011/12" 8486.75
+"Derbyshire" "High Peak" "2011/12" 8486.75
+"Derbyshire" "North East Derbyshire" "2011/12" 8486.75
+"Derbyshire" "South Derbyshire" "2011/12" 8486.75
+"Birmingham" "Birmingham" "2011/12" 63424
+"Bradford" "Bradford" "2011/12" 63318
+"Nottinghamshire" "Ashfield" "2011/12" 8693.71428571429
+"Nottinghamshire" "Bassetlaw" "2011/12" 8693.71428571429
+"Nottinghamshire" "Broxtowe" "2011/12" 8693.71428571429
+"Nottinghamshire" "Gedling" "2011/12" 8693.71428571429
+"Nottinghamshire" "Mansfield" "2011/12" 8693.71428571429
+"Nottinghamshire" "Newark and Sherwood" "2011/12" 8693.71428571429
+"Nottinghamshire" "Rushcliffe" "2011/12" 8693.71428571429
+"Sandwell" "Sandwell" "2011/12" 57096
+"Gloucestershire" "Cheltenham" "2011/12" 9363
+"Gloucestershire" "Cotswold" "2011/12" 9363
+"Gloucestershire" "Forest of Dean" "2011/12" 9363
+"Gloucestershire" "Gloucester" "2011/12" 9363
+"Gloucestershire" "Stroud" "2011/12" 9363
+"Gloucestershire" "Tewkesbury" "2011/12" 9363
+"Surrey" "Elmbridge" "2011/12" 4951.63636363636
+"Surrey" "Epsom and Ewell" "2011/12" 4951.63636363636
+"Surrey" "Guildford" "2011/12" 4951.63636363636
+"Surrey" "Mole Valley" "2011/12" 4951.63636363636
+"Surrey" "Reigate and Banstead" "2011/12" 4951.63636363636
+"Surrey" "Runnymede" "2011/12" 4951.63636363636
+"Surrey" "Spelthorne" "2011/12" 4951.63636363636
+"Surrey" "Surrey Heath" "2011/12" 4951.63636363636
+"Surrey" "Tandridge" "2011/12" 4951.63636363636
+"Surrey" "Waverley" "2011/12" 4951.63636363636
+"Surrey" "Woking" "2011/12" 4951.63636363636
+"Kirklees" "Kirklees" "2011/12" 52424
+"Wiltshire" "Wiltshire UA" "2011/12" 52270
+"Staffordshire" "Cannock Chase" "2011/12" 6208.25
+"Staffordshire" "East Staffordshire" "2011/12" 6208.25
+"Staffordshire" "Lichfield" "2011/12" 6208.25
+"Staffordshire" "Newcastle-under-Lyme" "2011/12" 6208.25
+"Staffordshire" "South Staffordshire" "2011/12" 6208.25
+"Staffordshire" "Stafford" "2011/12" 6208.25
+"Staffordshire" "Staffordshire Moorlands" "2011/12" 6208.25
+"Staffordshire" "Tamworth" "2011/12" 6208.25
+"Northamptonshire" "Corby" "2011/12" 6820
+"Northamptonshire" "Daventry" "2011/12" 6820
+"Northamptonshire" "East Northamptonshire" "2011/12" 6820
+"Northamptonshire" "Kettering" "2011/12" 6820
+"Northamptonshire" "Northampton" "2011/12" 6820
+"Northamptonshire" "South Northamptonshire" "2011/12" 6820
+"Northamptonshire" "Wellingborough" "2011/12" 6820
+"Sefton" "Sefton" "2011/12" 46082
+"Medway Towns UA" NA "2011/12" 45900
+"Wirral" "Wirral" "2011/12" 44950
+"West Sussex" "Adur" "2011/12" 6420.57142857143
+"West Sussex" "Arun" "2011/12" 6420.57142857143
+"West Sussex" "Chichester" "2011/12" 6420.57142857143
+"West Sussex" "Crawley" "2011/12" 6420.57142857143
+"West Sussex" "Horsham" "2011/12" 6420.57142857143
+"West Sussex" "Mid Sussex" "2011/12" 6420.57142857143
+"West Sussex" "Worthing" "2011/12" 6420.57142857143
+"Cambridgeshire" "Cambridge" "2011/12" 8938.8
+"Cambridgeshire" "East Cambridgeshire" "2011/12" 8938.8
+"Cambridgeshire" "Fenland" "2011/12" 8938.8
+"Cambridgeshire" "Huntingdonshire" "2011/12" 8938.8
+"Cambridgeshire" "South Cambridgeshire" "2011/12" 8938.8
+"Cumbria" "Allerdale" "2011/12" 7083
+"Cumbria" "Barrow-in-Furness" "2011/12" 7083
+"Cumbria" "Carlisle" "2011/12" 7083
+"Cumbria" "Copeland" "2011/12" 7083
+"Cumbria" "Eden" "2011/12" 7083
+"Cumbria" "South Lakeland" "2011/12" 7083
+"Leicestershire" "Blaby" "2011/12" 6062.28571428571
+"Leicestershire" "Charnwood" "2011/12" 6062.28571428571
+"Leicestershire" "Harborough" "2011/12" 6062.28571428571
+"Leicestershire" "Hinckley and Bosworth" "2011/12" 6062.28571428571
+"Leicestershire" "Melton" "2011/12" 6062.28571428571
+"Leicestershire" "North West Leicestershire" "2011/12" 6062.28571428571
+"Leicestershire" "Oadby and Wigston" "2011/12" 6062.28571428571
+"Dudley" "Dudley" "2011/12" 39798
+"Worcestershire" "Bromsgrove" "2011/12" 6482
+"Worcestershire" "Malvern Hills" "2011/12" 6482
+"Worcestershire" "Redditch" "2011/12" 6482
+"Worcestershire" "Worcester" "2011/12" 6482
+"Worcestershire" "Wychavon" "2011/12" 6482
+"Worcestershire" "Wyre Forest" "2011/12" 6482
+"Buckinghamshire" "Aylesbury Vale" "2011/12" 9487.5
+"Buckinghamshire" "Chiltern" "2011/12" 9487.5
+"Buckinghamshire" "South Bucks" "2011/12" 9487.5
+"Buckinghamshire" "Wycombe" "2011/12" 9487.5
+"Leeds" "Leeds" "2011/12" 37550
+"Somerset" "Mendip" "2011/12" 7402.4
+"Somerset" "Sedgemoor" "2011/12" 7402.4
+"Somerset" "South Somerset" "2011/12" 7402.4
+"Somerset" "Taunton Deane" "2011/12" 7402.4
+"Somerset" "West Somerset" "2011/12" 7402.4
+"Durham" "County Durham UA" "2011/12" 35530
+"East Sussex" "Eastbourne" "2011/12" 7042.4
+"East Sussex" "Hastings" "2011/12" 7042.4
+"East Sussex" "Lewes" "2011/12" 7042.4
+"East Sussex" "Rother" "2011/12" 7042.4
+"East Sussex" "Wealden" "2011/12" 7042.4
+"Lambeth" "Lambeth" "2011/12" 34434
+"Sheffield" "Sheffield" "2011/12" 33924
+"Wakefield" "Wakefield" "2011/12" 32298
+"Stockport" "Stockport" "2011/12" 32278
+"Cheshire East UA" NA "2011/12" 29828
+"Northumberland" "Northumberland UA" "2011/12" 29490
+"Cheshire West and Chester UA" NA "2011/12" 29108
+"South Tyneside" "South Tyneside" "2011/12" 27240
+"Plymouth UA" NA "2011/12" 27180
+"Wolverhampton" "Wolverhampton" "2011/12" 27142
+"Liverpool" "Liverpool" "2011/12" 26990
+"Dorset" "Christchurch" "2011/12" 4488
+"Dorset" "East Dorset" "2011/12" 4488
+"Dorset" "North Dorset" "2011/12" 4488
+"Dorset" "Purbeck" "2011/12" 4488
+"Dorset" "West Dorset" "2011/12" 4488
+"Dorset" "Weymouth and Portland" "2011/12" 4488
+"Redbridge" "Redbridge" "2011/12" 26714
+"Trafford" "Trafford" "2011/12" 26552
+"Manchester" "Manchester" "2011/12" 26318
+"Southend-on-Sea UA" NA "2011/12" 26150
+"Salford" "Salford" "2011/12" 26002
+"Shropshire" "Shropshire UA" "2011/12" 25950
+"East Riding of Yorkshire UA" NA "2011/12" 25690
+"Lewisham" "Lewisham" "2011/12" 25228
+"Warwickshire" "North Warwickshire" "2011/12" 4816.4
+"Warwickshire" "Nuneaton and Bedworth" "2011/12" 4816.4
+"Warwickshire" "Rugby" "2011/12" 4816.4
+"Warwickshire" "Stratford-on-Avon" "2011/12" 4816.4
+"Warwickshire" "Warwick" "2011/12" 4816.4
+"Barnet" "Barnet" "2011/12" 23960
+"Suffolk" "Babergh" "2011/12" 3407.71428571429
+"Suffolk" "Forest Heath" "2011/12" 3407.71428571429
+"Suffolk" "Ipswich" "2011/12" 3407.71428571429
+"Suffolk" "Mid Suffolk" "2011/12" 3407.71428571429
+"Suffolk" "St Edmundsbury" "2011/12" 3407.71428571429
+"Suffolk" "Suffolk Coastal" "2011/12" 3407.71428571429
+"Suffolk" "Waveney" "2011/12" 3407.71428571429
+"Tameside" "Tameside" "2011/12" 23782
+"Rotherham" "Rotherham" "2011/12" 23482
+"Bromley" "Bromley" "2011/12" 22900
+"Newcastle upon Tyne" "Newcastle upon Tyne" "2011/12" 22890
+"Southampton UA" NA "2011/12" 22558
+"Leicester UA" NA "2011/12" 21630
+"North East Lincolnshire UA" NA "2011/12" 21542
+"Wigan" "Wigan" "2011/12" 21426
+"St. Helens" "St. Helens" "2011/12" 21028
+"Croydon" "Croydon" "2011/12" 20944
+"North Somerset UA" NA "2011/12" 20880
+"Derby UA" NA "2011/12" 20862
+"North Tyneside" "North Tyneside" "2011/12" 20508
+"York UA" NA "2011/12" 20046
+"Bristol UA" NA "2011/12" 19780
+"Sunderland" "Sunderland" "2011/12" 19708
+"Bolton" "Bolton" "2011/12" 19340
+"Westminster" "Westminster" "2011/12" 18692
+"Bexley" "Bexley" "2011/12" 18600
+"Stoke-on-Trent UA" NA "2011/12" 18472
+"Harrow" "Harrow" "2011/12" 18390
+"Hackney" "Hackney" "2011/12" 18384
+"Calderdale" "Calderdale" "2011/12" 18148
+"Warrington UA" NA "2011/12" 17172
+"Peterborough UA" NA "2011/12" 17000
+"Herefordshire UA" NA "2011/12" 16764
+"Newham" "Newham" "2011/12" 16598
+"Doncaster" "Doncaster" "2011/12" 16526
+"Brent" "Brent" "2011/12" 16498
+"Bury" "Bury" "2011/12" 16480
+"Oldham" "Oldham" "2011/12" 16394
+"Middlesbrough UA" NA "2011/12" 16230
+"Greenwich" "Greenwich" "2011/12" 16224
+"Barnsley" "Barnsley" "2011/12" 16078
+"Poole UA" NA "2011/12" 15900
+"Rochdale" "Rochdale" "2011/12" 15774
+"Enfield" "Enfield" "2011/12" 15664
+"Kingston upon Hull UA" NA "2011/12" 15620
+"Blackburn with Darwen UA" NA "2011/12" 15400
+"Swindon UA" NA "2011/12" 14948
+"Gateshead" "Gateshead" "2011/12" 14514
+"Haringey" "Haringey" "2011/12" 14478
+"South Gloucestershire UA" NA "2011/12" 14386
+"Brighton and Hove UA" NA "2011/12" 14320
+"Hillingdon" "Hillingdon" "2011/12" 14074
+"Portsmouth UA" NA "2011/12" 13944
+"Stockton-on-Tees UA" NA "2011/12" 13888
+"Coventry" "Coventry" "2011/12" 13878
+"North Lincolnshire UA" NA "2011/12" 13590
+"Barking and Dagenham" "Barking and Dagenham" "2011/12" 13526
+"Wokingham UA" NA "2011/12" 13470
+"Kensington and Chelsea" "Kensington and Chelsea" "2011/12" 13370
+"Redcar and Cleveland UA" NA "2011/12" 12832
+"Torbay UA" NA "2011/12" 12540
+"Hounslow" "Hounslow" "2011/12" 12378
+"Isle of Wight UA" NA "2011/12" 12016
+"Havering" "Havering" "2011/12" 11966
+"Oxfordshire" "Cherwell" "2011/12" 2388.8
+"Oxfordshire" "Oxford" "2011/12" 2388.8
+"Oxfordshire" "South Oxfordshire" "2011/12" 2388.8
+"Oxfordshire" "Vale of White Horse" "2011/12" 2388.8
+"Oxfordshire" "West Oxfordshire" "2011/12" 2388.8
+"Luton UA" NA "2011/12" 11926
+"Solihull" "Solihull" "2011/12" 11828
+"Hammersmith and Fulham" "Hammersmith and Fulham" "2011/12" 11718
+"Blackpool UA" NA "2011/12" 11656
+"Knowsley" "Knowsley" "2011/12" 11350
+"West Berkshire UA" NA "2011/12" 11232
+"Thurrock UA" NA "2011/12" 11160
+"Central Bedfordshire UA" NA "2011/12" 11076
+"Nottingham UA" NA "2011/12" 10920
+"Islington" "Islington" "2011/12" 10864
+"Bournemouth UA" NA "2011/12" 10822
+"Tower Hamlets" "Tower Hamlets" "2011/12" 10002
+"Telford and the Wrekin UA" NA "2011/12" 9970
+"Kingston upon Thames" "Kingston upon Thames" "2011/12" 9728
+"Merton" "Merton" "2011/12" 9476
+"Wandsworth" "Wandsworth" "2011/12" 9294
+"Camden" "Camden" "2011/12" 9278
+"Halton UA" NA "2011/12" 9210
+"Southwark" "Southwark" "2011/12" 9152
+"Windsor and Maidenhead UA" NA "2011/12" 9058
+"Reading UA" NA "2011/12" 9026
+"Walsall" "Walsall" "2011/12" 8910
+"Sutton" "Sutton" "2011/12" 8812
+"Hartlepool UA" NA "2011/12" 8374
+"Waltham Forest" "Waltham Forest" "2011/12" 8306
+"Milton Keynes UA" NA "2011/12" 8072
+"Bedford UA" NA "2011/12" 7966
+"Darlington UA" NA "2011/12" 7858
+"Richmond upon Thames" "Richmond upon Thames" "2011/12" 7552
+"Bath and North East Somerset UA" NA "2011/12" 6576
+"Bracknell Forest UA" NA "2011/12" 6238
+"Slough UA" NA "2011/12" 5222
+"Rutland UA" NA "2011/12" 3670
+"Isles of Scilly" "Isles of Scilly UA" "2011/12" 590
+"City of London" "City of London" "2011/12" 422
+"Cornwall" "Cornwall UA" "2012/13" 115850
+"Hampshire" "Eastleigh" "2012/13" 9586.36363636364
+"Hampshire" "Fareham" "2012/13" 9586.36363636364
+"Hampshire" "Gosport" "2012/13" 9586.36363636364
+"Hampshire" "Hart" "2012/13" 9586.36363636364
+"Hampshire" "Havant" "2012/13" 9586.36363636364
+"Hampshire" "New Forest" "2012/13" 9586.36363636364
+"Hampshire" "Rushmoor" "2012/13" 9586.36363636364
+"Hampshire" "Test Valley" "2012/13" 9586.36363636364
+"Hampshire" "Winchester" "2012/13" 9586.36363636364
+"Hampshire" "Basingstoke and Deane" "2012/13" 9586.36363636364
+"Hampshire" "East Hampshire" "2012/13" 9586.36363636364
+"North Yorkshire" "Craven" "2012/13" 14238.5714285714
+"North Yorkshire" "Hambleton" "2012/13" 14238.5714285714
+"North Yorkshire" "Harrogate" "2012/13" 14238.5714285714
+"North Yorkshire" "Richmondshire" "2012/13" 14238.5714285714
+"North Yorkshire" "Ryedale" "2012/13" 14238.5714285714
+"North Yorkshire" "Scarborough" "2012/13" 14238.5714285714
+"North Yorkshire" "Selby" "2012/13" 14238.5714285714
+"Essex" "Basildon" "2012/13" 8154.16666666667
+"Essex" "Braintree" "2012/13" 8154.16666666667
+"Essex" "Brentwood" "2012/13" 8154.16666666667
+"Essex" "Castle Point" "2012/13" 8154.16666666667
+"Essex" "Chelmsford" "2012/13" 8154.16666666667
+"Essex" "Colchester" "2012/13" 8154.16666666667
+"Essex" "Epping Forest" "2012/13" 8154.16666666667
+"Essex" "Harlow" "2012/13" 8154.16666666667
+"Essex" "Maldon" "2012/13" 8154.16666666667
+"Essex" "Rochford" "2012/13" 8154.16666666667
+"Essex" "Tendring" "2012/13" 8154.16666666667
+"Essex" "Uttlesford" "2012/13" 8154.16666666667
+"Lancashire" "Burnley" "2012/13" 7976.66666666667
+"Lancashire" "Chorley" "2012/13" 7976.66666666667
+"Lancashire" "Fylde" "2012/13" 7976.66666666667
+"Lancashire" "Hyndburn" "2012/13" 7976.66666666667
+"Lancashire" "Lancaster" "2012/13" 7976.66666666667
+"Lancashire" "Pendle" "2012/13" 7976.66666666667
+"Lancashire" "Preston" "2012/13" 7976.66666666667
+"Lancashire" "Ribble Valley" "2012/13" 7976.66666666667
+"Lancashire" "Rossendale" "2012/13" 7976.66666666667
+"Lancashire" "South Ribble" "2012/13" 7976.66666666667
+"Lancashire" "West Lancashire" "2012/13" 7976.66666666667
+"Lancashire" "Wyre" "2012/13" 7976.66666666667
+"Norfolk" "Breckland" "2012/13" 12598.5714285714
+"Norfolk" "Broadland" "2012/13" 12598.5714285714
+"Norfolk" "Great Yarmouth" "2012/13" 12598.5714285714
+"Norfolk" "King’s Lynn and West Norfolk" "2012/13" 12598.5714285714
+"Norfolk" "North Norfolk" "2012/13" 12598.5714285714
+"Norfolk" "Norwich" "2012/13" 12598.5714285714
+"Norfolk" "South Norfolk" "2012/13" 12598.5714285714
+"Ealing" "Ealing" "2012/13" 87950
+"Hertfordshire" "Broxbourne" "2012/13" 7976
+"Hertfordshire" "Dacorum" "2012/13" 7976
+"Hertfordshire" "East Hertfordshire" "2012/13" 7976
+"Hertfordshire" "Hertsmere" "2012/13" 7976
+"Hertfordshire" "North Hertfordshire" "2012/13" 7976
+"Hertfordshire" "St Albans" "2012/13" 7976
+"Hertfordshire" "Stevenage" "2012/13" 7976
+"Hertfordshire" "Three Rivers" "2012/13" 7976
+"Hertfordshire" "Watford" "2012/13" 7976
+"Hertfordshire" "Welwyn Hatfield" "2012/13" 7976
+"Devon" "East Devon" "2012/13" 9213.75
+"Devon" "Exeter" "2012/13" 9213.75
+"Devon" "Mid Devon" "2012/13" 9213.75
+"Devon" "North Devon" "2012/13" 9213.75
+"Devon" "South Hams" "2012/13" 9213.75
+"Devon" "Teignbridge" "2012/13" 9213.75
+"Devon" "Torridge" "2012/13" 9213.75
+"Devon" "West Devon" "2012/13" 9213.75
+"Derbyshire" "Amber Valley" "2012/13" 8970
+"Derbyshire" "Bolsover" "2012/13" 8970
+"Derbyshire" "Chesterfield" "2012/13" 8970
+"Derbyshire" "Derbyshire Dales" "2012/13" 8970
+"Derbyshire" "Erewash" "2012/13" 8970
+"Derbyshire" "High Peak" "2012/13" 8970
+"Derbyshire" "North East Derbyshire" "2012/13" 8970
+"Derbyshire" "South Derbyshire" "2012/13" 8970
+"Surrey" "Elmbridge" "2012/13" 6203.63636363636
+"Surrey" "Epsom and Ewell" "2012/13" 6203.63636363636
+"Surrey" "Guildford" "2012/13" 6203.63636363636
+"Surrey" "Mole Valley" "2012/13" 6203.63636363636
+"Surrey" "Reigate and Banstead" "2012/13" 6203.63636363636
+"Surrey" "Runnymede" "2012/13" 6203.63636363636
+"Surrey" "Spelthorne" "2012/13" 6203.63636363636
+"Surrey" "Surrey Heath" "2012/13" 6203.63636363636
+"Surrey" "Tandridge" "2012/13" 6203.63636363636
+"Surrey" "Waverley" "2012/13" 6203.63636363636
+"Surrey" "Woking" "2012/13" 6203.63636363636
+"Kent" "Ashford" "2012/13" 5660.83333333333
+"Kent" "Canterbury" "2012/13" 5660.83333333333
+"Kent" "Dartford" "2012/13" 5660.83333333333
+"Kent" "Dover" "2012/13" 5660.83333333333
+"Kent" "Gravesham" "2012/13" 5660.83333333333
+"Kent" "Maidstone" "2012/13" 5660.83333333333
+"Kent" "Sevenoaks" "2012/13" 5660.83333333333
+"Kent" "Shepway" "2012/13" 5660.83333333333
+"Kent" "Swale" "2012/13" 5660.83333333333
+"Kent" "Thanet" "2012/13" 5660.83333333333
+"Kent" "Tonbridge and Malling" "2012/13" 5660.83333333333
+"Kent" "Tunbridge Wells" "2012/13" 5660.83333333333
+"Nottinghamshire" "Ashfield" "2012/13" 9471.42857142857
+"Nottinghamshire" "Bassetlaw" "2012/13" 9471.42857142857
+"Nottinghamshire" "Broxtowe" "2012/13" 9471.42857142857
+"Nottinghamshire" "Gedling" "2012/13" 9471.42857142857
+"Nottinghamshire" "Mansfield" "2012/13" 9471.42857142857
+"Nottinghamshire" "Newark and Sherwood" "2012/13" 9471.42857142857
+"Nottinghamshire" "Rushcliffe" "2012/13" 9471.42857142857
+"Birmingham" "Birmingham" "2012/13" 65140
+"Lincolnshire" "Boston" "2012/13" 9285.71428571429
+"Lincolnshire" "East Lindsey" "2012/13" 9285.71428571429
+"Lincolnshire" "Lincoln" "2012/13" 9285.71428571429
+"Lincolnshire" "North Kesteven" "2012/13" 9285.71428571429
+"Lincolnshire" "South Holland" "2012/13" 9285.71428571429
+"Lincolnshire" "South Kesteven" "2012/13" 9285.71428571429
+"Lincolnshire" "West Lindsey" "2012/13" 9285.71428571429
+"Gloucestershire" "Cheltenham" "2012/13" 10306.6666666667
+"Gloucestershire" "Cotswold" "2012/13" 10306.6666666667
+"Gloucestershire" "Forest of Dean" "2012/13" 10306.6666666667
+"Gloucestershire" "Gloucester" "2012/13" 10306.6666666667
+"Gloucestershire" "Stroud" "2012/13" 10306.6666666667
+"Gloucestershire" "Tewkesbury" "2012/13" 10306.6666666667
+"Bradford" "Bradford" "2012/13" 60920
+"Northamptonshire" "Corby" "2012/13" 8022.85714285714
+"Northamptonshire" "Daventry" "2012/13" 8022.85714285714
+"Northamptonshire" "East Northamptonshire" "2012/13" 8022.85714285714
+"Northamptonshire" "Kettering" "2012/13" 8022.85714285714
+"Northamptonshire" "Northampton" "2012/13" 8022.85714285714
+"Northamptonshire" "South Northamptonshire" "2012/13" 8022.85714285714
+"Northamptonshire" "Wellingborough" "2012/13" 8022.85714285714
+"Wiltshire" "Wiltshire UA" "2012/13" 52760
+"Sandwell" "Sandwell" "2012/13" 52290
+"Staffordshire" "Cannock Chase" "2012/13" 6393.75
+"Staffordshire" "East Staffordshire" "2012/13" 6393.75
+"Staffordshire" "Lichfield" "2012/13" 6393.75
+"Staffordshire" "Newcastle-under-Lyme" "2012/13" 6393.75
+"Staffordshire" "South Staffordshire" "2012/13" 6393.75
+"Staffordshire" "Stafford" "2012/13" 6393.75
+"Staffordshire" "Staffordshire Moorlands" "2012/13" 6393.75
+"Staffordshire" "Tamworth" "2012/13" 6393.75
+"Cambridgeshire" "Cambridge" "2012/13" 9290
+"Cambridgeshire" "East Cambridgeshire" "2012/13" 9290
+"Cambridgeshire" "Fenland" "2012/13" 9290
+"Cambridgeshire" "Huntingdonshire" "2012/13" 9290
+"Cambridgeshire" "South Cambridgeshire" "2012/13" 9290
+"Dudley" "Dudley" "2012/13" 45250
+"Leicestershire" "Blaby" "2012/13" 6302.85714285714
+"Leicestershire" "Charnwood" "2012/13" 6302.85714285714
+"Leicestershire" "Harborough" "2012/13" 6302.85714285714
+"Leicestershire" "Hinckley and Bosworth" "2012/13" 6302.85714285714
+"Leicestershire" "Melton" "2012/13" 6302.85714285714
+"Leicestershire" "North West Leicestershire" "2012/13" 6302.85714285714
+"Leicestershire" "Oadby and Wigston" "2012/13" 6302.85714285714
+"Worcestershire" "Bromsgrove" "2012/13" 7250
+"Worcestershire" "Malvern Hills" "2012/13" 7250
+"Worcestershire" "Redditch" "2012/13" 7250
+"Worcestershire" "Worcester" "2012/13" 7250
+"Worcestershire" "Wychavon" "2012/13" 7250
+"Worcestershire" "Wyre Forest" "2012/13" 7250
+"Cumbria" "Allerdale" "2012/13" 6970
+"Cumbria" "Barrow-in-Furness" "2012/13" 6970
+"Cumbria" "Carlisle" "2012/13" 6970
+"Cumbria" "Copeland" "2012/13" 6970
+"Cumbria" "Eden" "2012/13" 6970
+"Cumbria" "South Lakeland" "2012/13" 6970
+"Medway Towns" "Medway UA" "2012/13" 41810
+"Kirklees" "Kirklees" "2012/13" 39330
+"Buckinghamshire" "Aylesbury Vale" "2012/13" 9672.5
+"Buckinghamshire" "Chiltern" "2012/13" 9672.5
+"Buckinghamshire" "South Bucks" "2012/13" 9672.5
+"Buckinghamshire" "Wycombe" "2012/13" 9672.5
+"West Sussex" "Adur" "2012/13" 5488.57142857143
+"West Sussex" "Arun" "2012/13" 5488.57142857143
+"West Sussex" "Chichester" "2012/13" 5488.57142857143
+"West Sussex" "Crawley" "2012/13" 5488.57142857143
+"West Sussex" "Horsham" "2012/13" 5488.57142857143
+"West Sussex" "Mid Sussex" "2012/13" 5488.57142857143
+"West Sussex" "Worthing" "2012/13" 5488.57142857143
+"Leeds" "Leeds" "2012/13" 36560
+"Wakefield" "Wakefield" "2012/13" 34680
+"Sefton" "Sefton" "2012/13" 34130
+"Somerset" "Mendip" "2012/13" 6398
+"Somerset" "Sedgemoor" "2012/13" 6398
+"Somerset" "South Somerset" "2012/13" 6398
+"Somerset" "Taunton Deane" "2012/13" 6398
+"Somerset" "West Somerset" "2012/13" 6398
+"Durham" "County Durham UA" "2012/13" 30920
+"Cheshire East" "Cheshire East UA" "2012/13" 30810
+"Cheshire West and Chester" "Chester" "2012/13" 30710
+"Southend-on-Sea" "Southend-on-Sea UA" "2012/13" 30710
+"Liverpool" "Liverpool" "2012/13" 30430
+"Stockport" "Stockport" "2012/13" 29440
+"East Sussex" "Eastbourne" "2012/13" 5876
+"East Sussex" "Hastings" "2012/13" 5876
+"East Sussex" "Lewes" "2012/13" 5876
+"East Sussex" "Rother" "2012/13" 5876
+"East Sussex" "Wealden" "2012/13" 5876
+"Lambeth" "Lambeth" "2012/13" 29200
+"Dorset" "Christchurch" "2012/13" 4820
+"Dorset" "East Dorset" "2012/13" 4820
+"Dorset" "North Dorset" "2012/13" 4820
+"Dorset" "Purbeck" "2012/13" 4820
+"Dorset" "West Dorset" "2012/13" 4820
+"Dorset" "Weymouth and Portland" "2012/13" 4820
+"Trafford" "Trafford" "2012/13" 28770
+"Sheffield" "Sheffield" "2012/13" 28660
+"Salford" "Salford" "2012/13" 28440
+"Wirral" "Wirral" "2012/13" 27980
+"Northumberland" "Northumberland UA" "2012/13" 27640
+"East Riding of Yorkshire" "East Riding of Yorkshire UA" "2012/13" 27480
+"St. Helens" "St. Helens" "2012/13" 26960
+"Wolverhampton" "Wolverhampton" "2012/13" 26700
+"Manchester" "Manchester" "2012/13" 26640
+"Lewisham" "Lewisham" "2012/13" 26390
+"Redbridge" "Redbridge" "2012/13" 22760
+"Leicester" "Leicester UA" "2012/13" 22600
+"North Somerset" "North Somerset UA" "2012/13" 22510
+"Suffolk" "Babergh" "2012/13" 3198.57142857143
+"Suffolk" "Forest Heath" "2012/13" 3198.57142857143
+"Suffolk" "Ipswich" "2012/13" 3198.57142857143
+"Suffolk" "Mid Suffolk" "2012/13" 3198.57142857143
+"Suffolk" "St Edmundsbury" "2012/13" 3198.57142857143
+"Suffolk" "Suffolk Coastal" "2012/13" 3198.57142857143
+"Suffolk" "Waveney" "2012/13" 3198.57142857143
+"Bromley" "Bromley" "2012/13" 22180
+"York" "York UA" "2012/13" 21790
+"Sunderland" "Sunderland" "2012/13" 21630
+"Rotherham" "Rotherham" "2012/13" 21410
+"Newham" "Newham" "2012/13" 21270
+"Warwickshire" "North Warwickshire" "2012/13" 4228
+"Warwickshire" "Nuneaton and Bedworth" "2012/13" 4228
+"Warwickshire" "Rugby" "2012/13" 4228
+"Warwickshire" "Stratford-on-Avon" "2012/13" 4228
+"Warwickshire" "Warwick" "2012/13" 4228
+"Barking and Dagenham" "Barking and Dagenham" "2012/13" 20760
+"Herefordshire" "Herefordshire, County of UA" "2012/13" 20540
+"Wigan" "Wigan" "2012/13" 20420
+"Barnet" "Barnet" "2012/13" 20120
+"Greenwich" "Greenwich" "2012/13" 19900
+"South Tyneside" "South Tyneside" "2012/13" 19900
+"Newcastle upon Tyne" "Newcastle upon Tyne" "2012/13" 19820
+"Harrow" "Harrow" "2012/13" 19650
+"Derby" "Derby UA" "2012/13" 19200
+"Bolton" "Bolton" "2012/13" 19030
+"Bristol" "Bristol, City of UA" "2012/13" 18350
+"Croydon" "Croydon" "2012/13" 18200
+"Southampton" "Southampton UA" "2012/13" 18160
+"North Tyneside" "North Tyneside" "2012/13" 17200
+"Tameside" "Tameside" "2012/13" 17060
+"Haringey" "Haringey" "2012/13" 16750
+"Peterborough" "Peterborough UA" "2012/13" 16680
+"Calderdale" "Calderdale" "2012/13" 16640
+"Doncaster" "Doncaster" "2012/13" 16640
+"Plymouth" "Plymouth UA" "2012/13" 16610
+"Bexley" "Bexley" "2012/13" 16440
+"Kingston upon Hull" "Kingston upon Hull, City of UA" "2012/13" 16320
+"North East Lincolnshire" "North East Lincolnshire UA" "2012/13" 16000
+"Swindon" "Swindon UA" "2012/13" 15860
+"Bury" "Bury" "2012/13" 15760
+"Middlesbrough" "Middlesbrough UA" "2012/13" 15510
+"North Lincolnshire" "North Lincolnshire UA" "2012/13" 15410
+"Enfield" "Enfield" "2012/13" 15240
+"Hackney" "Hackney" "2012/13" 15130
+"Stoke-on-Trent" "Stoke-on-Trent UA" "2012/13" 14910
+"Oldham" "Oldham" "2012/13" 14830
+"Rochdale" "Rochdale" "2012/13" 14730
+"Westminster" "Westminster" "2012/13" 14600
+"Coventry" "Coventry" "2012/13" 13920
+"Barnsley" "Barnsley" "2012/13" 13910
+"Luton" "Luton UA" "2012/13" 13310
+"Poole" "Poole UA" "2012/13" 13250
+"Shropshire" "Shropshire UA" "2012/13" 13060
+"Gateshead" "Gateshead" "2012/13" 13010
+"Warrington" "Warrington UA" "2012/13" 12760
+"Kensington and Chelsea" "Kensington and Chelsea" "2012/13" 12710
+"Brighton and Hove" "Brighton and Hove UA" "2012/13" 12660
+"South Gloucestershire" "South Gloucestershire UA" "2012/13" 12490
+"Torbay" "Torbay UA" "2012/13" 12320
+"Havering" "Havering" "2012/13" 12260
+"Wokingham" "Wokingham UA" "2012/13" 12090
+"Bournemouth" "Bournemouth UA" "2012/13" 11880
+"Redcar and Cleveland" "Redcar and Cleveland UA" "2012/13" 11870
+"Brent" "Brent" "2012/13" 11730
+"Stockton-on-Tees" "Stockton-on-Tees UA" "2012/13" 11680
+"Oxfordshire" "Cherwell" "2012/13" 2320
+"Oxfordshire" "Oxford" "2012/13" 2320
+"Oxfordshire" "South Oxfordshire" "2012/13" 2320
+"Oxfordshire" "Vale of White Horse" "2012/13" 2320
+"Oxfordshire" "West Oxfordshire" "2012/13" 2320
+"Blackburn with Darwen" "Blackburn with Darwen UA" "2012/13" 11390
+"Knowsley" "Knowsley" "2012/13" 11030
+"Central Bedfordshire" "Central Bedfordshire UA" "2012/13" 10990
+"Waltham Forest" "Waltham Forest" "2012/13" 10920
+"Portsmouth" "Portsmouth UA" "2012/13" 10840
+"Tower Hamlets" "Tower Hamlets" "2012/13" 10720
+"Hounslow" "Hounslow" "2012/13" 10650
+"Nottingham" "Nottingham UA" "2012/13" 10460
+"Solihull" "Solihull" "2012/13" 10100
+"Hartlepool" "Hartlepool UA" "2012/13" 9690
+"Camden" "Camden" "2012/13" 9390
+"Halton" "Halton UA" "2012/13" 9290
+"Richmond upon Thames" "Richmond upon Thames" "2012/13" 9250
+"Thurrock" "Thurrock UA" "2012/13" 9210
+"Southwark" "Southwark" "2012/13" 9150
+"Isle of Wight" "Isle of Wight UA" "2012/13" 9000
+"Walsall" "Walsall" "2012/13" 8920
+"Wandsworth" "Wandsworth" "2012/13" 8880
+"West Berkshire" "West Berkshire UA" "2012/13" 8680
+"Milton Keynes" "Milton Keynes UA" "2012/13" 8550
+"Windsor and Maidenhead" "Windsor and Maidenhead UA" "2012/13" 8480
+"Islington" "Islington" "2012/13" 8060
+"Kingston upon Thames" "Kingston upon Thames" "2012/13" 7740
+"Bracknell Forest" "Bracknell Forest UA" "2012/13" 7690
+"Sutton" "Sutton" "2012/13" 7580
+"Hillingdon" "Hillingdon" "2012/13" 7530
+"Darlington" "Darlington UA" "2012/13" 7500
+"Bedford" "Bedford UA" "2012/13" 7260
+"Merton" "Merton" "2012/13" 6860
+"Telford and the Wrekin" "Telford and Wrekin UA" "2012/13" 6690
+"Blackpool" "Blackpool UA" "2012/13" 6480
+"Bath and North East Somerset" "Bath and North East Somerset UA" "2012/13" 5830
+"Reading" "Reading UA" "2012/13" 5420
+"Hammersmith and Fulham" "Hammersmith and Fulham" "2012/13" 5160
+"Slough" "Slough UA" "2012/13" 3530
+"Rutland" "Rutland UA" "2012/13" 3390
+"Isles of Scilly" "Isles of Scilly UA" "2012/13" 540
+"City of London" "City of London" "2012/13" 290
+"Cornwall" "Cornwall UA" "2013/14" 123940
+"Hampshire" "Eastleigh" "2013/14" 9939.09090909091
+"Hampshire" "Fareham" "2013/14" 9939.09090909091
+"Hampshire" "Gosport" "2013/14" 9939.09090909091
+"Hampshire" "Hart" "2013/14" 9939.09090909091
+"Hampshire" "Havant" "2013/14" 9939.09090909091
+"Hampshire" "New Forest" "2013/14" 9939.09090909091
+"Hampshire" "Rushmoor" "2013/14" 9939.09090909091
+"Hampshire" "Test Valley" "2013/14" 9939.09090909091
+"Hampshire" "Winchester" "2013/14" 9939.09090909091
+"Hampshire" "Basingstoke and Deane" "2013/14" 9939.09090909091
+"Hampshire" "East Hampshire" "2013/14" 9939.09090909091
+"North Yorkshire" "Craven" "2013/14" 14795.7142857143
+"North Yorkshire" "Hambleton" "2013/14" 14795.7142857143
+"North Yorkshire" "Harrogate" "2013/14" 14795.7142857143
+"North Yorkshire" "Richmondshire" "2013/14" 14795.7142857143
+"North Yorkshire" "Ryedale" "2013/14" 14795.7142857143
+"North Yorkshire" "Scarborough" "2013/14" 14795.7142857143
+"North Yorkshire" "Selby" "2013/14" 14795.7142857143
+"Essex" "Basildon" "2013/14" 8241.66666666667
+"Essex" "Braintree" "2013/14" 8241.66666666667
+"Essex" "Brentwood" "2013/14" 8241.66666666667
+"Essex" "Castle Point" "2013/14" 8241.66666666667
+"Essex" "Chelmsford" "2013/14" 8241.66666666667
+"Essex" "Colchester" "2013/14" 8241.66666666667
+"Essex" "Epping Forest" "2013/14" 8241.66666666667
+"Essex" "Harlow" "2013/14" 8241.66666666667
+"Essex" "Maldon" "2013/14" 8241.66666666667
+"Essex" "Rochford" "2013/14" 8241.66666666667
+"Essex" "Tendring" "2013/14" 8241.66666666667
+"Essex" "Uttlesford" "2013/14" 8241.66666666667
+"Lancashire" "Burnley" "2013/14" 7868.33333333333
+"Lancashire" "Chorley" "2013/14" 7868.33333333333
+"Lancashire" "Fylde" "2013/14" 7868.33333333333
+"Lancashire" "Hyndburn" "2013/14" 7868.33333333333
+"Lancashire" "Lancaster" "2013/14" 7868.33333333333
+"Lancashire" "Pendle" "2013/14" 7868.33333333333
+"Lancashire" "Preston" "2013/14" 7868.33333333333
+"Lancashire" "Ribble Valley" "2013/14" 7868.33333333333
+"Lancashire" "Rossendale" "2013/14" 7868.33333333333
+"Lancashire" "South Ribble" "2013/14" 7868.33333333333
+"Lancashire" "West Lancashire" "2013/14" 7868.33333333333
+"Lancashire" "Wyre" "2013/14" 7868.33333333333
+"Lincolnshire" "Boston" "2013/14" 12784.2857142857
+"Lincolnshire" "East Lindsey" "2013/14" 12784.2857142857
+"Lincolnshire" "Lincoln" "2013/14" 12784.2857142857
+"Lincolnshire" "North Kesteven" "2013/14" 12784.2857142857
+"Lincolnshire" "South Holland" "2013/14" 12784.2857142857
+"Lincolnshire" "South Kesteven" "2013/14" 12784.2857142857
+"Lincolnshire" "West Lindsey" "2013/14" 12784.2857142857
+"Hertfordshire" "Broxbourne" "2013/14" 8937
+"Hertfordshire" "Dacorum" "2013/14" 8937
+"Hertfordshire" "East Hertfordshire" "2013/14" 8937
+"Hertfordshire" "Hertsmere" "2013/14" 8937
+"Hertfordshire" "North Hertfordshire" "2013/14" 8937
+"Hertfordshire" "St Albans" "2013/14" 8937
+"Hertfordshire" "Stevenage" "2013/14" 8937
+"Hertfordshire" "Three Rivers" "2013/14" 8937
+"Hertfordshire" "Watford" "2013/14" 8937
+"Hertfordshire" "Welwyn Hatfield" "2013/14" 8937
+"Ealing" "Ealing" "2013/14" 88980
+"Norfolk" "Breckland" "2013/14" 12088.5714285714
+"Norfolk" "Broadland" "2013/14" 12088.5714285714
+"Norfolk" "Great Yarmouth" "2013/14" 12088.5714285714
+"Norfolk" "King’s Lynn and West Norfolk" "2013/14" 12088.5714285714
+"Norfolk" "North Norfolk" "2013/14" 12088.5714285714
+"Norfolk" "Norwich" "2013/14" 12088.5714285714
+"Norfolk" "South Norfolk" "2013/14" 12088.5714285714
+"Derbyshire" "Amber Valley" "2013/14" 9967.5
+"Derbyshire" "Bolsover" "2013/14" 9967.5
+"Derbyshire" "Chesterfield" "2013/14" 9967.5
+"Derbyshire" "Derbyshire Dales" "2013/14" 9967.5
+"Derbyshire" "Erewash" "2013/14" 9967.5
+"Derbyshire" "High Peak" "2013/14" 9967.5
+"Derbyshire" "North East Derbyshire" "2013/14" 9967.5
+"Derbyshire" "South Derbyshire" "2013/14" 9967.5
+"Kent" "Ashford" "2013/14" 6276.66666666667
+"Kent" "Canterbury" "2013/14" 6276.66666666667
+"Kent" "Dartford" "2013/14" 6276.66666666667
+"Kent" "Dover" "2013/14" 6276.66666666667
+"Kent" "Gravesham" "2013/14" 6276.66666666667
+"Kent" "Maidstone" "2013/14" 6276.66666666667
+"Kent" "Sevenoaks" "2013/14" 6276.66666666667
+"Kent" "Shepway" "2013/14" 6276.66666666667
+"Kent" "Swale" "2013/14" 6276.66666666667
+"Kent" "Thanet" "2013/14" 6276.66666666667
+"Kent" "Tonbridge and Malling" "2013/14" 6276.66666666667
+"Kent" "Tunbridge Wells" "2013/14" 6276.66666666667
+"Devon" "East Devon" "2013/14" 9105
+"Devon" "Exeter" "2013/14" 9105
+"Devon" "Mid Devon" "2013/14" 9105
+"Devon" "North Devon" "2013/14" 9105
+"Devon" "South Hams" "2013/14" 9105
+"Devon" "Teignbridge" "2013/14" 9105
+"Devon" "Torridge" "2013/14" 9105
+"Devon" "West Devon" "2013/14" 9105
+"Birmingham" "Birmingham" "2013/14" 71800
+"Surrey" "Elmbridge" "2013/14" 6300
+"Surrey" "Epsom and Ewell" "2013/14" 6300
+"Surrey" "Guildford" "2013/14" 6300
+"Surrey" "Mole Valley" "2013/14" 6300
+"Surrey" "Reigate and Banstead" "2013/14" 6300
+"Surrey" "Runnymede" "2013/14" 6300
+"Surrey" "Spelthorne" "2013/14" 6300
+"Surrey" "Surrey Heath" "2013/14" 6300
+"Surrey" "Tandridge" "2013/14" 6300
+"Surrey" "Waverley" "2013/14" 6300
+"Surrey" "Woking" "2013/14" 6300
+"Gloucestershire" "Cheltenham" "2013/14" 10285
+"Gloucestershire" "Cotswold" "2013/14" 10285
+"Gloucestershire" "Forest of Dean" "2013/14" 10285
+"Gloucestershire" "Gloucester" "2013/14" 10285
+"Gloucestershire" "Stroud" "2013/14" 10285
+"Gloucestershire" "Tewkesbury" "2013/14" 10285
+"Wiltshire" "Wiltshire UA" "2013/14" 55290
+"Nottinghamshire" "Ashfield" "2013/14" 7795.71428571429
+"Nottinghamshire" "Bassetlaw" "2013/14" 7795.71428571429
+"Nottinghamshire" "Broxtowe" "2013/14" 7795.71428571429
+"Nottinghamshire" "Gedling" "2013/14" 7795.71428571429
+"Nottinghamshire" "Mansfield" "2013/14" 7795.71428571429
+"Nottinghamshire" "Newark and Sherwood" "2013/14" 7795.71428571429
+"Nottinghamshire" "Rushcliffe" "2013/14" 7795.71428571429
+"Bradford" "Bradford" "2013/14" 53560
+"Buckinghamshire" "Aylesbury Vale" "2013/14" 12877.5
+"Buckinghamshire" "Chiltern" "2013/14" 12877.5
+"Buckinghamshire" "South Bucks" "2013/14" 12877.5
+"Buckinghamshire" "Wycombe" "2013/14" 12877.5
+"Sandwell" "Sandwell" "2013/14" 51410
+"Leicestershire" "Blaby" "2013/14" 7151.42857142857
+"Leicestershire" "Charnwood" "2013/14" 7151.42857142857
+"Leicestershire" "Harborough" "2013/14" 7151.42857142857
+"Leicestershire" "Hinckley and Bosworth" "2013/14" 7151.42857142857
+"Leicestershire" "Melton" "2013/14" 7151.42857142857
+"Leicestershire" "North West Leicestershire" "2013/14" 7151.42857142857
+"Leicestershire" "Oadby and Wigston" "2013/14" 7151.42857142857
+"Cambridgeshire" "Cambridge" "2013/14" 9852
+"Cambridgeshire" "East Cambridgeshire" "2013/14" 9852
+"Cambridgeshire" "Fenland" "2013/14" 9852
+"Cambridgeshire" "Huntingdonshire" "2013/14" 9852
+"Cambridgeshire" "South Cambridgeshire" "2013/14" 9852
+"Staffordshire" "Cannock Chase" "2013/14" 6040
+"Staffordshire" "East Staffordshire" "2013/14" 6040
+"Staffordshire" "Lichfield" "2013/14" 6040
+"Staffordshire" "Newcastle-under-Lyme" "2013/14" 6040
+"Staffordshire" "South Staffordshire" "2013/14" 6040
+"Staffordshire" "Stafford" "2013/14" 6040
+"Staffordshire" "Staffordshire Moorlands" "2013/14" 6040
+"Staffordshire" "Tamworth" "2013/14" 6040
+"Kirklees" "Kirklees" "2013/14" 48140
+"Dudley" "Dudley" "2013/14" 46240
+"Medway Towns" "Medway UA" "2013/14" 42850
+"Cumbria" "Allerdale" "2013/14" 7093.33333333333
+"Cumbria" "Barrow-in-Furness" "2013/14" 7093.33333333333
+"Cumbria" "Carlisle" "2013/14" 7093.33333333333
+"Cumbria" "Copeland" "2013/14" 7093.33333333333
+"Cumbria" "Eden" "2013/14" 7093.33333333333
+"Cumbria" "South Lakeland" "2013/14" 7093.33333333333
+"Manchester" "Manchester" "2013/14" 40530
+"Northamptonshire" "Corby" "2013/14" 5732.85714285714
+"Northamptonshire" "Daventry" "2013/14" 5732.85714285714
+"Northamptonshire" "East Northamptonshire" "2013/14" 5732.85714285714
+"Northamptonshire" "Kettering" "2013/14" 5732.85714285714
+"Northamptonshire" "Northampton" "2013/14" 5732.85714285714
+"Northamptonshire" "South Northamptonshire" "2013/14" 5732.85714285714
+"Northamptonshire" "Wellingborough" "2013/14" 5732.85714285714
+"Wakefield" "Wakefield" "2013/14" 39470
+"Worcestershire" "Bromsgrove" "2013/14" 6470
+"Worcestershire" "Malvern Hills" "2013/14" 6470
+"Worcestershire" "Redditch" "2013/14" 6470
+"Worcestershire" "Worcester" "2013/14" 6470
+"Worcestershire" "Wychavon" "2013/14" 6470
+"Worcestershire" "Wyre Forest" "2013/14" 6470
+"Southend-on-Sea" "Southend-on-Sea UA" "2013/14" 36930
+"Leeds" "Leeds" "2013/14" 35060
+"West Sussex" "Adur" "2013/14" 4831.42857142857
+"West Sussex" "Arun" "2013/14" 4831.42857142857
+"West Sussex" "Chichester" "2013/14" 4831.42857142857
+"West Sussex" "Crawley" "2013/14" 4831.42857142857
+"West Sussex" "Horsham" "2013/14" 4831.42857142857
+"West Sussex" "Mid Sussex" "2013/14" 4831.42857142857
+"West Sussex" "Worthing" "2013/14" 4831.42857142857
+"Sheffield" "Sheffield" "2013/14" 32300
+"Cheshire West and Chester" "Chester" "2013/14" 32280
+"Lambeth" "Lambeth" "2013/14" 31160
+"Liverpool" "Liverpool" "2013/14" 30690
+"Calderdale" "Calderdale" "2013/14" 30200
+"East Riding of Yorkshire" "East Riding of Yorkshire UA" "2013/14" 28870
+"Trafford" "Trafford" "2013/14" 28420
+"Durham" "County Durham UA" "2013/14" 28410
+"Cheshire East" "Cheshire East UA" "2013/14" 28250
+"Suffolk" "Babergh" "2013/14" 3962.85714285714
+"Suffolk" "Forest Heath" "2013/14" 3962.85714285714
+"Suffolk" "Ipswich" "2013/14" 3962.85714285714
+"Suffolk" "Mid Suffolk" "2013/14" 3962.85714285714
+"Suffolk" "St Edmundsbury" "2013/14" 3962.85714285714
+"Suffolk" "Suffolk Coastal" "2013/14" 3962.85714285714
+"Suffolk" "Waveney" "2013/14" 3962.85714285714
+"Stockport" "Stockport" "2013/14" 27300
+"St. Helens" "St. Helens" "2013/14" 27110
+"Northumberland" "Northumberland UA" "2013/14" 26960
+"Salford" "Salford" "2013/14" 26460
+"North Somerset" "North Somerset UA" "2013/14" 26440
+"East Sussex" "Eastbourne" "2013/14" 5192
+"East Sussex" "Hastings" "2013/14" 5192
+"East Sussex" "Lewes" "2013/14" 5192
+"East Sussex" "Rother" "2013/14" 5192
+"East Sussex" "Wealden" "2013/14" 5192
+"Wirral" "Wirral" "2013/14" 25780
+"Leicester" "Leicester UA" "2013/14" 25310
+"Dorset" "Christchurch" "2013/14" 4181.66666666667
+"Dorset" "East Dorset" "2013/14" 4181.66666666667
+"Dorset" "North Dorset" "2013/14" 4181.66666666667
+"Dorset" "Purbeck" "2013/14" 4181.66666666667
+"Dorset" "West Dorset" "2013/14" 4181.66666666667
+"Dorset" "Weymouth and Portland" "2013/14" 4181.66666666667
+"Wolverhampton" "Wolverhampton" "2013/14" 25090
+"Sunderland" "Sunderland" "2013/14" 23850
+"Redbridge" "Redbridge" "2013/14" 22630
+"Lewisham" "Lewisham" "2013/14" 22330
+"Barnet" "Barnet" "2013/14" 21650
+"Bromley" "Bromley" "2013/14" 21500
+"York" "York UA" "2013/14" 21280
+"Harrow" "Harrow" "2013/14" 21060
+"Newcastle upon Tyne" "Newcastle upon Tyne" "2013/14" 20400
+"Bolton" "Bolton" "2013/14" 20240
+"Newham" "Newham" "2013/14" 19930
+"Wigan" "Wigan" "2013/14" 19570
+"Plymouth" "Plymouth UA" "2013/14" 19440
+"Warwickshire" "North Warwickshire" "2013/14" 3880
+"Warwickshire" "Nuneaton and Bedworth" "2013/14" 3880
+"Warwickshire" "Rugby" "2013/14" 3880
+"Warwickshire" "Stratford-on-Avon" "2013/14" 3880
+"Warwickshire" "Warwick" "2013/14" 3880
+"Barking and Dagenham" "Barking and Dagenham" "2013/14" 19160
+"Croydon" "Croydon" "2013/14" 18950
+"Herefordshire" "Herefordshire, County of UA" "2013/14" 18500
+"Somerset" "Mendip" "2013/14" 3688
+"Somerset" "Sedgemoor" "2013/14" 3688
+"Somerset" "South Somerset" "2013/14" 3688
+"Somerset" "Taunton Deane" "2013/14" 3688
+"Somerset" "West Somerset" "2013/14" 3688
+"South Tyneside" "South Tyneside" "2013/14" 18320
+"Rotherham" "Rotherham" "2013/14" 18240
+"Southampton" "Southampton UA" "2013/14" 18190
+"Bexley" "Bexley" "2013/14" 18180
+"Greenwich" "Greenwich" "2013/14" 17860
+"Kingston upon Hull" "Kingston upon Hull, City of UA" "2013/14" 17830
+"North Tyneside" "North Tyneside" "2013/14" 17830
+"Tameside" "Tameside" "2013/14" 17380
+"Coventry" "Coventry" "2013/14" 17240
+"Sefton" "Sefton" "2013/14" 17190
+"Peterborough" "Peterborough UA" "2013/14" 16710
+"North Lincolnshire" "North Lincolnshire UA" "2013/14" 16630
+"Stoke-on-Trent" "Stoke-on-Trent UA" "2013/14" 16600
+"Derby" "Derby UA" "2013/14" 16410
+"Bury" "Bury" "2013/14" 16260
+"Bristol" "Bristol, City of UA" "2013/14" 16090
+"Doncaster" "Doncaster" "2013/14" 16080
+"Haringey" "Haringey" "2013/14" 16040
+"Swindon" "Swindon UA" "2013/14" 16040
+"Rochdale" "Rochdale" "2013/14" 15860
+"Hackney" "Hackney" "2013/14" 15330
+"Enfield" "Enfield" "2013/14" 15100
+"Walsall" "Walsall" "2013/14" 14850
+"Poole" "Poole UA" "2013/14" 14330
+"Middlesbrough" "Middlesbrough UA" "2013/14" 14270
+"Luton" "Luton UA" "2013/14" 14000
+"Waltham Forest" "Waltham Forest" "2013/14" 13820
+"South Gloucestershire" "South Gloucestershire UA" "2013/14" 13640
+"Oxfordshire" "Cherwell" "2013/14" 2694
+"Oxfordshire" "Oxford" "2013/14" 2694
+"Oxfordshire" "South Oxfordshire" "2013/14" 2694
+"Oxfordshire" "Vale of White Horse" "2013/14" 2694
+"Oxfordshire" "West Oxfordshire" "2013/14" 2694
+"Oldham" "Oldham" "2013/14" 13430
+"Barnsley" "Barnsley" "2013/14" 13360
+"Havering" "Havering" "2013/14" 13210
+"Westminster" "Westminster" "2013/14" 13210
+"Blackburn with Darwen" "Blackburn with Darwen UA" "2013/14" 13150
+"Hounslow" "Hounslow" "2013/14" 12880
+"Brighton and Hove" "Brighton and Hove UA" "2013/14" 12840
+"Gateshead" "Gateshead" "2013/14" 12420
+"Redcar and Cleveland" "Redcar and Cleveland UA" "2013/14" 12140
+"Kensington and Chelsea" "Kensington and Chelsea" "2013/14" 11950
+"Central Bedfordshire" "Central Bedfordshire UA" "2013/14" 11580
+"Knowsley" "Knowsley" "2013/14" 11560
+"Tower Hamlets" "Tower Hamlets" "2013/14" 11490
+"Warrington" "Warrington UA" "2013/14" 11310
+"Torbay" "Torbay UA" "2013/14" 11070
+"Stockton-on-Tees" "Stockton-on-Tees UA" "2013/14" 10870
+"Nottingham" "Nottingham UA" "2013/14" 10750
+"Solihull" "Solihull" "2013/14" 10560
+"Wokingham" "Wokingham UA" "2013/14" 10480
+"Shropshire" "Shropshire UA" "2013/14" 10330
+"Bournemouth" "Bournemouth UA" "2013/14" 10240
+"Darlington" "Darlington UA" "2013/14" 10240
+"Richmond upon Thames" "Richmond upon Thames" "2013/14" 9690
+"Portsmouth" "Portsmouth UA" "2013/14" 9410
+"West Berkshire" "West Berkshire UA" "2013/14" 9410
+"Halton" "Halton UA" "2013/14" 9300
+"Southwark" "Southwark" "2013/14" 9300
+"Thurrock" "Thurrock UA" "2013/14" 9100
+"North East Lincolnshire" "North East Lincolnshire UA" "2013/14" 8980
+"Wandsworth" "Wandsworth" "2013/14" 8970
+"Brent" "Brent" "2013/14" 8830
+"Islington" "Islington" "2013/14" 8670
+"Camden" "Camden" "2013/14" 8590
+"Bedford" "Bedford UA" "2013/14" 8470
+"Isle of Wight" "Isle of Wight UA" "2013/14" 8440
+"Kingston upon Thames" "Kingston upon Thames" "2013/14" 8370
+"Windsor and Maidenhead" "Windsor and Maidenhead UA" "2013/14" 8160
+"Milton Keynes" "Milton Keynes UA" "2013/14" 8070
+"Sutton" "Sutton" "2013/14" 7900
+"Telford and the Wrekin" "Telford and Wrekin UA" "2013/14" 7710
+"Blackpool" "Blackpool UA" "2013/14" 7530
+"Reading" "Reading UA" "2013/14" 7320
+"Bracknell Forest" "Bracknell Forest UA" "2013/14" 7220
+"Hillingdon" "Hillingdon" "2013/14" 6950
+"Hartlepool" "Hartlepool UA" "2013/14" 6900
+"Bath and North East Somerset" "Bath and North East Somerset UA" "2013/14" 5120
+"Hammersmith and Fulham" "Hammersmith and Fulham" "2013/14" 4690
+"Merton" "Merton" "2013/14" 4330
+"Rutland" "Rutland UA" "2013/14" 3500
+"Slough" "Slough UA" "2013/14" 3370
+"City of London" "City of London" "2013/14" 290
+"Isles of Scilly" "Isles of Scilly UA" "2013/14" 260
