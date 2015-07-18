@@ -13,48 +13,46 @@ Barrow-in-Furness
 Basildon
 Basingstoke and Deane
 Bassetlaw
-Bath and North East Somerset
-Bedford
+Bath and North East Somerset UA
+Bedford UA
 Bexley
 Birmingham
 Blaby
-Blackburn with Darwen
-Blackpool
+Blackburn with Darwen UA
+Blackpool UA
 Bolsover
 Bolton
 Boston
-Bournemouth
-Bracknell Forest
+Bournemouth UA
+Bracknell Forest UA
 Bradford
 Braintree
 Breckland
 Brent
 Brentwood
-Brighton and Hove
-Bristol, City of
+Brighton and Hove UA
+Bristol, City of UA
 Broadland
 Bromley
 Bromsgrove
 Broxbourne
 Broxtowe
-Buckinghamshire
 Burnley
 Bury
 Calderdale
 Cambridge
-Cambridgeshire
 Camden
 Cannock Chase
 Canterbury
 Carlisle
 Castle Point
-Central Bedfordshire
+Central Bedfordshire UA
 Charnwood
 Chelmsford
 Cheltenham
 Cherwell
-Cheshire East
-Cheshire West and Chester
+Cheshire East UA
+Cheshire West and Chester UA
 Chesterfield
 Chichester
 Chiltern
@@ -64,24 +62,20 @@ City of London
 Colchester
 Copeland
 Corby
-Cornwall
+Cornwall UA
 Cotswold
-County Durham
+County Durham UA
 Coventry
 Craven
 Crawley
 Croydon
-Cumbria
 Dacorum
-Darlington
+Darlington UA
 Dartford
 Daventry
-Derby
-Derbyshire
+Derby UA
 Derbyshire Dales
-Devon
 Doncaster
-Dorset
 Dover
 Dudley
 Ealing
@@ -92,9 +86,8 @@ East Hampshire
 East Hertfordshire
 East Lindsey
 East Northamptonshire
-East Riding of Yorkshire
+East Riding of Yorkshire UA
 East Staffordshire
-East Sussex
 Eastbourne
 Eastleigh
 Eden
@@ -103,7 +96,6 @@ Enfield
 Epping Forest
 Epsom and Ewell
 Erewash
-Essex
 Exeter
 Fareham
 Fenland
@@ -113,30 +105,26 @@ Fylde
 Gateshead
 Gedling
 Gloucester
-Gloucestershire
 Gosport
 Gravesham
 Great Yarmouth
-Greater Manchester (Met County)
 Greenwich
 Guildford
 Hackney
-Halton
+Halton UA
 Hambleton
 Hammersmith and Fulham
-Hampshire
 Harborough
 Haringey
 Harlow
 Harrogate
 Harrow
 Hart
-Hartlepool
+Hartlepool UA
 Hastings
 Havant
 Havering
-Herefordshire, County of
-Hertfordshire
+Herefordshire, County of UA
 Hertsmere
 High Peak
 Hillingdon
@@ -145,89 +133,77 @@ Horsham
 Hounslow
 Huntingdonshire
 Hyndburn
-Inner London
 Ipswich
-Isle of Wight
-Isles of Scilly
+Isle of Wight UA
+Isles of Scilly UA
 Islington
 Kensington and Chelsea
-Kent
 Kettering
-King's Lynn and West Norfolk
-Kingston upon Hull, City of
+Kingston upon Hull, City of UA
 Kingston upon Thames
+King’s Lynn and West Norfolk
 Kirklees
 Knowsley
 Lambeth
-Lancashire
 Lancaster
 Leeds
-Leicester
-Leicestershire
+Leicester UA
 Lewes
 Lewisham
 Lichfield
 Lincoln
-Lincolnshire
 Liverpool
-Luton
+Luton UA
 Maidstone
 Maldon
 Malvern Hills
 Manchester
 Mansfield
-Medway
+Medway UA
 Melton
 Mendip
-Merseyside (Met County)
 Merton
 Mid Devon
 Mid Suffolk
 Mid Sussex
-Middlesbrough
-Milton Keynes
+Middlesbrough UA
+Milton Keynes UA
 Mole Valley
 New Forest
 Newark and Sherwood
 Newcastle upon Tyne
 Newcastle-under-Lyme
 Newham
-Norfolk
 North Devon
 North Dorset
 North East Derbyshire
-North East Lincolnshire
+North East Lincolnshire UA
 North Hertfordshire
 North Kesteven
-North Lincolnshire
+North Lincolnshire UA
 North Norfolk
-North Somerset
+North Somerset UA
 North Tyneside
 North Warwickshire
 North West Leicestershire
-North Yorkshire
 Northampton
-Northamptonshire
-Northumberland
+Northumberland UA
 Norwich
-Nottingham
-Nottinghamshire
+Nottingham UA
 Nuneaton and Bedworth
 Oadby and Wigston
 Oldham
-Outer London
 Oxford
-Oxfordshire
 Pendle
-Peterborough
-Plymouth
-Poole
-Portsmouth
+Peterborough UA
+Plymouth UA
+Poole UA
+Portsmouth UA
 Preston
 Purbeck
-Reading
+Reading UA
 Redbridge
-Redcar and Cleveland
+Redcar and Cleveland UA
 Redditch
 Reigate and Banstead
 Ribble Valley
@@ -242,7 +218,7 @@ Rugby
 Runnymede
 Rushcliffe
 Rushmoor
-Rutland
+Rutland UA
 Ryedale
 Salford
 Sandwell
@@ -253,14 +229,13 @@ Selby
 Sevenoaks
 Sheffield
 Shepway
-Shropshire
-Slough
+Shropshire UA
+Slough UA
 Solihull
-Somerset
 South Bucks
 South Cambridgeshire
 South Derbyshire
-South Gloucestershire
+South Gloucestershire UA
 South Hams
 South Holland
 South Kesteven
@@ -272,90 +247,80 @@ South Ribble
 South Somerset
 South Staffordshire
 South Tyneside
-South Yorkshire (Met County)
-Southampton
-Southend-on-Sea
+Southampton UA
+Southend-on-Sea UA
 Southwark
 Spelthorne
 St Albans
 St Edmundsbury
 St. Helens
 Stafford
-Staffordshire
 Staffordshire Moorlands
 Stevenage
 Stockport
-Stockton-on-Tees
-Stoke-on-Trent
+Stockton-on-Tees UA
+Stoke-on-Trent UA
 Stratford-on-Avon
 Stroud
-Suffolk
 Suffolk Coastal
 Sunderland
-Surrey
 Surrey Heath
 Sutton
 Swale
-Swindon
+Swindon UA
 Tameside
 Tamworth
 Tandridge
 Taunton Deane
 Teignbridge
-Telford and Wrekin
+Telford and Wrekin UA
 Tendring
 Test Valley
 Tewkesbury
 Thanet
 Three Rivers
-Thurrock
+Thurrock UA
 Tonbridge and Malling
-Torbay
+Torbay UA
 Torridge
 Tower Hamlets
 Trafford
 Tunbridge Wells
-Tyne and Wear (Met County)
 Uttlesford
 Vale of White Horse
 Wakefield
 Walsall
 Waltham Forest
 Wandsworth
-Warrington
+Warrington UA
 Warwick
-Warwickshire
 Watford
 Waveney
 Waverley
 Wealden
 Wellingborough
 Welwyn Hatfield
-West Berkshire
+West Berkshire UA
 West Devon
 West Dorset
 West Lancashire
 West Lindsey
-West Midlands (Met County)
 West Oxfordshire
 West Somerset
-West Sussex
-West Yorkshire (Met County)
 Westminster
 Weymouth and Portland
 Wigan
-Wiltshire
+Wiltshire UA
 Winchester
-Windsor and Maidenhead
+Windsor and Maidenhead UA
 Wirral
 Woking
-Wokingham
+Wokingham UA
 Wolverhampton
 Worcester
-Worcestershire
 Worthing
 Wychavon
 Wycombe
 Wyre
 Wyre Forest
-York
+York UA
