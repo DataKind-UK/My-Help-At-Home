@@ -1,0 +1,327 @@
+"county" "Local.authority" "Homes" "Agencies" "Hospitals"
+"Barking and Dagenham" "Barking and Dagenham" 29 47 2
+"Barnet" "Barnet" 117 75 7
+"Barnsley" "Barnsley" 80 28 3
+"Bath and North East Somerset" "Bath and North East Somerset UA" 67 23 9
+"Bedford" "Bedford UA" 86 38 8
+"Bexley" "Bexley" 43 32 4
+"Birmingham" "Birmingham" 368 192 41
+"Blackburn with Darwen" "Blackburn with Darwen UA" 42 26 5
+"Blackpool" "Blackpool UA" 88 20 3
+"Bolton" "Bolton" 59 41 6
+"Bournemouth" "Bournemouth UA" 117 34 5
+"Bracknell Forest" "Bracknell Forest UA" 19 13 2
+"Bradford" "Bradford" 153 78 12
+"Brent" "Brent" 85 45 7
+"Brighton and Hove" "Brighton and Hove UA" 121 37 8
+"Bristol" "Bristol, City of UA" 131 60 13
+"Bromley" "Bromley" 72 42 9
+"Buckinghamshire" "Aylesbury Vale" 37 14.25 2.25
+"Buckinghamshire" "Chiltern" 37 14.25 2.25
+"Buckinghamshire" "South Bucks" 37 14.25 2.25
+"Buckinghamshire" "Wycombe" 37 14.25 2.25
+"Bury" "Bury" 69 25 6
+"Calderdale" "Calderdale" 70 38 4
+"Cambridgeshire" "Cambridge" 32.8 15.4 4.6
+"Cambridgeshire" "East Cambridgeshire" 32.8 15.4 4.6
+"Cambridgeshire" "Fenland" 32.8 15.4 4.6
+"Cambridgeshire" "Huntingdonshire" 32.8 15.4 4.6
+"Cambridgeshire" "South Cambridgeshire" 32.8 15.4 4.6
+"Camden" "Camden" 22 27 13
+"Central Bedfordshire" "Central Bedfordshire UA" 66 37 2
+"Cheshire East" "Cheshire East UA" 116 72 11
+"Chester" "Cheshire West and Chester" 100 65 10
+"Cornwall" "Cornwall UA" 269 101 27
+"City of London" "City of London" 0 3 2
+"Coventry" "Coventry" 90 76 4
+"Croydon" "Croydon" 167 75 10
+"Cumbria" "Allerdale" 34.3333333333333 14.3333333333333 4
+"Cumbria" "Barrow-in-Furness" 34.3333333333333 14.3333333333333 4
+"Cumbria" "Carlisle" 34.3333333333333 14.3333333333333 4
+"Cumbria" "Copeland" 34.3333333333333 14.3333333333333 4
+"Cumbria" "Eden" 34.3333333333333 14.3333333333333 4
+"Cumbria" "South Lakeland" 34.3333333333333 14.3333333333333 4
+"Darlington" "Darlington UA" 41 23 7
+"Derby" "Derby UA" 88 48 7
+"Derbyshire" "Amber Valley" 36.875 15.75 1.625
+"Derbyshire" "Bolsover" 36.875 15.75 1.625
+"Derbyshire" "Chesterfield" 36.875 15.75 1.625
+"Derbyshire" "Derbyshire Dales" 36.875 15.75 1.625
+"Derbyshire" "Erewash" 36.875 15.75 1.625
+"Derbyshire" "High Peak" 36.875 15.75 1.625
+"Derbyshire" "North East Derbyshire" 36.875 15.75 1.625
+"Derbyshire" "South Derbyshire" 36.875 15.75 1.625
+"Devon" "East Devon" 50.625 18.75 6.125
+"Devon" "Exeter" 50.625 18.75 6.125
+"Devon" "Mid Devon" 50.625 18.75 6.125
+"Devon" "North Devon" 50.625 18.75 6.125
+"Devon" "South Hams" 50.625 18.75 6.125
+"Devon" "Teignbridge" 50.625 18.75 6.125
+"Devon" "Torridge" 50.625 18.75 6.125
+"Devon" "West Devon" 50.625 18.75 6.125
+"Doncaster" "Doncaster" 104 40 7
+"Dorset" "Christchurch" 30 11.1666666666667 3.16666666666667
+"Dorset" "East Dorset" 30 11.1666666666667 3.16666666666667
+"Dorset" "North Dorset" 30 11.1666666666667 3.16666666666667
+"Dorset" "Purbeck" 30 11.1666666666667 3.16666666666667
+"Dorset" "West Dorset" 30 11.1666666666667 3.16666666666667
+"Dorset" "Weymouth and Portland" 30 11.1666666666667 3.16666666666667
+"Dudley" "Dudley" 104 42 5
+"Durham" "County Durham UA" 173 56 13
+"Ealing" "Ealing" 70 47 5
+"East Riding of Yorkshire" "East Riding of Yorkshire UA" 157 40 14
+"East Sussex" "Eastbourne" 71.8 17.4 5
+"East Sussex" "Hastings" 71.8 17.4 5
+"East Sussex" "Lewes" 71.8 17.4 5
+"East Sussex" "Rother" 71.8 17.4 5
+"East Sussex" "Wealden" 71.8 17.4 5
+"Enfield" "Enfield" 121 58 10
+"Essex" "Basildon" 42.5 18.5833333333333 4.75
+"Essex" "Braintree" 42.5 18.5833333333333 4.75
+"Essex" "Brentwood" 42.5 18.5833333333333 4.75
+"Essex" "Castle Point" 42.5 18.5833333333333 4.75
+"Essex" "Chelmsford" 42.5 18.5833333333333 4.75
+"Essex" "Colchester" 42.5 18.5833333333333 4.75
+"Essex" "Epping Forest" 42.5 18.5833333333333 4.75
+"Essex" "Harlow" 42.5 18.5833333333333 4.75
+"Essex" "Maldon" 42.5 18.5833333333333 4.75
+"Essex" "Rochford" 42.5 18.5833333333333 4.75
+"Essex" "Tendring" 42.5 18.5833333333333 4.75
+"Essex" "Uttlesford" 42.5 18.5833333333333 4.75
+"Gateshead" "Gateshead" 78 27 3
+"Gloucestershire" "Cheltenham" 49.5 17 4.16666666666667
+"Gloucestershire" "Cotswold" 49.5 17 4.16666666666667
+"Gloucestershire" "Forest of Dean" 49.5 17 4.16666666666667
+"Gloucestershire" "Gloucester" 49.5 17 4.16666666666667
+"Gloucestershire" "Stroud" 49.5 17 4.16666666666667
+"Gloucestershire" "Tewkesbury" 49.5 17 4.16666666666667
+"Greenwich" "Greenwich" 53 31 6
+"Hackney" "Hackney" 33 24 3
+"Halton" "Halton UA" 35 15 3
+"Hammersmith and Fulham" "Hammersmith and Fulham" 15 21 4
+"Hampshire" "Eastleigh" 51.6363636363636 19.3636363636364 2.54545454545455
+"Hampshire" "Fareham" 51.6363636363636 19.3636363636364 2.54545454545455
+"Hampshire" "Gosport" 51.6363636363636 19.3636363636364 2.54545454545455
+"Hampshire" "Hart" 51.6363636363636 19.3636363636364 2.54545454545455
+"Hampshire" "Havant" 51.6363636363636 19.3636363636364 2.54545454545455
+"Hampshire" "New Forest" 51.6363636363636 19.3636363636364 2.54545454545455
+"Hampshire" "Rushmoor" 51.6363636363636 19.3636363636364 2.54545454545455
+"Hampshire" "Test Valley" 51.6363636363636 19.3636363636364 2.54545454545455
+"Hampshire" "Winchester" 51.6363636363636 19.3636363636364 2.54545454545455
+"Hampshire" "Basingstoke and Deane" 51.6363636363636 19.3636363636364 2.54545454545455
+"Hampshire" "East Hampshire" 51.6363636363636 19.3636363636364 2.54545454545455
+"Haringey" "Haringey" 64 34 6
+"Harrow" "Harrow" 82 41 4
+"Hartlepool" "Hartlepool UA" 35 14 3
+"Havering" "Havering" 74 38 4
+"Herefordshire" "Herefordshire, County of UA" 97 46 7
+"Hertfordshire" "Broxbourne" 31.6 13.6 4.1
+"Hertfordshire" "Dacorum" 31.6 13.6 4.1
+"Hertfordshire" "East Hertfordshire" 31.6 13.6 4.1
+"Hertfordshire" "Hertsmere" 31.6 13.6 4.1
+"Hertfordshire" "North Hertfordshire" 31.6 13.6 4.1
+"Hertfordshire" "St Albans" 31.6 13.6 4.1
+"Hertfordshire" "Stevenage" 31.6 13.6 4.1
+"Hertfordshire" "Three Rivers" 31.6 13.6 4.1
+"Hertfordshire" "Watford" 31.6 13.6 4.1
+"Hertfordshire" "Welwyn Hatfield" 31.6 13.6 4.1
+"Hillingdon" "Hillingdon" 62 31 7
+"Hounslow" "Hounslow" 45 43 2
+"Isle of Wight" "Isle of Wight UA" 98 27 5
+"Isles of Scilly" "Isles of Scilly UA" 1 0 1
+"Islington" "Islington" 29 19 3
+"Kensington and Chelsea" "Kensington and Chelsea" 16 16 8
+"Kent" "Ashford" 57.5833333333333 18.6666666666667 4
+"Kent" "Canterbury" 57.5833333333333 18.6666666666667 4
+"Kent" "Dartford" 57.5833333333333 18.6666666666667 4
+"Kent" "Dover" 57.5833333333333 18.6666666666667 4
+"Kent" "Gravesham" 57.5833333333333 18.6666666666667 4
+"Kent" "Maidstone" 57.5833333333333 18.6666666666667 4
+"Kent" "Sevenoaks" 57.5833333333333 18.6666666666667 4
+"Kent" "Shepway" 57.5833333333333 18.6666666666667 4
+"Kent" "Swale" 57.5833333333333 18.6666666666667 4
+"Kent" "Thanet" 57.5833333333333 18.6666666666667 4
+"Kent" "Tonbridge and Malling" 57.5833333333333 18.6666666666667 4
+"Kent" "Tunbridge Wells" 57.5833333333333 18.6666666666667 4
+"Kingston upon Thames" "Kingston upon Thames" 51.5 14 4.5
+"Kingston upon Thames" "Kingston upon Thames" 25.5 10.5 2.5
+"Kirklees" "Kirklees" 152 54 7
+"Knowsley" "Knowsley" 36 20 2
+"Lambeth" "Lambeth" 66 25 4
+"Lancashire" "Burnley" 41.75 17.1666666666667 3
+"Lancashire" "Chorley" 41.75 17.1666666666667 3
+"Lancashire" "Fylde" 41.75 17.1666666666667 3
+"Lancashire" "Hyndburn" 41.75 17.1666666666667 3
+"Lancashire" "Lancaster" 41.75 17.1666666666667 3
+"Lancashire" "Pendle" 41.75 17.1666666666667 3
+"Lancashire" "Preston" 41.75 17.1666666666667 3
+"Lancashire" "Ribble Valley" 41.75 17.1666666666667 3
+"Lancashire" "Rossendale" 41.75 17.1666666666667 3
+"Lancashire" "South Ribble" 41.75 17.1666666666667 3
+"Lancashire" "West Lancashire" 41.75 17.1666666666667 3
+"Lancashire" "Wyre" 41.75 17.1666666666667 3
+"Leeds" "Leeds" 174 106 22
+"Leicester" "Leicester UA" 139 107 12
+"Leicestershire" "Blaby" 29.7142857142857 14.1428571428571 2.28571428571429
+"Leicestershire" "Charnwood" 29.7142857142857 14.1428571428571 2.28571428571429
+"Leicestershire" "Harborough" 29.7142857142857 14.1428571428571 2.28571428571429
+"Leicestershire" "Hinckley and Bosworth" 29.7142857142857 14.1428571428571 2.28571428571429
+"Leicestershire" "Melton" 29.7142857142857 14.1428571428571 2.28571428571429
+"Leicestershire" "North West Leicestershire" 29.7142857142857 14.1428571428571 2.28571428571429
+"Leicestershire" "Oadby and Wigston" 29.7142857142857 14.1428571428571 2.28571428571429
+"Lewisham" "Lewisham" 70 40 12
+"Lincolnshire" "Boston" 43.7142857142857 11.7142857142857 3.42857142857143
+"Lincolnshire" "East Lindsey" 43.7142857142857 11.7142857142857 3.42857142857143
+"Lincolnshire" "Lincoln" 43.7142857142857 11.7142857142857 3.42857142857143
+"Lincolnshire" "North Kesteven" 43.7142857142857 11.7142857142857 3.42857142857143
+"Lincolnshire" "South Holland" 43.7142857142857 11.7142857142857 3.42857142857143
+"Lincolnshire" "South Kesteven" 43.7142857142857 11.7142857142857 3.42857142857143
+"Lincolnshire" "West Lindsey" 43.7142857142857 11.7142857142857 3.42857142857143
+"Liverpool" "Liverpool" 141 68 22
+"Luton" "Luton UA" 48 33 7
+"Manchester" "Manchester" 120 69 20
+"Medway Towns" "Medway UA" 87 31 3
+"Merton" "Merton" 44 34 1
+"Middlesbrough" "Middlesbrough UA" 51 25 4
+"Milton Keynes" "Milton Keynes UA" 65 47 7
+"Newcastle upon Tyne" "Newcastle upon Tyne" 84 39 11
+"Newham" "Newham" 43 52 4
+"Norfolk" "Breckland" 58.2857142857143 20.2857142857143 4.28571428571429
+"Norfolk" "Broadland" 58.2857142857143 20.2857142857143 4.28571428571429
+"Norfolk" "Great Yarmouth" 58.2857142857143 20.2857142857143 4.28571428571429
+"Norfolk" "King’s Lynn and West Norfolk" 58.2857142857143 20.2857142857143 4.28571428571429
+"Norfolk" "North Norfolk" 58.2857142857143 20.2857142857143 4.28571428571429
+"Norfolk" "Norwich" 58.2857142857143 20.2857142857143 4.28571428571429
+"Norfolk" "South Norfolk" 58.2857142857143 20.2857142857143 4.28571428571429
+"North East Lincolnshire" "North East Lincolnshire UA" 62 22 7
+"North Lincolnshire" "North Lincolnshire UA" 70 17 2
+"North Somerset" "North Somerset UA" 129 38 8
+"North Tyneside" "North Tyneside" 64 23 3
+"North Yorkshire" "Craven" 36.1428571428571 17.1428571428571 2.42857142857143
+"North Yorkshire" "Hambleton" 36.1428571428571 17.1428571428571 2.42857142857143
+"North Yorkshire" "Harrogate" 36.1428571428571 17.1428571428571 2.42857142857143
+"North Yorkshire" "Richmondshire" 36.1428571428571 17.1428571428571 2.42857142857143
+"North Yorkshire" "Ryedale" 36.1428571428571 17.1428571428571 2.42857142857143
+"North Yorkshire" "Scarborough" 36.1428571428571 17.1428571428571 2.42857142857143
+"North Yorkshire" "Selby" 36.1428571428571 17.1428571428571 2.42857142857143
+"Northamptonshire" "Corby" 42.2857142857143 17.5714285714286 3
+"Northamptonshire" "Daventry" 42.2857142857143 17.5714285714286 3
+"Northamptonshire" "East Northamptonshire" 42.2857142857143 17.5714285714286 3
+"Northamptonshire" "Kettering" 42.2857142857143 17.5714285714286 3
+"Northamptonshire" "Northampton" 42.2857142857143 17.5714285714286 3
+"Northamptonshire" "South Northamptonshire" 42.2857142857143 17.5714285714286 3
+"Northamptonshire" "Wellingborough" 42.2857142857143 17.5714285714286 3
+"Northumberland" "Northumberland UA" 136 34 11
+"Nottingham" "Nottingham UA" 103 57 12
+"Nottinghamshire" "Ashfield" 43.8571428571429 14.5714285714286 3.42857142857143
+"Nottinghamshire" "Bassetlaw" 43.8571428571429 14.5714285714286 3.42857142857143
+"Nottinghamshire" "Broxtowe" 43.8571428571429 14.5714285714286 3.42857142857143
+"Nottinghamshire" "Gedling" 43.8571428571429 14.5714285714286 3.42857142857143
+"Nottinghamshire" "Mansfield" 43.8571428571429 14.5714285714286 3.42857142857143
+"Nottinghamshire" "Newark and Sherwood" 43.8571428571429 14.5714285714286 3.42857142857143
+"Nottinghamshire" "Rushcliffe" 43.8571428571429 14.5714285714286 3.42857142857143
+"Oldham" "Oldham" 50 33 6
+"Oxfordshire" "Cherwell" 31.8 20.6 3
+"Oxfordshire" "Oxford" 31.8 20.6 3
+"Oxfordshire" "South Oxfordshire" 31.8 20.6 3
+"Oxfordshire" "Vale of White Horse" 31.8 20.6 3
+"Oxfordshire" "West Oxfordshire" 31.8 20.6 3
+"Peterborough" "Peterborough UA" 53 52 6
+"Plymouth" "Plymouth UA" 115 46 9
+"Poole" "Poole UA" 57 36 5
+"Portsmouth" "Portsmouth UA" 52 22 4
+"Reading" "Reading UA" 57 41 7
+"Redbridge" "Redbridge" 85 52 6
+"Redcar and Cleveland" "Redcar and Cleveland UA" 60 12 5
+"Richmond upon Thames" "Richmond upon Thames" 57 19 3
+"Rochdale" "Rochdale" 68 35 6
+"Rotherham" "Rotherham" 94 37 5
+"Rutland" "Rutland UA" 12 11 1
+"Salford" "Salford" 60 28 9
+"Sandwell" "Sandwell" 109 80 11
+"Sefton" "Sefton" 149 38 5
+"Sheffield" "Sheffield" 148 80 19
+"Shropshire" "Shropshire UA" 141 60 15
+"Slough" "Slough UA" 24 24 2
+"Solihull" "Solihull" 71 35 6
+"Somerset" "Mendip" 52.4 14.6 6.4
+"Somerset" "Sedgemoor" 52.4 14.6 6.4
+"Somerset" "South Somerset" 52.4 14.6 6.4
+"Somerset" "Taunton Deane" 52.4 14.6 6.4
+"Somerset" "West Somerset" 52.4 14.6 6.4
+"South Gloucestershire" "South Gloucestershire UA" 92 46 5
+"South Tyneside" "South Tyneside" 47 12 5
+"Southampton" "Southampton UA" 70 36 7
+"Southend-on-Sea" "Southend-on-Sea UA" 115 39 6
+"Southwark" "Southwark" 36 24 4
+"St. Helens" "St. Helens" 48 35 5
+"Staffordshire" "Cannock Chase" 35.875 14 2.5
+"Staffordshire" "East Staffordshire" 35.875 14 2.5
+"Staffordshire" "Lichfield" 35.875 14 2.5
+"Staffordshire" "Newcastle-under-Lyme" 35.875 14 2.5
+"Staffordshire" "South Staffordshire" 35.875 14 2.5
+"Staffordshire" "Stafford" 35.875 14 2.5
+"Staffordshire" "Staffordshire Moorlands" 35.875 14 2.5
+"Staffordshire" "Tamworth" 35.875 14 2.5
+"Stockport" "Stockport" 80 42 8
+"Stockton-on-Tees" "Stockton-on-Tees UA" 63 25 6
+"Stoke-on-Trent" "Stoke-on-Trent UA" 100 42 6
+"Suffolk" "Babergh" 33 20.4285714285714 2.85714285714286
+"Suffolk" "Forest Heath" 33 20.4285714285714 2.85714285714286
+"Suffolk" "Ipswich" 33 20.4285714285714 2.85714285714286
+"Suffolk" "Mid Suffolk" 33 20.4285714285714 2.85714285714286
+"Suffolk" "St Edmundsbury" 33 20.4285714285714 2.85714285714286
+"Suffolk" "Suffolk Coastal" 33 20.4285714285714 2.85714285714286
+"Suffolk" "Waveney" 33 20.4285714285714 2.85714285714286
+"Sunderland" "Sunderland" 125 36 10
+"Surrey" "Elmbridge" 45.4545454545455 18.1818181818182 2.90909090909091
+"Surrey" "Epsom and Ewell" 45.4545454545455 18.1818181818182 2.90909090909091
+"Surrey" "Guildford" 45.4545454545455 18.1818181818182 2.90909090909091
+"Surrey" "Mole Valley" 45.4545454545455 18.1818181818182 2.90909090909091
+"Surrey" "Reigate and Banstead" 45.4545454545455 18.1818181818182 2.90909090909091
+"Surrey" "Runnymede" 45.4545454545455 18.1818181818182 2.90909090909091
+"Surrey" "Spelthorne" 45.4545454545455 18.1818181818182 2.90909090909091
+"Surrey" "Surrey Heath" 45.4545454545455 18.1818181818182 2.90909090909091
+"Surrey" "Tandridge" 45.4545454545455 18.1818181818182 2.90909090909091
+"Surrey" "Waverley" 45.4545454545455 18.1818181818182 2.90909090909091
+"Surrey" "Woking" 45.4545454545455 18.1818181818182 2.90909090909091
+"Sutton" "Sutton" 94 34 4
+"Swindon" "Swindon UA" 60 29 6
+"Tameside" "Tameside" 49 19 4
+"Telford and the Wrekin" "Telford and Wrekin UA" 60 41 2
+"Thurrock" "Thurrock UA" 45 23 4
+"Torbay" "Torbay UA" 109 28 8
+"Tower Hamlets" "Tower Hamlets" 22 40 9
+"Trafford" "Trafford" 72 42 5
+"Wakefield" "Wakefield" 110 50 5
+"Walsall" "Walsall" 66 46 9
+"Waltham Forest" "Waltham Forest" 79 32 2
+"Wandsworth" "Wandsworth" 43 20 14
+"Warrington" "Warrington UA" 56 28 8
+"Warwickshire" "North Warwickshire" 40.6 16.4 2
+"Warwickshire" "Nuneaton and Bedworth" 40.6 16.4 2
+"Warwickshire" "Rugby" 40.6 16.4 2
+"Warwickshire" "Stratford-on-Avon" 40.6 16.4 2
+"Warwickshire" "Warwick" 40.6 16.4 2
+"West Berkshire" "West Berkshire UA" 57 35 4
+"West Sussex" "Adur" 56.4285714285714 20.4285714285714 4.85714285714286
+"West Sussex" "Arun" 56.4285714285714 20.4285714285714 4.85714285714286
+"West Sussex" "Chichester" 56.4285714285714 20.4285714285714 4.85714285714286
+"West Sussex" "Crawley" 56.4285714285714 20.4285714285714 4.85714285714286
+"West Sussex" "Horsham" 56.4285714285714 20.4285714285714 4.85714285714286
+"West Sussex" "Mid Sussex" 56.4285714285714 20.4285714285714 4.85714285714286
+"West Sussex" "Worthing" 56.4285714285714 20.4285714285714 4.85714285714286
+"Westminster" "Westminster" 20 24 17
+"Wigan" "Wigan" 63 29 8
+"Wiltshire" "Wiltshire UA" 218 81 13
+"Windsor and Maidenhead" "Windsor and Maidenhead UA" 45 18 6
+"Wirral" "Wirral" 147 45 6
+"Wokingham" "Wokingham UA" 67 22 1
+"Wolverhampton" "Wolverhampton" 92 46 5
+"Worcestershire" "Bromsgrove" 38.8333333333333 15.5 3
+"Worcestershire" "Malvern Hills" 38.8333333333333 15.5 3
+"Worcestershire" "Redditch" 38.8333333333333 15.5 3
+"Worcestershire" "Worcester" 38.8333333333333 15.5 3
+"Worcestershire" "Wychavon" 38.8333333333333 15.5 3
+"Worcestershire" "Wyre Forest" 38.8333333333333 15.5 3
+"York" "York UA" 49 33 19
