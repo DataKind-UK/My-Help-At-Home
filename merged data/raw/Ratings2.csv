@@ -1,0 +1,609 @@
+CASSR Code,CASSR Name,Confidence interval,Base,Outcome,End Year
+102,Cumbria,0.4,375,19.5,2011
+104,Northumberland,0.4,375,18.4,2011
+106,Gateshead,0.4,275,19.1,2011
+107,Newcastle upon Tyne,0.4,355,18.9,2011
+108,North Tyneside,0.4,285,18.8,2011
+109,South Tyneside,0.5,265,18.6,2011
+110,Sunderland,0.4,280,19.0,2011
+111,Hartlepool,0.4,305,19.3,2011
+112,Middlesbrough,0.4,325,19.7,2011
+113,Redcar and Cleveland,0.4,315,18.5,2011
+114,Stockton-on-Tees,0.4,255,18.8,2011
+116,Durham,0.4,330,19.1,2011
+117,Darlington,0.4,215,19.2,2011
+204,Barnsley,0.4,365,18.9,2011
+205,Doncaster,0.4,310,19.5,2011
+206,Rotherham,0.4,370,19.1,2011
+207,Sheffield,0.4,470,18.3,2011
+209,Bradford,0.4,405,18.5,2011
+210,Calderdale,0.3,380,19.4,2011
+211,Kirklees,0.4,310,18.5,2011
+212,Leeds,0.4,360,18.9,2011
+213,Wakefield,0.4,365,19.1,2011
+214,East Riding of Yorkshire,0.4,275,19.4,2011
+215,Kingston upon Hull,0.3,390,19.2,2011
+216,North East Lincolnshire,0.5,265,18.9,2011
+217,North Lincolnshire,0.4,285,19.6,2011
+218,North Yorkshire,0.4,370,19.0,2011
+219,York,0.3,440,18.9,2011
+304,Bolton,0.3,560,19.0,2011
+305,Bury,0.3,355,19.3,2011
+306,Manchester,0.4,345,18.4,2011
+307,Oldham,0.4,460,18.1,2011
+308,Rochdale,0.4,350,18.6,2011
+309,Salford,0.3,655,18.6,2011
+310,Stockport,0.4,375,18.3,2011
+311,Tameside,0.4,345,17.9,2011
+312,Trafford,0.4,345,18.1,2011
+313,Wigan,0.4,335,18.6,2011
+315,Knowsley,0.4,350,18.8,2011
+316,Liverpool,0.4,365,19.0,2011
+317,Sefton,0.4,345,19.4,2011
+318,St. Helens,0.4,320,19.3,2011
+319,Wirral,0.5,235,18.9,2011
+321,Halton,0.4,275,18.9,2011
+322,Warrington,0.4,425,18.5,2011
+323,Lancashire,0.4,395,19.2,2011
+324,Blackburn with Darwen,0.3,340,19.0,2011
+325,Blackpool,0.4,355,19.0,2011
+326,Cheshire East,0.4,330,18.8,2011
+327,Cheshire West & Chester,0.3,545,18.9,2011
+404,Warwickshire,0.4,370,18.5,2011
+406,Birmingham,0.4,340,18.6,2011
+407,Coventry,0.4,395,18.5,2011
+408,Dudley,0.3,710,18.9,2011
+409,Sandwell,0.4,365,18.7,2011
+410,Solihull,0.3,425,18.1,2011
+411,Walsall,0.4,285,18.4,2011
+412,Wolverhampton,0.5,270,19.1,2011
+413,Staffordshire,0.4,335,18.5,2011
+414,Stoke-on-Trent,0.4,360,18.8,2011
+415,Herefordshire,0.4,270,19.2,2011
+416,Worcestershire,0.3,475,18.8,2011
+417,Shropshire,0.4,310,19.1,2011
+418,Telford and the Wrekin,0.3,450,18.0,2011
+503,Lincolnshire,0.4,335,18.9,2011
+504,Northamptonshire,0.4,325,19.2,2011
+506,Derbyshire,0.5,175,18.5,2011
+507,Derby,0.4,330,18.4,2011
+508,Leicestershire,0.4,420,18.1,2011
+509,Leicester,0.4,370,18.3,2011
+510,Rutland,0.4,205,18.9,2011
+511,Nottinghamshire,0.4,355,18.6,2011
+512,Nottingham,0.4,340,18.7,2011
+606,Hertfordshire,0.4,370,18.8,2011
+607,Norfolk,0.4,280,18.1,2011
+608,Oxfordshire,0.3,480,18.8,2011
+609,Suffolk,0.4,380,18.9,2011
+611,Luton,0.4,320,18.2,2011
+612,Buckinghamshire,0.4,345,18.5,2011
+613,Milton Keynes,0.4,340,18.2,2011
+614,Bracknell Forest,0.4,245,18.4,2011
+615,West Berkshire,0.4,320,19.0,2011
+616,Reading,0.4,340,18.4,2011
+617,Slough,0.4,300,18.0,2011
+618,Windsor and Maidenhead,0.4,310,18.8,2011
+619,Wokingham,0.4,260,18.3,2011
+620,Essex,0.4,385,18.6,2011
+621,Southend-on-Sea,0.4,380,18.9,2011
+622,Thurrock,0.4,295,18.6,2011
+623,Cambridgeshire,0.3,425,19.0,2011
+624,Peterborough,0.3,385,18.8,2011
+625,Bedford,0.4,395,18.7,2011
+626,Central Bedfordshire,0.4,350,18.3,2011
+702,Camden,0.5,315,17.6,2011
+703,Greenwich,0.4,355,18.0,2011
+704,Hackney,0.5,320,18.4,2011
+705,Hammersmith and Fulham,0.4,345,18.0,2011
+706,Islington,0.4,365,18.1,2011
+707,Kensington and Chelsea,0.4,390,17.9,2011
+708,Lambeth,0.5,350,17.4,2011
+709,Lewisham,0.4,380,17.7,2011
+710,Southwark,0.5,345,17.4,2011
+711,Tower Hamlets,0.4,510,17.9,2011
+712,Wandsworth,0.4,350,18.7,2011
+713,Westminster,0.4,425,17.4,2011
+714,City of London,..,..,..,2011
+716,Barking and Dagenham,0.4,255,19.5,2011
+717,Barnet,0.4,320,18.4,2011
+718,Bexley,0.5,295,17.9,2011
+719,Brent,0.6,215,17.5,2011
+720,Bromley,0.4,430,18.4,2011
+721,Croydon,0.4,345,18.3,2011
+722,Ealing,0.5,315,17.7,2011
+723,Enfield,0.4,390,17.9,2011
+724,Haringey,0.4,335,18.0,2011
+725,Harrow,0.5,235,18.2,2011
+726,Havering,0.4,380,17.9,2011
+727,Hillingdon,0.5,275,18.3,2011
+728,Hounslow,0.2,"1,235",17.5,2011
+729,Kingston upon Thames,0.5,205,18.3,2011
+730,Merton,0.4,335,17.6,2011
+731,Newham,0.4,385,17.9,2011
+732,Redbridge,0.4,400,19.4,2011
+733,Richmond upon Thames,..,..,..,2011
+734,Sutton,0.4,420,18.5,2011
+735,Waltham Forest,0.4,365,17.7,2011
+803,Isle of Wight,0.4,250,19.1,2011
+805,Surrey,0.3,400,19.1,2011
+807,West Sussex,0.4,370,18.4,2011
+809,Dorset,0.3,355,19.2,2011
+810,Bournemouth,0.3,400,18.9,2011
+811,Poole,0.4,365,18.3,2011
+812,Hampshire,0.4,390,19.3,2011
+813,Portsmouth,0.4,315,19.4,2011
+814,Southampton,0.4,360,18.4,2011
+815,East Sussex,0.4,330,18.8,2011
+816,Brighton and Hove,0.4,320,18.7,2011
+817,Wiltshire,0.4,345,19.4,2011
+819,Swindon,0.4,255,19.1,2011
+820,Kent,0.4,405,18.5,2011
+821,Medway Towns,0.4,345,18.9,2011
+902,Cornwall,0.2,850,19.2,2011
+904,Gloucestershire,0.3,630,18.7,2011
+905,Somerset,0.3,610,18.6,2011
+906,Isles of Scilly,..,..,..,2011
+908,Bath and North East Somerset,0.3,425,18.8,2011
+909,Bristol,0.6,195,18.5,2011
+910,North Somerset,0.4,335,19.1,2011
+911,South Gloucestershire,0.3,415,18.7,2011
+912,Devon,0.4,415,18.8,2011
+913,Plymouth,0.3,460,19.2,2011
+914,Torbay,0.4,460,19.0,2011
+102,Cumbria,0.3,540,19.3,2012
+104,Northumberland,0.3,490,19.3,2012
+106,Gateshead,0.4,290,19.0,2012
+107,Newcastle upon Tyne,0.4,380,19.4,2012
+108,North Tyneside,0.4,310,19.2,2012
+109,South Tyneside,0.4,295,19.2,2012
+110,Sunderland,0.3,360,19.2,2012
+111,Hartlepool,0.4,285,19.0,2012
+112,Middlesbrough,0.3,365,19.6,2012
+113,Redcar and Cleveland,0.4,380,18.7,2012
+114,Stockton-on-Tees,0.3,385,19.2,2012
+116,Durham,0.3,370,19.4,2012
+117,Darlington,0.5,195,19.4,2012
+204,Barnsley,0.6,370,18.8,2012
+205,Doncaster,0.4,400,18.7,2012
+206,Rotherham,0.3,555,19.1,2012
+207,Sheffield,0.3,410,18.6,2012
+209,Bradford,0.4,430,18.5,2012
+210,Calderdale,0.4,300,19.2,2012
+211,Kirklees,0.3,505,18.3,2012
+212,Leeds,0.4,365,18.4,2012
+213,Wakefield,0.3,445,18.6,2012
+214,East Riding of Yorkshire,0.4,245,19.4,2012
+215,Kingston upon Hull,0.4,465,18.7,2012
+216,North East Lincolnshire,0.6,225,18.3,2012
+217,North Lincolnshire,0.3,410,19.5,2012
+218,North Yorkshire,0.3,430,18.9,2012
+219,York,0.4,335,19.0,2012
+304,Bolton,0.4,385,18.3,2012
+305,Bury,0.3,315,20.1,2012
+306,Manchester,0.4,350,18.3,2012
+307,Oldham,0.5,230,18.5,2012
+308,Rochdale,0.4,335,18.8,2012
+309,Salford,0.3,505,18.5,2012
+310,Stockport,0.4,305,18.6,2012
+311,Tameside,0.4,335,18.4,2012
+312,Trafford,0.4,325,18.6,2012
+313,Wigan,0.4,355,18.8,2012
+315,Knowsley,0.4,425,19.3,2012
+316,Liverpool,0.4,325,19.0,2012
+317,Sefton,0.3,430,19.2,2012
+318,St. Helens,0.4,330,19.0,2012
+319,Wirral,0.6,200,18.8,2012
+321,Halton,0.4,295,19.7,2012
+322,Warrington,0.4,340,18.6,2012
+323,Lancashire,0.4,315,19.2,2012
+324,Blackburn with Darwen,0.3,420,19.3,2012
+325,Blackpool,0.4,370,18.5,2012
+326,Cheshire East,0.4,385,19.0,2012
+327,Cheshire West & Chester,0.3,655,19.2,2012
+404,Warwickshire,0.4,430,18.8,2012
+406,Birmingham,0.5,315,18.3,2012
+407,Coventry,0.4,350,19.0,2012
+408,Dudley,0.3,710,19.2,2012
+409,Sandwell,0.5,360,18.4,2012
+410,Solihull,0.2,785,18.7,2012
+411,Walsall,0.3,485,18.8,2012
+412,Wolverhampton,0.4,355,19.5,2012
+413,Staffordshire,0.3,405,18.8,2012
+414,Stoke-on-Trent,0.5,305,18.7,2012
+415,Herefordshire,0.4,335,19.4,2012
+416,Worcestershire,0.3,425,19.4,2012
+417,Shropshire,0.4,410,18.6,2012
+418,Telford and the Wrekin,0.5,285,18.3,2012
+503,Lincolnshire,0.4,310,18.7,2012
+504,Northamptonshire,0.4,355,19.3,2012
+506,Derbyshire,0.5,215,19.0,2012
+507,Derby,0.3,390,19.2,2012
+508,Leicestershire,0.4,335,18.3,2012
+509,Leicester,0.4,445,18.0,2012
+510,Rutland,0.3,160,19.8,2012
+511,Nottinghamshire,0.3,395,19.2,2012
+512,Nottingham,0.4,315,18.4,2012
+606,Hertfordshire,0.4,280,18.5,2012
+607,Norfolk,0.4,340,18.7,2012
+608,Oxfordshire,0.3,450,19.1,2012
+609,Suffolk,0.3,665,18.7,2012
+611,Luton,0.4,305,18.5,2012
+612,Buckinghamshire,0.4,355,18.8,2012
+613,Milton Keynes,0.5,305,18.4,2012
+614,Bracknell Forest,0.3,535,18.6,2012
+615,West Berkshire,0.3,465,18.3,2012
+616,Reading,0.3,335,18.9,2012
+617,Slough,0.4,425,17.7,2012
+618,Windsor and Maidenhead,0.4,235,19.7,2012
+619,Wokingham,0.4,320,18.8,2012
+620,Essex,0.2,840,18.9,2012
+621,Southend-on-Sea,0.4,380,18.7,2012
+622,Thurrock,0.4,405,18.4,2012
+623,Cambridgeshire,0.4,430,18.8,2012
+624,Peterborough,0.4,325,18.8,2012
+625,Bedford,0.3,375,19.2,2012
+626,Central Bedfordshire,0.4,270,19.0,2012
+702,Camden,0.4,375,18.0,2012
+703,Greenwich,0.5,300,18.5,2012
+704,Hackney,0.4,320,18.3,2012
+705,Hammersmith and Fulham,0.4,320,17.8,2012
+706,Islington,0.5,320,17.9,2012
+707,Kensington and Chelsea,0.4,435,18.2,2012
+708,Lambeth,0.5,315,18.0,2012
+709,Lewisham,0.4,495,17.9,2012
+710,Southwark,0.4,315,17.7,2012
+711,Tower Hamlets,0.4,390,17.9,2012
+712,Wandsworth,0.2,850,18.9,2012
+713,Westminster,0.6,310,17.4,2012
+714,City of London,0.7,60,19.4,2012
+716,Barking and Dagenham,0.4,315,18.2,2012
+717,Barnet,0.4,460,18.0,2012
+718,Bexley,0.6,245,18.3,2012
+719,Brent,0.7,200,17.7,2012
+720,Bromley,0.3,505,18.8,2012
+721,Croydon,0.4,370,18.2,2012
+722,Ealing,0.5,310,17.6,2012
+723,Enfield,0.5,330,17.8,2012
+724,Haringey,0.6,405,17.7,2012
+725,Harrow,0.5,240,18.0,2012
+726,Havering,0.4,320,18.1,2012
+727,Hillingdon,0.3,490,17.9,2012
+728,Hounslow,0.5,325,18.1,2012
+729,Kingston upon Thames,0.5,240,18.2,2012
+730,Merton,0.4,370,18.2,2012
+731,Newham,0.4,385,18.2,2012
+732,Redbridge,0.3,555,19.5,2012
+733,Richmond upon Thames,0.4,375,18.3,2012
+734,Sutton,0.3,415,19.0,2012
+735,Waltham Forest,0.4,345,18.3,2012
+803,Isle of Wight,0.3,350,19.4,2012
+805,Surrey,0.3,610,19.1,2012
+807,West Sussex,0.4,365,19.3,2012
+809,Dorset,0.4,260,19.2,2012
+810,Bournemouth,0.4,320,18.7,2012
+811,Poole,0.4,305,18.5,2012
+812,Hampshire,0.4,370,18.8,2012
+813,Portsmouth,0.3,400,19.3,2012
+814,Southampton,0.3,505,18.5,2012
+815,East Sussex,0.4,445,18.5,2012
+816,Brighton and Hove,0.4,315,18.9,2012
+817,Wiltshire,0.4,325,18.8,2012
+819,Swindon,0.4,305,18.9,2012
+820,Kent,0.3,815,18.6,2012
+821,Medway Towns,0.3,400,18.8,2012
+902,Cornwall,0.4,355,19.2,2012
+904,Gloucestershire,0.4,340,19.0,2012
+905,Somerset,0.3,420,19.0,2012
+906,Isles of Scilly,..,..,..,2012
+908,Bath and North East Somerset,0.4,380,18.7,2012
+909,Bristol,0.5,315,17.9,2012
+910,North Somerset,0.4,290,19.4,2012
+911,South Gloucestershire,0.3,390,19.1,2012
+912,Devon,0.4,435,18.7,2012
+913,Plymouth,0.3,465,19.9,2012
+914,Torbay,0.4,470,18.8,2012
+102,Cumbria,0.3,450,19.6,2013
+104,Northumberland,0.3,490,19.1,2013
+106,Gateshead,0.4,345,18.9,2013
+107,Newcastle upon Tyne,0.3,460,19.2,2013
+108,North Tyneside,0.3,515,19.9,2013
+109,South Tyneside,0.5,265,19.0,2013
+110,Sunderland,0.4,360,19.1,2013
+111,Hartlepool,0.4,275,19.1,2013
+112,Middlesbrough,0.5,300,19.1,2013
+113,Redcar and Cleveland,0.4,365,18.7,2013
+114,Stockton-on-Tees,0.4,325,18.5,2013
+116,Durham,0.4,365,19.5,2013
+117,Darlington,0.4,315,18.6,2013
+204,Barnsley,0.4,290,19.0,2013
+205,Doncaster,0.4,335,19.2,2013
+206,Rotherham,0.3,345,19.2,2013
+207,Sheffield,0.5,465,18.4,2013
+209,Bradford,0.3,650,19.1,2013
+210,Calderdale,0.4,285,18.7,2013
+211,Kirklees,0.3,600,18.9,2013
+212,Leeds,0.4,450,19.2,2013
+213,Wakefield,0.4,375,18.7,2013
+214,East Riding of Yorkshire,0.5,240,19.2,2013
+215,Kingston upon Hull,0.4,400,19.4,2013
+216,North East Lincolnshire,0.5,225,18.8,2013
+217,North Lincolnshire,0.3,395,19.3,2013
+218,North Yorkshire,0.3,440,19.2,2013
+219,York,0.4,365,18.9,2013
+304,Bolton,0.3,745,18.4,2013
+305,Bury,0.4,325,19.5,2013
+306,Manchester,0.4,360,18.4,2013
+307,Oldham,0.3,465,19.0,2013
+308,Rochdale,0.5,290,18.2,2013
+309,Salford,0.4,480,18.4,2013
+310,Stockport,0.4,325,18.7,2013
+311,Tameside,0.4,270,19.1,2013
+312,Trafford,0.4,335,19.2,2013
+313,Wigan,0.3,385,18.9,2013
+315,Knowsley,0.3,525,19.3,2013
+316,Liverpool,0.2,890,19.1,2013
+317,Sefton,0.4,350,19.2,2013
+318,St. Helens,0.4,370,19.1,2013
+319,Wirral,0.5,300,18.7,2013
+321,Halton,0.3,400,19.1,2013
+322,Warrington,0.4,335,19.0,2013
+323,Lancashire,0.4,425,19.0,2013
+324,Blackburn with Darwen,0.3,375,19.9,2013
+325,Blackpool,0.6,440,19.6,2013
+326,Cheshire East,0.4,355,19.0,2013
+327,Cheshire West & Chester,0.4,520,18.8,2013
+404,Warwickshire,0.4,330,18.5,2013
+406,Birmingham,0.3,445,18.9,2013
+407,Coventry,0.4,360,18.9,2013
+408,Dudley,0.3,670,19.0,2013
+409,Sandwell,0.4,305,18.8,2013
+410,Solihull,0.3,680,18.8,2013
+411,Walsall,0.2,965,19.0,2013
+412,Wolverhampton,0.4,370,19.2,2013
+413,Staffordshire,0.5,390,18.5,2013
+414,Stoke-on-Trent,0.4,340,19.0,2013
+415,Herefordshire,0.4,295,19.5,2013
+416,Worcestershire,0.4,425,19.3,2013
+417,Shropshire,0.4,280,18.8,2013
+418,Telford and the Wrekin,0.4,320,18.4,2013
+503,Lincolnshire,0.4,360,18.6,2013
+504,Northamptonshire,0.3,480,18.7,2013
+506,Derbyshire,0.4,340,18.3,2013
+507,Derby,0.4,300,19.0,2013
+508,Leicestershire,0.4,310,18.9,2013
+509,Leicester,0.4,450,18.3,2013
+510,Rutland,0.4,180,19.3,2013
+511,Nottinghamshire,0.3,380,19.3,2013
+512,Nottingham,0.4,405,18.5,2013
+606,Hertfordshire,0.4,355,18.4,2013
+607,Norfolk,0.4,345,19.4,2013
+608,Oxfordshire,0.3,480,19.1,2013
+609,Suffolk,0.3,705,19.2,2013
+611,Luton,0.4,385,18.4,2013
+612,Buckinghamshire,0.4,350,18.4,2013
+613,Milton Keynes,0.4,350,18.6,2013
+614,Bracknell Forest,0.3,605,18.7,2013
+615,West Berkshire,0.4,420,18.3,2013
+616,Reading,0.3,355,19.0,2013
+617,Slough,..,..,..,2013
+618,Windsor and Maidenhead,0.4,295,19.0,2013
+619,Wokingham,0.3,345,19.3,2013
+620,Essex,0.3,870,18.5,2013
+621,Southend-on-Sea,0.4,340,19.1,2013
+622,Thurrock,0.5,255,18.7,2013
+623,Cambridgeshire,0.3,490,18.8,2013
+624,Peterborough,0.4,475,19.0,2013
+625,Bedford,0.4,280,18.4,2013
+626,Central Bedfordshire,0.4,290,19.1,2013
+702,Camden,0.4,385,18.0,2013
+703,Greenwich,0.5,290,18.3,2013
+704,Hackney,0.5,340,17.9,2013
+705,Hammersmith and Fulham,0.5,245,17.7,2013
+706,Islington,0.5,285,17.7,2013
+707,Kensington and Chelsea,0.4,345,18.1,2013
+708,Lambeth,0.5,385,17.9,2013
+709,Lewisham,0.5,295,18.3,2013
+710,Southwark,0.3,845,18.0,2013
+711,Tower Hamlets,0.3,815,18.0,2013
+712,Wandsworth,0.2,790,19.0,2013
+713,Westminster,0.5,315,18.3,2013
+714,City of London,..,..,..,2013
+716,Barking and Dagenham,0.4,365,18.0,2013
+717,Barnet,0.4,395,18.6,2013
+718,Bexley,0.5,270,18.9,2013
+719,Brent,0.6,185,17.6,2013
+720,Bromley,0.3,625,18.7,2013
+721,Croydon,0.5,385,18.2,2013
+722,Ealing,0.5,315,18.0,2013
+723,Enfield,0.3,685,18.6,2013
+724,Haringey,0.5,320,17.8,2013
+725,Harrow,0.5,275,18.3,2013
+726,Havering,0.4,325,18.4,2013
+727,Hillingdon,0.5,250,18.1,2013
+728,Hounslow,0.4,505,17.9,2013
+729,Kingston upon Thames,0.5,215,18.7,2013
+730,Merton,0.5,305,17.9,2013
+731,Newham,0.4,495,18.5,2013
+732,Redbridge,0.4,435,19.6,2013
+733,Richmond upon Thames,0.4,345,19.5,2013
+734,Sutton,0.4,345,19.1,2013
+735,Waltham Forest,0.5,315,17.8,2013
+803,Isle of Wight,0.3,405,19.5,2013
+805,Surrey,0.3,545,19.2,2013
+807,West Sussex,0.3,445,19.3,2013
+809,Dorset,0.3,365,18.8,2013
+810,Bournemouth,0.4,310,18.8,2013
+811,Poole,0.3,340,19.0,2013
+812,Hampshire,0.3,1260,19.4,2013
+813,Portsmouth,0.6,160,19.1,2013
+814,Southampton,0.3,630,18.5,2013
+815,East Sussex,0.4,365,18.9,2013
+816,Brighton and Hove,0.3,365,19.5,2013
+817,Wiltshire,0.4,330,18.8,2013
+819,Swindon,0.4,340,18.6,2013
+820,Kent,0.4,425,18.8,2013
+821,Medway Towns,0.4,385,19.1,2013
+902,Cornwall,0.4,340,19.4,2013
+904,Gloucestershire,0.6,355,19.5,2013
+905,Somerset,0.3,535,19.3,2013
+906,Isles of Scilly,..,..,..,2013
+908,Bath and North East Somerset,0.3,470,18.8,2013
+909,Bristol,0.4,385,18.5,2013
+910,North Somerset,0.4,295,19.2,2013
+911,South Gloucestershire,0.4,355,19.6,2013
+912,Devon,0.4,345,18.7,2013
+913,Plymouth,0.4,315,19.4,2013
+914,Torbay,0.4,355,18.6,2013
+102,Cumbria,0.3,445,19.6,2014
+104,Northumberland,0.3,445,19.6,2014
+106,Gateshead,0.3,410,19.2,2014
+107,Newcastle upon Tyne,0.4,385,19.3,2014
+108,North Tyneside,0.3,455,19.5,2014
+109,South Tyneside,0.4,300,19.2,2014
+110,Sunderland,0.3,490,19.6,2014
+111,Hartlepool,0.3,445,19.2,2014
+112,Middlesbrough,0.3,445,19.6,2014
+113,Redcar and Cleveland,0.4,370,18.7,2014
+114,Stockton-on-Tees,0.3,450,19.1,2014
+116,Durham,0.4,390,19.5,2014
+117,Darlington,0.4,295,19.0,2014
+204,Barnsley,0.5,330,19.0,2014
+205,Doncaster,0.4,350,18.5,2014
+206,Rotherham,0.3,350,19.4,2014
+207,Sheffield,0.4,365,18.5,2014
+209,Bradford,0.4,685,19.1,2014
+210,Calderdale,0.3,420,18.9,2014
+211,Kirklees,0.3,610,18.8,2014
+212,Leeds,0.3,440,18.8,2014
+213,Wakefield,0.4,370,19.0,2014
+214,East Riding of Yorkshire,0.2,795,19.4,2014
+215,Kingston upon Hull,0.4,365,19.3,2014
+216,North East Lincolnshire,0.4,315,19.2,2014
+217,North Lincolnshire,0.4,290,19.3,2014
+218,North Yorkshire,0.3,410,18.9,2014
+219,York,0.3,470,18.8,2014
+304,Bolton,0.4,575,18.6,2014
+305,Bury,0.4,340,19.1,2014
+306,Manchester,0.5,335,18.4,2014
+307,Oldham,0.4,290,19.6,2014
+308,Rochdale,0.3,470,18.7,2014
+309,Salford,0.2,1060,18.2,2014
+310,Stockport,0.4,380,18.9,2014
+311,Tameside,0.4,360,18.4,2014
+312,Trafford,0.4,345,18.9,2014
+313,Wigan,0.4,365,18.6,2014
+315,Knowsley,0.3,430,19.3,2014
+316,Liverpool,0.3,600,19.0,2014
+317,Sefton,0.4,360,19.0,2014
+318,St. Helens,0.4,290,19.4,2014
+319,Wirral,0.4,340,19.4,2014
+321,Halton,0.3,510,19.4,2014
+322,Warrington,0.4,335,19.3,2014
+323,Lancashire,0.4,375,19.1,2014
+324,Blackburn with Darwen,0.2,360,20.5,2014
+325,Blackpool,0.4,355,19.0,2014
+326,Cheshire East,0.4,305,19.1,2014
+327,Cheshire West & Chester,0.3,630,19.2,2014
+404,Warwickshire,0.3,445,18.8,2014
+406,Birmingham,0.4,450,18.7,2014
+407,Coventry,0.4,345,19.2,2014
+408,Dudley,0.3,590,19.4,2014
+409,Sandwell,0.4,380,19.2,2014
+410,Solihull,0.3,490,18.5,2014
+411,Walsall,0.2,1000,19.1,2014
+412,Wolverhampton,0.4,305,19.4,2014
+413,Staffordshire,0.4,325,18.7,2014
+414,Stoke-on-Trent,0.4,330,18.6,2014
+415,Herefordshire,0.4,345,19.1,2014
+416,Worcestershire,0.3,405,19.2,2014
+417,Shropshire,0.4,285,18.5,2014
+418,Telford and the Wrekin,0.4,390,18.9,2014
+503,Lincolnshire,0.4,395,18.7,2014
+504,Northamptonshire,0.3,385,19.1,2014
+506,Derbyshire,0.3,580,18.9,2014
+507,Derby,0.3,360,19.5,2014
+508,Leicestershire,0.4,365,19.0,2014
+509,Leicester,0.3,555,18.3,2014
+510,Rutland,0.5,110,18.9,2014
+511,Nottinghamshire,0.4,350,18.9,2014
+512,Nottingham,0.3,495,18.8,2014
+606,Hertfordshire,0.4,310,18.7,2014
+607,Norfolk,0.3,405,19.6,2014
+608,Oxfordshire,0.3,440,19.3,2014
+609,Suffolk,0.3,625,19.0,2014
+611,Luton,0.3,460,18.9,2014
+612,Buckinghamshire,0.3,455,18.2,2014
+613,Milton Keynes,0.3,425,18.9,2014
+614,Bracknell Forest,0.2,655,18.8,2014
+615,West Berkshire,0.3,415,18.8,2014
+616,Reading,0.3,395,19.3,2014
+617,Slough,0.4,310,18.4,2014
+618,Windsor and Maidenhead,0.4,290,18.8,2014
+619,Wokingham,0.4,285,19.2,2014
+620,Essex,0.3,605,18.4,2014
+621,Southend-on-Sea,0.4,360,18.8,2014
+622,Thurrock,0.4,310,18.5,2014
+623,Cambridgeshire,0.3,490,19.2,2014
+624,Peterborough,0.3,530,18.9,2014
+625,Bedford,0.3,395,18.9,2014
+626,Central Bedfordshire,0.3,410,18.8,2014
+702,Camden,0.4,345,18.3,2014
+703,Greenwich,0.4,350,18.6,2014
+704,Hackney,0.6,275,17.8,2014
+705,Hammersmith and Fulham,0.4,315,18.5,2014
+706,Islington,0.2,905,18.4,2014
+707,Kensington and Chelsea,0.4,300,18.3,2014
+708,Lambeth,0.4,390,18.1,2014
+709,Lewisham,0.3,695,18.6,2014
+710,Southwark,0.2,1090,18.2,2014
+711,Tower Hamlets,0.2,1030,18.5,2014
+712,Wandsworth,0.3,635,18.6,2014
+713,Westminster,0.4,335,18.6,2014
+714,City of London,..,..,..,2014
+716,Barking and Dagenham,0.5,310,19.2,2014
+717,Barnet,0.4,420,18.7,2014
+718,Bexley,0.4,300,18.4,2014
+719,Brent,0.3,485,17.8,2014
+720,Bromley,0.3,675,18.4,2014
+721,Croydon,0.4,355,18.7,2014
+722,Ealing,0.4,395,18.2,2014
+723,Enfield,0.3,545,18.4,2014
+724,Haringey,0.5,310,18.3,2014
+725,Harrow,0.4,370,18.2,2014
+726,Havering,0.4,335,18.6,2014
+727,Hillingdon,0.3,530,18.6,2014
+728,Hounslow,0.4,545,17.8,2014
+729,Kingston upon Thames,0.4,255,18.7,2014
+730,Merton,0.4,485,18.8,2014
+731,Newham,0.4,535,18.9,2014
+732,Redbridge,0.4,355,20.1,2014
+733,Richmond upon Thames,0.4,260,19.2,2014
+734,Sutton,0.4,355,18.6,2014
+735,Waltham Forest,0.5,285,18.1,2014
+803,Isle of Wight,0.3,435,19.7,2014
+805,Surrey,0.3,545,19.6,2014
+807,West Sussex,0.4,415,19.1,2014
+809,Dorset,0.3,345,18.5,2014
+810,Bournemouth,0.3,450,19.2,2014
+811,Poole,0.3,335,19.0,2014
+812,Hampshire,0.2,1085,19.3,2014
+813,Portsmouth,0.2,575,18.9,2014
+814,Southampton,0.5,335,18.6,2014
+815,East Sussex,0.4,380,19.3,2014
+816,Brighton and Hove,0.4,290,19.7,2014
+817,Wiltshire,0.3,365,19.4,2014
+819,Swindon,0.4,345,18.6,2014
+820,Kent,0.3,540,19.0,2014
+821,Medway Towns,0.4,345,18.8,2014
+902,Cornwall,0.3,390,19.1,2014
+904,Gloucestershire,0.3,450,19.5,2014
+905,Somerset,0.3,495,19.3,2014
+906,Isles of Scilly,..,..,..,2014
+908,Bath and North East Somerset,0.3,455,19.3,2014
+909,Bristol,0.3,435,18.3,2014
+910,North Somerset,0.3,345,19.1,2014
+911,South Gloucestershire,0.3,495,19.3,2014
+912,Devon,0.4,380,19.1,2014
+913,Plymouth,0.4,335,19.3,2014
+914,Torbay,0.4,335,18.8,2014
