@@ -1,0 +1,307 @@
+Location;Year;BaseLinePerHead;TotalGranted
+Hartlepool;2013/14;87;8255
+Middlesbrough;2013/14;111;15932
+Redcar and Cleveland;2013/14;76;10620
+Stockton-on-Tees;2013/14;63;12711
+Darlington;2013/14;64;6989
+County Durham;2013/14;83;44533
+Northumberland;2013/14;40;13043
+Gateshead;2013/14;74;15401
+Newcastle upon Tyne;2013/14;71;20721
+North Tyneside;2013/14;48;10417
+South Tyneside;2013/14;82;12565
+Sunderland;2013/14;73;20656
+Halton;2013/14;65;8510
+Warrington;2013/14;44;10052
+Blackburn with Darwen;2013/14;84;12776
+Blackpool;2013/14;119;17457
+Cheshire East;2013/14;35;13762
+Cheshire West and Chester;2013/14;37;13371
+Bolton;2013/14;59;18115
+Bury;2013/14;44;9147
+Manchester;2013/14;71;40105
+Oldham;2013/14;54;13559
+Rochdale;2013/14;64;14256
+Salford;2013/14;64;17075
+Stockport;2013/14;41;12360
+Tameside;2013/14;47;11454
+Trafford;2013/14;43;10171
+Wigan;2013/14;70;23020
+Knowsley;2013/14;106;15929
+Liverpool;2013/14;84;40308
+St. Helens;2013/14;70;12680
+Sefton;2013/14;69;19408
+Wirral;2013/14;78;25720
+Cumbria;2013/14;26;14176
+Lancashire;2013/14;48;57991
+Kingston upon Hull, City of;2013/14;83;21945
+East Riding of Yorkshire;2013/14;22;8341
+North East Lincolnshire;2013/14;59;9700
+North Lincolnshire;2013/14;46;8071
+York;2013/14;30;6641
+Barnsley;2013/14;55;13571
+Doncaster;2013/14;63;19648
+Rotherham;2013/14;52;13790
+Sheffield;2013/14;51;29665
+Bradford;2013/14;54;31545
+Calderdale;2013/14;43;9829
+Kirklees;2013/14;49;22603
+Leeds;2013/14;43;36855
+Wakefield;2013/14;59;20230
+North Yorkshire;2013/14;29;19021
+Derby;2013/14;47;13167
+Leicester;2013/14;55;19995
+Rutland;2013/14;26;1044
+Nottingham;2013/14;85;27081
+Derbyshire;2013/14;43;34680
+Leicestershire;2013/14;28;20206
+Lincolnshire;2013/14;36;27542
+Northamptonshire;2013/14;34;26839
+Nottinghamshire;2013/14;43;35135
+Herefordshire, County of;2013/14;40;7753
+Telford and Wrekin;2013/14;61;10616
+Stoke-on-Trent;2013/14;76;19690
+Shropshire;2013/14;26;8948
+Birmingham;2013/14;70;78636
+Coventry;2013/14;49;17832
+Dudley;2013/14;57;18457
+Sandwell;2013/14;60;20816
+Solihull;2013/14;45;9635
+Walsall;2013/14;50;14984
+Wolverhampton;2013/14;72;18770
+Staffordshire;2013/14;36;32322
+Warwickshire;2013/14;37;21216
+Worcestershire;2013/14;44;25806
+Peterborough;2013/14;41;8446
+Luton;2013/14;51;11877
+Southend-on-Sea;2013/14;38;7327
+Thurrock;2013/14;44;7417
+Bedford;2013/14;38;6676
+Central Bedfordshire;2013/14;37;9873
+Cambridgeshire;2013/14;31;21230
+Essex;2013/14;33;48874
+Hertfordshire;2013/14;27;34220
+Norfolk;2013/14;33;29798
+Suffolk;2013/14;34;25572
+City of London;2013/14;186;1651
+Barking and Dagenham;2013/14;60;12921
+Barnet;2013/14;35;13799
+Bexley;2013/14;26;6886
+Brent;2013/14;56;18335
+Bromley;2013/14;39;12601
+Camden;2013/14;108;25649
+Croydon;2013/14;48;18312
+Ealing;2013/14;60;21376
+Enfield;2013/14;36;12961
+Greenwich;2013/14;64;18277
+Hackney;2013/14;112;29005
+Hammersmith and Fulham;2013/14;108;20287
+Haringey;2013/14;62;17587
+Harrow;2013/14;35;8874
+Havering;2013/14;33;8833
+Hillingdon;2013/14;52;15281
+Hounslow;2013/14;44;12804
+Islington;2013/14;112;24737
+Kensington and Chelsea;2013/14;126;20636
+Kingston upon Thames;2013/14;52;9049
+Lambeth;2013/14;78;25438
+Lewisham;2013/14;66;19541
+Merton;2013/14;42;8985
+Newham;2013/14;68;23738
+Redbridge;2013/14;32;10374
+Richmond upon Thames;2013/14;39;7676
+Southwark;2013/14;68;21809
+Sutton;2013/14;41;8384
+Tower Hamlets;2013/14;113;31382
+Waltham Forest;2013/14;38;11161
+Wandsworth;2013/14;76;24738
+Westminster;2013/14;128;30384
+Medway;2013/14;44;13170
+Bracknell Forest;2013/14;22;2772
+West Berkshire;2013/14;25;4381
+Reading;2013/14;43;7466
+Slough;2013/14;31;4988
+Windsor and Maidenhead;2013/14;20;3192
+Wokingham;2013/14;22;3839
+Milton Keynes;2013/14;28;7989
+Brighton and Hove;2013/14;64;18185
+Portsmouth;2013/14;73;15737
+Southampton;2013/14;54;14313
+Isle of Wight;2013/14;41;5922
+Buckinghamshire;2013/14;28;15681
+East Sussex;2013/14;43;23839
+Hampshire;2013/14;25;36753
+Kent;2013/14;30;49843
+Oxfordshire;2013/14;37;25264
+Surrey;2013/14;18;23237
+West Sussex;2013/14;31;26698
+Bath and North East Somerset;2013/14;39;7183
+Bristol, City of;2013/14;57;27313
+North Somerset;2013/14;33;7381
+South Gloucestershire;2013/14;23;6677
+Plymouth;2013/14;39;11160
+Torbay;2013/14;52;7150
+Bournemouth;2013/14;36;7542
+Poole;2013/14;38;5892
+Swindon;2013/14;33;7891
+Cornwall;2013/14;32;17839
+Isles of Scilly;2013/14;30;71.00
+Wiltshire;2013/14;25;13261
+Devon;2013/14;25;20748
+Dorset;2013/14;29;12538
+Gloucestershire;2013/14;32;21126
+Somerset;2013/14;24;14103
+England;2013/14;47;2661794
+Hartlepool;2014/15;87;8486
+Middlesbrough;2014/15;111;16378
+Redcar and Cleveland;2014/15;76;10917
+Stockton-on-Tees;2014/15;63;13067
+Darlington;2014/15;64;7184
+County Durham;2014/15;83;45780
+Northumberland;2014/15;40;13408
+Gateshead;2014/15;74;15832
+Newcastle upon Tyne;2014/15;71;21301
+North Tyneside;2014/15;48;10807
+South Tyneside;2014/15;82;12917
+Sunderland;2014/15;73;21234
+Halton;2014/15;65;8749
+Warrington;2014/15;44;10439
+Blackburn with Darwen;2014/15;84;13134
+Blackpool;2014/15;119;17946
+Cheshire East;2014/15;35;14274
+Cheshire West and Chester;2014/15;37;13889
+Bolton;2014/15;59;18906
+Bury;2014/15;44;9619
+Manchester;2014/15;71;44116
+Oldham;2014/15;54;14915
+Rochdale;2014/15;64;14777
+Salford;2014/15;64;18777
+Stockport;2014/15;41;12834
+Tameside;2014/15;47;12600
+Trafford;2014/15;43;10456
+Wigan;2014/15;70;23665
+Knowsley;2014/15;106;16375
+Liverpool;2014/15;84;41436
+St. Helens;2014/15;70;13035
+Sefton;2014/15;69;19952
+Wirral;2014/15;78;26440
+Cumbria;2014/15;26;15594
+Lancashire;2014/15;48;59801
+Kingston upon Hull, City of;2014/15;83;22559
+East Riding of Yorkshire;2014/15;22;9175
+North East Lincolnshire;2014/15;59;9971
+North Lincolnshire;2014/15;46;8464
+York;2014/15;30;7305
+Barnsley;2014/15;55;14243
+Doncaster;2014/15;63;20198
+Rotherham;2014/15;52;14176
+Sheffield;2014/15;51;30748
+Bradford;2014/15;54;34699
+Calderdale;2014/15;43;10679
+Kirklees;2014/15;49;23527
+Leeds;2014/15;43;40540
+Wakefield;2014/15;59;20797
+North Yorkshire;2014/15;29;19732
+Derby;2014/15;47;14484
+Leicester;2014/15;55;21995
+Rutland;2014/15;26;1073
+Nottingham;2014/15;85;27839
+Derbyshire;2014/15;43;35651
+Leicestershire;2014/15;28;21863
+Lincolnshire;2014/15;36;28506
+Northamptonshire;2014/15;34;29523
+Nottinghamshire;2014/15;43;36119
+Herefordshire, County of;2014/15;40;7970
+Telford and Wrekin;2014/15;61;10913
+Stoke-on-Trent;2014/15;76;20242
+Shropshire;2014/15;26;9843
+Birmingham;2014/15;70;80838
+Coventry;2014/15;49;19615
+Dudley;2014/15;57;18974
+Sandwell;2014/15;60;21805
+Solihull;2014/15;45;9905
+Walsall;2014/15;50;15827
+Wolverhampton;2014/15;72;19296
+Staffordshire;2014/15;36;33313
+Warwickshire;2014/15;37;21810
+Worcestershire;2014/15;44;26528
+Peterborough;2014/15;41;9291
+Luton;2014/15;51;13065
+Southend-on-Sea;2014/15;38;8060
+Thurrock;2014/15;44;7624
+Bedford;2014/15;38;7343
+Central Bedfordshire;2014/15;37;10149
+Cambridgeshire;2014/15;31;22299
+Essex;2014/15;33;50242
+Hertfordshire;2014/15;27;37642
+Norfolk;2014/15;33;30633
+Suffolk;2014/15;34;26289
+City of London;2014/15;186;1698
+Barking and Dagenham;2014/15;60;14213
+Barnet;2014/15;35;14335
+Bexley;2014/15;26;7574
+Brent;2014/15;56;18848
+Bromley;2014/15;39;12954
+Camden;2014/15;108;26368
+Croydon;2014/15;48;18825
+Ealing;2014/15;60;21974
+Enfield;2014/15;36;14257
+Greenwich;2014/15;64;19061
+Hackney;2014/15;112;29818
+Hammersmith and Fulham;2014/15;108;20855
+Haringey;2014/15;62;18189
+Harrow;2014/15;35;9146
+Havering;2014/15;33;9717
+Hillingdon;2014/15;52;15709
+Hounslow;2014/15;44;14084
+Islington;2014/15;112;25429
+Kensington and Chelsea;2014/15;126;21214
+Kingston upon Thames;2014/15;52;9302
+Lambeth;2014/15;78;26437
+Lewisham;2014/15;66;20088
+Merton;2014/15;42;9236
+Newham;2014/15;68;26112
+Redbridge;2014/15;32;11411
+Richmond upon Thames;2014/15;39;7891
+Southwark;2014/15;68;22946
+Sutton;2014/15;41;8619
+Tower Hamlets;2014/15;113;32261
+Waltham Forest;2014/15;38;12277
+Wandsworth;2014/15;76;25431
+Westminster;2014/15;128;31235
+Medway;2014/15;44;14280
+Bracknell Forest;2014/15;22;3049
+West Berkshire;2014/15;25;4819
+Reading;2014/15;43;8212
+Slough;2014/15;31;5487
+Windsor and Maidenhead;2014/15;20;3511
+Wokingham;2014/15;22;4223
+Milton Keynes;2014/15;28;8788
+Brighton and Hove;2014/15;64;18695
+Portsmouth;2014/15;73;16178
+Southampton;2014/15;54;15050
+Isle of Wight;2014/15;41;6088
+Buckinghamshire;2014/15;28;17249
+East Sussex;2014/15;43;24507
+Hampshire;2014/15;25;40428
+Kent;2014/15;30;54827
+Oxfordshire;2014/15;37;26086
+Surrey;2014/15;18;25561
+West Sussex;2014/15;31;27445
+Bath and North East Somerset;2014/15;39;7384
+Bristol, City of;2014/15;57;29122
+North Somerset;2014/15;33;7593
+South Gloucestershire;2014/15;23;7345
+Plymouth;2014/15;39;12276
+Torbay;2014/15;52;7351
+Bournemouth;2014/15;36;8296
+Poole;2014/15;38;6057
+Swindon;2014/15;33;8680
+Cornwall;2014/15;32;18339
+Isles of Scilly;2014/15;30;73.00
+Wiltshire;2014/15;25;14587
+Devon;2014/15;25;22060
+Dorset;2014/15;29;12889
+Gloucestershire;2014/15;32;21793
+Somerset;2014/15;24;15513
+England;2014/15;47;2793775
