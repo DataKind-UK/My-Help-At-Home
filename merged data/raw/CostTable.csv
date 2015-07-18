@@ -1,0 +1,766 @@
+Fiscal Year,1314,cost,Code
+2010/11,102-Cumbria,527,102
+2010/11,104-Northumberland UA,544,104
+2010/11,106-Gateshead,761,106
+2010/11,107-Newcastle upon Tyne,686,107
+2010/11,108-North Tyneside,691,108
+2010/11,109-South Tyneside,543,109
+2010/11,110-Sunderland,574,110
+2010/11,111-Hartlepool UA,483,111
+2010/11,112-Middlesbrough UA,582,112
+2010/11,113-Redcar and Cleveland UA,578,113
+2010/11,114-Stockton-on-Tees UA,505,114
+2010/11,116-Durham UA,486,116
+2010/11,117-Darlington UA,516,117
+2010/11,204-Barnsley,414,204
+2010/11,205-Doncaster,581,205
+2010/11,206-Rotherham,579,206
+2010/11,207-Sheffield,551,207
+2010/11,209-Bradford,606,209
+2010/11,210-Calderdale,664,210
+2010/11,211-Kirklees,620,211
+2010/11,212-Leeds,751,212
+2010/11,213-Wakefield,545,213
+2010/11,214-East Riding of Yorkshire UA,529,214
+2010/11,215-Kingston upon Hull UA,549,215
+2010/11,216-North East Lincolnshire UA,537,216
+2010/11,217-North Lincolnshire UA,497,217
+2010/11,218-North Yorkshire,576,218
+2010/11,219-York UA,579,219
+2010/11,304-Bolton,606,304
+2010/11,305-Bury,557,305
+2010/11,306-Manchester,796,306
+2010/11,307-Oldham,540,307
+2010/11,308-Rochdale,483,308
+2010/11,309-Salford,624,309
+2010/11,310-Stockport,497,310
+2010/11,311-Tameside,571,311
+2010/11,312-Trafford,580,312
+2010/11,313-Wigan,617,313
+2010/11,315-Knowsley,619,315
+2010/11,316-Liverpool,519,316
+2010/11,317-Sefton,516,317
+2010/11,318-St. Helens,496,318
+2010/11,319-Wirral,595,319
+2010/11,327-Cheshire West and Chester,649,327
+2010/11,326-Cheshire East UA,552,326
+2010/11,321-Halton UA,496,321
+2010/11,322-Warrington UA,573,322
+2010/11,323-Lancashire,489,323
+2010/11,324-Blackburn with Darwen UA,842,324
+2010/11,325-Blackpool UA,371,325
+2010/11,404-Warwickshire,693,404
+2010/11,406-Birmingham,709,406
+2010/11,407-Coventry,680,407
+2010/11,408-Dudley,600,408
+2010/11,409-Sandwell,615,409
+2010/11,410-Solihull,669,410
+2010/11,411-Walsall,679,411
+2010/11,412-Wolverhampton,587,412
+2010/11,413-Staffordshire,619,413
+2010/11,414-Stoke-on-Trent UA,595,414
+2010/11,415-Herefordshire UA,642,415
+2010/11,416-Worcestershire,626,416
+2010/11,417-Shropshire UA,571,417
+2010/11,418-Telford and the Wrekin UA,664,418
+2010/11,503-Lincolnshire,606,503
+2010/11,504-Northamptonshire,549,504
+2010/11,506-Derbyshire,741,506
+2010/11,507-Derby UA,554,507
+2010/11,508-Leicestershire,471,508
+2010/11,509-Leicester UA,491,509
+2010/11,510-Rutland UA,543,510
+2010/11,511-Nottinghamshire,553,511
+2010/11,512-Nottingham UA,595,512
+2010/11,606-Hertfordshire,654,606
+2010/11,607-Norfolk,636,607
+2010/11,608-Oxfordshire,572,608
+2010/11,609-Suffolk,..,609
+2010/11,626-Central Bedfordshire UA,689,626
+2010/11,625-Bedford UA,644,625
+2010/11,611-Luton UA,622,611
+2010/11,612-Buckinghamshire,871,612
+2010/11,613-Milton Keynes UA,487,613
+2010/11,614-Bracknell Forest UA,827,614
+2010/11,615-West Berkshire UA,777,615
+2010/11,616-Reading UA,666,616
+2010/11,617-Slough UA,758,617
+2010/11,618-Windsor and Maidenhead UA,733,618
+2010/11,619-Wokingham UA,870,619
+2010/11,620-Essex,687,620
+2010/11,621-Southend-on-Sea UA,574,621
+2010/11,622-Thurrock UA,667,622
+2010/11,623-Cambridgeshire,603,623
+2010/11,624-Peterborough UA,589,624
+2010/11,702-Camden,679,702
+2010/11,703-Greenwich,659,703
+2010/11,704-Hackney,640,704
+2010/11,705-Hammersmith and Fulham,691,705
+2010/11,706-Islington,639,706
+2010/11,707-Kensington and Chelsea,644,707
+2010/11,708-Lambeth,743,708
+2010/11,709-Lewisham,609,709
+2010/11,710-Southwark,801,710
+2010/11,711-Tower Hamlets,623,711
+2010/11,712-Wandsworth,613,712
+2010/11,713-Westminster,758,713
+2010/11,714-City of London,"1,029",714
+2010/11,716-Barking and Dagenham,816,716
+2010/11,717-Barnet,703,717
+2010/11,718-Bexley,640,718
+2010/11,719-Brent,646,719
+2010/11,720-Bromley,500,720
+2010/11,721-Croydon,605,721
+2010/11,722-Ealing,654,722
+2010/11,723-Enfield,723,723
+2010/11,724-Haringey,861,724
+2010/11,725-Harrow,715,725
+2010/11,726-Havering,650,726
+2010/11,727-Hillingdon,782,727
+2010/11,728-Hounslow,940,728
+2010/11,729-Kingston upon Thames,809,729
+2010/11,730-Merton,712,730
+2010/11,731-Newham,511,731
+2010/11,732-Redbridge,665,732
+2010/11,733-Richmond upon Thames,763,733
+2010/11,734-Sutton,937,734
+2010/11,735-Waltham Forest,816,735
+2010/11,803-Isle of Wight UA,696,803
+2010/11,805-Surrey,737,805
+2010/11,807-West Sussex,846,807
+2010/11,809-Dorset,696,809
+2010/11,810-Bournemouth UA,624,810
+2010/11,811-Poole UA,706,811
+2010/11,812-Hampshire,597,812
+2010/11,813-Portsmouth UA,891,813
+2010/11,814-Southampton UA,589,814
+2010/11,815-East Sussex,613,815
+2010/11,816-Brighton and Hove UA,624,816
+2010/11,817-Wiltshire UA,669,817
+2010/11,819-Swindon UA,637,819
+2010/11,820-Kent,613,820
+2010/11,821-Medway Towns UA,734,821
+2010/11,902-Cornwall UA,600,902
+2010/11,904-Gloucestershire,844,904
+2010/11,905-Somerset,654,905
+2010/11,906-Isles of Scilly UA,895,906
+2010/11,908-Bath and Somerset UA,656,908
+2010/11,909-Bristol UA,732,909
+2010/11,910-North Somerset UA,647,910
+2010/11,911-South Gloucestershire UA,807,911
+2010/11,912-Devon,590,912
+2010/11,913-Plymouth UA,578,913
+2010/11,914-Torbay UA,506,914
+2010/11,TOTAL England,623,
+2009/10,102-Cumbria,535.8,102
+2009/10,104-Northumberland UA,550.8,104
+2009/10,106-Gateshead,713.6,106
+2009/10,107-Newcastle upon Tyne,621.8,107
+2009/10,108-North Tyneside,601.4,108
+2009/10,109-South Tyneside,507.7,109
+2009/10,110-Sunderland,582.6,110
+2009/10,111-Hartlepool UA,469.8,111
+2009/10,112-Middlesbrough UA,598,112
+2009/10,113-Redcar and Cleveland UA,653,113
+2009/10,114-Stockton-on-Tees UA,483.9,114
+2009/10,116-Durham UA,472.5,116
+2009/10,117-Darlington UA,541.8,117
+2009/10,204-Barnsley,543.8,204
+2009/10,205-Doncaster,594.2,205
+2009/10,206-Rotherham,549.6,206
+2009/10,207-Sheffield,482.3,207
+2009/10,209-Bradford,581.8,209
+2009/10,210-Calderdale,557.4,210
+2009/10,211-Kirklees,591.3,211
+2009/10,212-Leeds,676,212
+2009/10,213-Wakefield,513.2,213
+2009/10,214-East Riding of Yorkshire UA,483.7,214
+2009/10,215-Kingston upon Hull UA,570.6,215
+2009/10,216-North East Lincolnshire UA,502.3,216
+2009/10,217-North Lincolnshire UA,563.7,217
+2009/10,218-North Yorkshire,549,218
+2009/10,219-York UA,597,219
+2009/10,304-Bolton,608.7,304
+2009/10,305-Bury,496,305
+2009/10,306-Manchester,..,306
+2009/10,307-Oldham,492.3,307
+2009/10,308-Rochdale,602.6,308
+2009/10,309-Salford,616,309
+2009/10,310-Stockport,578,310
+2009/10,311-Tameside,533.3,311
+2009/10,312-Trafford,568.9,312
+2009/10,313-Wigan,647.3,313
+2009/10,315-Knowsley,557.7,315
+2009/10,316-Liverpool,471.2,316
+2009/10,317-Sefton,504.9,317
+2009/10,318-St. Helens,497.8,318
+2009/10,319-Wirral,538.8,319
+2009/10,321-Halton UA,428.3,321
+2009/10,322-Warrington UA,639.3,322
+2009/10,323-Lancashire,441.7,323
+2009/10,324-Blackburn with Darwen UA,848.8,324
+2009/10,325-Blackpool UA,449.3,325
+2009/10,326-Cheshire East UA,544.2,326
+2009/10,327-Cheshire West and Chester,603.7,327
+2009/10,404-Warwickshire,644.5,404
+2009/10,406-Birmingham,769.4,406
+2009/10,407-Coventry,658.8,407
+2009/10,408-Dudley,622.5,408
+2009/10,409-Sandwell,574.8,409
+2009/10,410-Solihull,606.3,410
+2009/10,411-Walsall,605.1,411
+2009/10,412-Wolverhampton,590.8,412
+2009/10,413-Staffordshire,693.4,413
+2009/10,414-Stoke-on-Trent UA,569,414
+2009/10,415-Herefordshire UA,579.9,415
+2009/10,416-Worcestershire,594.3,416
+2009/10,417-Shropshire UA,543,417
+2009/10,418-Telford and the Wrekin UA,701,418
+2009/10,503-Lincolnshire,567.8,503
+2009/10,504-Northamptonshire,577.2,504
+2009/10,506-Derbyshire,576.8,506
+2009/10,507-Derby UA,525.2,507
+2009/10,508-Leicestershire,463.8,508
+2009/10,509-Leicester UA,485.4,509
+2009/10,510-Rutland UA,574.3,510
+2009/10,511-Nottinghamshire,527.5,511
+2009/10,512-Nottingham UA,502.1,512
+2009/10,606-Hertfordshire,613.1,606
+2009/10,607-Norfolk,525,607
+2009/10,608-Oxfordshire,620,608
+2009/10,609-Suffolk,691.1,609
+2009/10,611-Luton UA,652.3,611
+2009/10,612-Buckinghamshire,933.6,612
+2009/10,613-Milton Keynes UA,527,613
+2009/10,614-Bracknell Forest UA,778.6,614
+2009/10,615-West Berkshire UA,761.1,615
+2009/10,616-Reading UA,633.4,616
+2009/10,617-Slough UA,661.5,617
+2009/10,618-Windsor and Maidenhead UA,776.7,618
+2009/10,619-Wokingham UA,904.3,619
+2009/10,620-Essex,734.7,620
+2009/10,621-Southend-on-Sea UA,527.3,621
+2009/10,622-Thurrock UA,692.9,622
+2009/10,623-Cambridgeshire,555.7,623
+2009/10,624-Peterborough UA,621.1,624
+2009/10,625-Bedford UA,564.1,625
+2009/10,626-Central Bedfordshire UA,677,626
+2009/10,702-Camden,651.4,702
+2009/10,703-Greenwich,635.1,703
+2009/10,704-Hackney,649.9,704
+2009/10,705-Hammersmith and Fulham,635.5,705
+2009/10,706-Islington,618.9,706
+2009/10,707-Kensington and Chelsea,850.8,707
+2009/10,708-Lambeth,846.6,708
+2009/10,709-Lewisham,510.8,709
+2009/10,710-Southwark,864.2,710
+2009/10,711-Tower Hamlets,625.6,711
+2009/10,712-Wandsworth,642.1,712
+2009/10,713-Westminster,773.3,713
+2009/10,714-City of London,906.4,714
+2009/10,716-Barking and Dagenham,702.7,716
+2009/10,717-Barnet,627.4,717
+2009/10,718-Bexley,536,718
+2009/10,719-Brent,561.6,719
+2009/10,720-Bromley,595.2,720
+2009/10,721-Croydon,622.5,721
+2009/10,722-Ealing,613.3,722
+2009/10,723-Enfield,662.6,723
+2009/10,724-Haringey,795.5,724
+2009/10,725-Harrow,746.3,725
+2009/10,726-Havering,641,726
+2009/10,727-Hillingdon,764.9,727
+2009/10,728-Hounslow,765.6,728
+2009/10,729-Kingston upon Thames,787.1,729
+2009/10,730-Merton,749.3,730
+2009/10,731-Newham,540.7,731
+2009/10,732-Redbridge,699.5,732
+2009/10,733-Richmond upon Thames,756.6,733
+2009/10,734-Sutton,903,734
+2009/10,735-Waltham Forest,713.4,735
+2009/10,803-Isle of Wight UA,582.3,803
+2009/10,805-Surrey,701.7,805
+2009/10,807-West Sussex,735,807
+2009/10,809-Dorset,771.9,809
+2009/10,810-Bournemouth UA,609.7,810
+2009/10,811-Poole UA,693.8,811
+2009/10,812-Hampshire,611.4,812
+2009/10,813-Portsmouth UA,816.1,813
+2009/10,814-Southampton UA,617.1,814
+2009/10,815-East Sussex,..,815
+2009/10,816-Brighton and Hove UA,711.1,816
+2009/10,817-Wiltshire UA,560,817
+2009/10,819-Swindon UA,614.1,819
+2009/10,820-Kent,618.2,820
+2009/10,821-Medway Towns UA,662.1,821
+2009/10,902-Cornwall UA,601.5,902
+2009/10,904-Gloucestershire,689.2,904
+2009/10,905-Somerset,666.6,905
+2009/10,906-Isles of Scilly UA,656.7,906
+2009/10,908-Bath and Somerset UA,713.2,908
+2009/10,909-Bristol UA,758.5,909
+2009/10,910-North Somerset UA,598.5,910
+2009/10,911-South Gloucestershire UA,728.2,911
+2009/10,912-Devon,594.7,912
+2009/10,913-Plymouth UA,558.7,913
+2009/10,914-Torbay UA,504.7,914
+2009/10,Total England,609.1,
+2011/12,102-Cumbria,493.6,102
+2011/12,104-Northumberland,551.2,104
+2011/12,106-Gateshead,671.6,106
+2011/12,107-Newcastle upon Tyne,706.3,107
+2011/12,108-North Tyneside,741.6,108
+2011/12,109-South Tyneside,468.8,109
+2011/12,110-Sunderland,587,110
+2011/12,111-Hartlepool,467.6,111
+2011/12,112-Middlesbrough,559.2,112
+2011/12,113-Redcar and Cleveland,497.2,113
+2011/12,114-Stockton-on-Tees,525.8,114
+2011/12,116-Durham,433.2,116
+2011/12,117-Darlington,524.9,117
+2011/12,204-Barnsley,422.5,204
+2011/12,205-Doncaster,522.8,205
+2011/12,206-Rotherham,628.7,206
+2011/12,207-Sheffield,604.7,207
+2011/12,209-Bradford,583.8,209
+2011/12,210-Calderdale,639.3,210
+2011/12,211-Kirklees,617.4,211
+2011/12,212-Leeds,731.4,212
+2011/12,213-Wakefield,532.8,213
+2011/12,214-East Riding of Yorkshire,485.5,214
+2011/12,215-Kingston upon Hull,526.5,215
+2011/12,216-North East Lincolnshire,500.4,216
+2011/12,217-North Lincolnshire,501.2,217
+2011/12,218-North Yorkshire,604.2,218
+2011/12,219-York,553.6,219
+2011/12,304-Bolton,536,304
+2011/12,305-Bury,576.3,305
+2011/12,306-Manchester,506.4,306
+2011/12,307-Oldham,472.6,307
+2011/12,308-Rochdale,514.1,308
+2011/12,309-Salford,655.4,309
+2011/12,310-Stockport,516.7,310
+2011/12,311-Tameside,373.4,311
+2011/12,312-Trafford,564.8,312
+2011/12,313-Wigan,583.7,313
+2011/12,315-Knowsley,596.6,315
+2011/12,316-Liverpool,568.6,316
+2011/12,317-Sefton,537.6,317
+2011/12,318-St. Helens,464.9,318
+2011/12,319-Wirral,432.3,319
+2011/12,321-Halton,536.7,321
+2011/12,322-Warrington,592.1,322
+2011/12,323-Lancashire,501.6,323
+2011/12,324-Blackburn with Darwen,554.8,324
+2011/12,325-Blackpool,463.5,325
+2011/12,326-Cheshire East,514.3,326
+2011/12,327-Cheshire West and Chester,598,327
+2011/12,404-Warwickshire,654.5,404
+2011/12,406-Birmingham,618.5,406
+2011/12,407-Coventry,659.6,407
+2011/12,408-Dudley,742.4,408
+2011/12,409-Sandwell,640.2,409
+2011/12,410-Solihull,675.7,410
+2011/12,411-Walsall,498.1,411
+2011/12,412-Wolverhampton,678.7,412
+2011/12,413-Staffordshire,680.9,413
+2011/12,414-Stoke-on-Trent,569.2,414
+2011/12,415-Herefordshire,670.1,415
+2011/12,416-Worcestershire,638.2,416
+2011/12,417-Shropshire,566.6,417
+2011/12,418-Telford and the Wrekin,677.9,418
+2011/12,503-Lincolnshire,476.7,503
+2011/12,504-Northamptonshire,639.8,504
+2011/12,506-Derbyshire,669.5,506
+2011/12,507-Derby,478.1,507
+2011/12,508-Leicestershire,487.2,508
+2011/12,509-Leicester,501,509
+2011/12,510-Rutland,501.3,510
+2011/12,511-Nottinghamshire,575.3,511
+2011/12,512-Nottingham,584.1,512
+2011/12,606-Hertfordshire,686,606
+2011/12,607-Norfolk,600.6,607
+2011/12,608-Oxfordshire,728,608
+2011/12,609-Suffolk,695.2,609
+2011/12,611-Luton,661.3,611
+2011/12,612-Buckinghamshire,705.1,612
+2011/12,613-Milton Keynes,550,613
+2011/12,614-Bracknell Forest,880,614
+2011/12,615-West Berkshire,740.3,615
+2011/12,616-Reading,731.3,616
+2011/12,617-Slough,742.7,617
+2011/12,618-Windsor and Maidenhead,715.8,618
+2011/12,619-Wokingham,881.8,619
+2011/12,620-Essex,684.1,620
+2011/12,621-Southend-on-Sea,512.4,621
+2011/12,622-Thurrock,622,622
+2011/12,623-Cambridgeshire,589.2,623
+2011/12,624-Peterborough,584.3,624
+2011/12,625-Bedford,626.1,625
+2011/12,626-Central Bedfordshire,643.7,626
+2011/12,702-Camden,629.8,702
+2011/12,703-Greenwich,639.9,703
+2011/12,704-Hackney,615.5,704
+2011/12,705-Hammersmith and Fulham,628.5,705
+2011/12,706-Islington,599.6,706
+2011/12,707-Kensington and Chelsea,798.3,707
+2011/12,708-Lambeth,634.3,708
+2011/12,709-Lewisham,685.4,709
+2011/12,710-Southwark,804.8,710
+2011/12,711-Tower Hamlets,740.4,711
+2011/12,712-Wandsworth,577.1,712
+2011/12,713-Westminster,558.6,713
+2011/12,714-City of London,"1,291.60",714
+2011/12,716-Barking and Dagenham,818,716
+2011/12,717-Barnet,708.2,717
+2011/12,718-Bexley,649.1,718
+2011/12,719-Brent,619.8,719
+2011/12,720-Bromley,564.3,720
+2011/12,721-Croydon,558,721
+2011/12,722-Ealing,606.4,722
+2011/12,723-Enfield,758.7,723
+2011/12,724-Haringey,759.8,724
+2011/12,725-Harrow,672.1,725
+2011/12,726-Havering,649.8,726
+2011/12,727-Hillingdon,702.8,727
+2011/12,728-Hounslow,986,728
+2011/12,729-Kingston upon Thames,713.1,729
+2011/12,730-Merton,689,730
+2011/12,731-Newham,481.7,731
+2011/12,732-Redbridge,691,732
+2011/12,733-Richmond upon Thames,706.1,733
+2011/12,734-Sutton,837.6,734
+2011/12,735-Waltham Forest,805,735
+2011/12,803-Isle of Wight,613.9,803
+2011/12,805-Surrey,685,805
+2011/12,807-West Sussex,597.4,807
+2011/12,809-Dorset,928.7,809
+2011/12,810-Bournemouth,607.7,810
+2011/12,811-Poole,728.2,811
+2011/12,812-Hampshire,570.1,812
+2011/12,813-Portsmouth,692.1,813
+2011/12,814-Southampton,579.4,814
+2011/12,815-East Sussex,642.9,815
+2011/12,816-Brighton and Hove,692.8,816
+2011/12,817-Wiltshire,784.3,817
+2011/12,819-Swindon,664.8,819
+2011/12,820-Kent,595.9,820
+2011/12,821-Medway Towns,668.5,821
+2011/12,902-Cornwall,624.5,902
+2011/12,904-Gloucestershire,..,904
+2011/12,905-Somerset,615.9,905
+2011/12,906-Isles of Scilly,"1,633.60",906
+2011/12,908-Bath and Somerset,639.3,908
+2011/12,909-Bristol,711.7,909
+2011/12,910-North Somerset,602,910
+2011/12,911-South Gloucestershire,810.5,911
+2011/12,912-Devon,625.2,912
+2011/12,913-Plymouth,623.8,913
+2011/12,914-Torbay,517.3,914
+2011/12,England,608.1,
+2012/13,102 - Cumbria ,524.6,
+2012/13,104 - Northumberland,574.8,
+2012/13,106 - Gateshead ,677.1,
+2012/13,107 - Newcastle upon Tyne ,726.5,
+2012/13,108 - North Tyneside,704.5,
+2012/13,109 - South Tyneside,446,
+2012/13,110 - Sunderland,589.1,
+2012/13,111 - Hartlepool,469.2,
+2012/13,112 - Middlesbrough ,567.7,
+2012/13,113 - Redcar and Cleveland,533.6,
+2012/13,114 - Stockton on Tees,550.6,
+2012/13,116 - Durham,441.8,
+2012/13,117 - Darlington,529.1,
+2012/13,204 - Barnsley,509,
+2012/13,205 - Doncaster ,551.1,
+2012/13,206 - Rotherham ,627.1,
+2012/13,207 - Sheffield ,629.3,
+2012/13,209 - Bradford,548,
+2012/13,210 - Calderdale,634.4,
+2012/13,211 - Kirklees,626,
+2012/13,212 - Leeds ,688.6,
+2012/13,213 - Wakefield ,539.5,
+2012/13,214 - East Riding of Yorkshire,521.1,
+2012/13,215 - Kingston upon Hull,533.8,
+2012/13,216 - North East Lincolnshire ,428.9,
+2012/13,217 - North Lincolnshire,499,
+2012/13,218 - North Yorkshire ,576.9,
+2012/13,219 - York,494.9,
+2012/13,304 - Bolton,504.9,
+2012/13,305 - Bury,591.2,
+2012/13,306 - Manchester,530.2,
+2012/13,307 - Oldham,426.2,
+2012/13,308 - Rochdale,515.6,
+2012/13,309 - Salford ,660.9,
+2012/13,310 - Stockport ,503.5,
+2012/13,311 - Tameside,472.1,
+2012/13,312 - Trafford,561.2,
+2012/13,313 - Wigan ,655.7,
+2012/13,315 - Knowsley,548.1,
+2012/13,316 - Liverpool ,583.3,
+2012/13,317 - Sefton,382.9,
+2012/13,318 - St Helens ,508.5,
+2012/13,319 - Wirral,439.6,
+2012/13,321 - Halton,510.3,
+2012/13,322 - Warrington,591.4,
+2012/13,323 - Lancashire,493.8,
+2012/13,324 - Blackburn with Darwen ,540,
+2012/13,325 - Blackpool ,405.4,
+2012/13,326 - Cheshire East ,572.1,
+2012/13,327 - Cheshire West and Chester ,584.7,
+2012/13,404 - Warwickshire,642.8,
+2012/13,406 - Birmingham,620,
+2012/13,407 - Coventry,723.6,
+2012/13,408 - Dudley,687.8,
+2012/13,409 - Sandwell,663.5,
+2012/13,410 - Solihull,802.8,
+2012/13,411 - Walsall ,656.7,
+2012/13,412 - Wolverhampton ,565.3,
+2012/13,413 - Staffordshire ,617.6,
+2012/13,414 - Stoke on Trent,658.5,
+2012/13,415 - Herefordshire ,688.3,
+2012/13,416 - Worcestershire,648.2,
+2012/13,417 - Shropshire,607.4,
+2012/13,418 - Telford and the Wrekin,624.2,
+2012/13,503 - Lincolnshire,473.5,
+2012/13,504 - Northamptonshire,617.2,
+2012/13,506 - Derbyshire,600.9,
+2012/13,507 - Derby ,544.3,
+2012/13,508 - Leicestershire,509.2,
+2012/13,509 - Leicester ,541.9,
+2012/13,510 - Rutland ,709.7,
+2012/13,511 - Nottinghamshire ,657.7,
+2012/13,512 - Nottingham,668,
+2012/13,606 - Hertfordshire ,645.1,
+2012/13,607 - Norfolk ,584.8,
+2012/13,608 - Oxfordshire ,741.3,
+2012/13,609 - Suffolk ,636.3,
+2012/13,611 - Luton ,724.6,
+2012/13,612 - Buckinghamshire ,717.9,
+2012/13,613 - Milton Keynes ,605,
+2012/13,614 - Bracknell Forest,915.7,
+2012/13,615 - West Berkshire,724.4,
+2012/13,616 - Reading ,673.9,
+2012/13,617 - Slough,677.3,
+2012/13,618 - Windsor and Maidenhead,713.7,
+2012/13,619 - Wokingham ,977,
+2012/13,620 - Essex ,664.1,
+2012/13,621 - Southend on Sea ,518.9,
+2012/13,622 - Thurrock,640.2,
+2012/13,623 - Cambridgeshire,620.7,
+2012/13,624 - Peterborough,606.3,
+2012/13,625 - Bedford Borough ,613.5,
+2012/13,626 - Central Bedfordshire,681.8,
+2012/13,702 - Camden,652.8,
+2012/13,703 - Greenwich ,637.4,
+2012/13,704 - Hackney ,658.6,
+2012/13,705 - Hammersmith and Fulham,678.4,
+2012/13,706 - Islington ,624.1,
+2012/13,707 - Kensington and Chelsea,744.6,
+2012/13,708 - Lambeth ,646.7,
+2012/13,709 - Lewisham,661.2,
+2012/13,710 - Southwark ,679.7,
+2012/13,711 - Tower Hamlets ,752.4,
+2012/13,712 - Wandsworth,753.5,
+2012/13,713 - Westminster ,761.2,
+2012/13,714 - City of London,708.7,
+2012/13,716 - Barking and Dagenham,504.5,
+2012/13,717 - Barnet,636.8,
+2012/13,718 - Bexley,684.3,
+2012/13,719 - Brent ,602.9,
+2012/13,720 - Bromley ,681.4,
+2012/13,721 - Croydon ,559.1,
+2012/13,722 - Ealing,548.1,
+2012/13,723 - Enfield ,758,
+2012/13,724 - Haringey,668.2,
+2012/13,725 - Harrow,671.9,
+2012/13,726 - Havering,600,
+2012/13,727 - Hillingdon,701.6,
+2012/13,728 - Hounslow,548.1,
+2012/13,729 - Kingston upon Thames,643.9,
+2012/13,730 - Merton,695.8,
+2012/13,731 - Newham,372.6,
+2012/13,732 - Redbridge ,714.7,
+2012/13,733 - Richmond upon Thames,731.9,
+2012/13,734 - Sutton,846.7,
+2012/13,735 - Waltham Forest,677,
+2012/13,803 - Isle of Wight Council ,584.4,
+2012/13,805 - Surrey,531.9,
+2012/13,807 - West Sussex ,533.5,
+2012/13,809 - Dorset,692.6,
+2012/13,810 - Bournemouth ,663.4,
+2012/13,811 - Poole ,685.8,
+2012/13,812 - Hampshire ,673.9,
+2012/13,813 - Portsmouth,682.1,
+2012/13,814 - Southampton ,595.2,
+2012/13,815 - East Sussex ,652.4,
+2012/13,816 - Brighton and Hove ,667.3,
+2012/13,817 - Wiltshire ,760.1,
+2012/13,819 - Swindon ,780.8,
+2012/13,820 - Kent,611.6,
+2012/13,821 - Medway,644.3,
+2012/13,902 - Cornwall,593,
+2012/13,904 - Gloucestershire ,711.9,
+2012/13,905 - Somerset,582.1,
+2012/13,906 - Isles of Scilly ,"1,284.90",
+2012/13,908 - Bath and North East Somerset,627.3,
+2012/13,909 - Bristol ,706.2,
+2012/13,910 - North Somerset,557.2,
+2012/13,911 - South Gloucestershire ,838.9,
+2012/13,912 - Devon ,507.2,
+2012/13,913 - Plymouth,416.3,
+2012/13,914 - Torbay,553,
+2012/13,TOTAL England,601.6,
+2013/14,102 - Cumbria ,560,
+2013/14,104 - Northumberland,569.2,
+2013/14,106 - Gateshead ,630.2,
+2013/14,107 - Newcastle upon Tyne ,737.5,
+2013/14,108 - North Tyneside,553.2,
+2013/14,109 - South Tyneside,452.3,
+2013/14,110 - Sunderland,600.7,
+2013/14,111 - Hartlepool,473.6,
+2013/14,112 - Middlesbrough ,473.9,
+2013/14,113 - Redcar and Cleveland,502.8,
+2013/14,114 - Stockton on Tees,559.6,
+2013/14,116 - Durham,447.6,
+2013/14,117 - Darlington,514.7,
+2013/14,204 - Barnsley,388,
+2013/14,205 - Doncaster ,543.6,
+2013/14,206 - Rotherham ,660.4,
+2013/14,207 - Sheffield ,590.5,
+2013/14,209 - Bradford,591.9,
+2013/14,210 - Calderdale,631.8,
+2013/14,211 - Kirklees,638.2,
+2013/14,212 - Leeds ,798.1,
+2013/14,213 - Wakefield ,529.5,
+2013/14,214 - East Riding of Yorkshire,528,
+2013/14,215 - Kingston upon Hull,544.7,
+2013/14,216 - North East Lincolnshire ,418.7,
+2013/14,217 - North Lincolnshire,491,
+2013/14,218 - North Yorkshire ,634.7,
+2013/14,219 - York,601.6,
+2013/14,304 - Bolton,462.4,
+2013/14,305 - Bury,366.8,
+2013/14,306 - Manchester,605.1,
+2013/14,307 - Oldham,442.6,
+2013/14,308 - Rochdale,487.7,
+2013/14,309 - Salford ,711.6,
+2013/14,310 - Stockport ,500.7,
+2013/14,311 - Tameside,444.4,
+2013/14,312 - Trafford,576.5,
+2013/14,313 - Wigan ,620.9,
+2013/14,315 - Knowsley,527.7,
+2013/14,316 - Liverpool ,504.2,
+2013/14,317 - Sefton,464.6,
+2013/14,318 - St Helens ,532.7,
+2013/14,319 - Wirral,405.9,
+2013/14,321 - Halton,475.3,
+2013/14,322 - Warrington,600.8,
+2013/14,323 - Lancashire,484.5,
+2013/14,324 - Blackburn with Darwen ,500.3,
+2013/14,325 - Blackpool ,405.5,
+2013/14,326 - Cheshire East ,594.3,
+2013/14,327 - Cheshire West and Chester ,628.2,
+2013/14,404 - Warwickshire,670.9,
+2013/14,406 - Birmingham,647.6,
+2013/14,407 - Coventry,709.1,
+2013/14,408 - Dudley,696.6,
+2013/14,409 - Sandwell,682.9,
+2013/14,410 - Solihull,475.7,
+2013/14,411 - Walsall ,696.5,
+2013/14,412 - Wolverhampton ,538,
+2013/14,413 - Staffordshire ,544.1,
+2013/14,414 - Stoke on Trent,644.9,
+2013/14,415 - Herefordshire ,684.6,
+2013/14,416 - Worcestershire,642.7,
+2013/14,417 - Shropshire,621.8,
+2013/14,418 - Telford and the Wrekin,711.8,
+2013/14,503 - Lincolnshire,482.1,
+2013/14,504 - Northamptonshire,597.7,
+2013/14,506 - Derbyshire,620.8,
+2013/14,507 - Derby ,604.1,
+2013/14,508 - Leicestershire,550.5,
+2013/14,509 - Leicester ,470.1,
+2013/14,510 - Rutland ,712,
+2013/14,511 - Nottinghamshire ,620.7,
+2013/14,512 - Nottingham,683,
+2013/14,606 - Hertfordshire ,609,
+2013/14,607 - Norfolk ,590.3,
+2013/14,608 - Oxfordshire ,717.6,
+2013/14,609 - Suffolk ,381.8,
+2013/14,611 - Luton ,631,
+2013/14,612 - Buckinghamshire ,884.8,
+2013/14,613 - Milton Keynes ,647.5,
+2013/14,614 - Bracknell Forest,697.4,
+2013/14,615 - West Berkshire,654.3,
+2013/14,616 - Reading ,705.5,
+2013/14,617 - Slough,871.3,
+2013/14,618 - Windsor and Maidenhead,833.4,
+2013/14,619 - Wokingham ,817,
+2013/14,620 - Essex ,657.4,
+2013/14,621 - Southend on Sea ,542,
+2013/14,622 - Thurrock,595.5,
+2013/14,623 - Cambridgeshire,599,
+2013/14,624 - Peterborough,624.7,
+2013/14,625 - Bedford Borough ,558.6,
+2013/14,626 - Central Bedfordshire,603.6,
+2013/14,702 - Camden,638,
+2013/14,703 - Greenwich ,633.1,
+2013/14,704 - Hackney ,653.9,
+2013/14,705 - Hammersmith and Fulham,662.8,
+2013/14,706 - Islington ,653.2,
+2013/14,707 - Kensington and Chelsea,753.8,
+2013/14,708 - Lambeth ,623.6,
+2013/14,709 - Lewisham,559.3,
+2013/14,710 - Southwark ,615.6,
+2013/14,711 - Tower Hamlets ,791.9,
+2013/14,712 - Wandsworth,847.7,
+2013/14,713 - Westminster ,721.8,
+2013/14,714 - City of London,676.8,
+2013/14,716 - Barking and Dagenham,427.4,
+2013/14,717 - Barnet,631.3,
+2013/14,718 - Bexley,659,
+2013/14,719 - Brent ,411.9,
+2013/14,720 - Bromley ,616,
+2013/14,721 - Croydon ,539.3,
+2013/14,722 - Ealing,671.7,
+2013/14,723 - Enfield ,726.7,
+2013/14,724 - Haringey,686.6,
+2013/14,725 - Harrow,642.2,
+2013/14,726 - Havering,609.9,
+2013/14,727 - Hillingdon,676.1,
+2013/14,728 - Hounslow,588.9,
+2013/14,729 - Kingston upon Thames,672.8,
+2013/14,730 - Merton,692.8,
+2013/14,731 - Newham,470.2,
+2013/14,732 - Redbridge ,656.4,
+2013/14,733 - Richmond upon Thames,769.2,
+2013/14,734 - Sutton,734.6,
+2013/14,735 - Waltham Forest,746.8,
+2013/14,803 - Isle of Wight Council ,573.6,
+2013/14,805 - Surrey,553.8,
+2013/14,807 - West Sussex ,582.9,
+2013/14,809 - Dorset,688.7,
+2013/14,810 - Bournemouth ,652.5,
+2013/14,811 - Poole ,721.6,
+2013/14,812 - Hampshire ,754.3,
+2013/14,813 - Portsmouth,698.1,
+2013/14,814 - Southampton ,614,
+2013/14,815 - East Sussex ,714.1,
+2013/14,816 - Brighton and Hove ,720.9,
+2013/14,817 - Wiltshire ,611.6,
+2013/14,819 - Swindon ,777.1,
+2013/14,820 - Kent,643.8,
+2013/14,821 - Medway,614.4,
+2013/14,902 - Cornwall,567.7,
+2013/14,904 - Gloucestershire ,712.3,
+2013/14,905 - Somerset,632.1,
+2013/14,906 - Isles of Scilly ,762.3,
+2013/14,908 - Bath and North East Somerset,617.6,
+2013/14,909 - Bristol ,713.4,
+2013/14,910 - North Somerset,560.8,
+2013/14,911 - South Gloucestershire ,802.4,
+2013/14,912 - Devon ,488.1,
+2013/14,913 - Plymouth,525.6,
+2013/14,914 - Torbay,552.5,
+2013/14,TOTAL England,597,
