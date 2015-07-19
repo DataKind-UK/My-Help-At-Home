@@ -175,6 +175,7 @@ merged.all = census.filtered %>%
     mutate_each(funs(as.numeric(gsub(",", ".", .))), -Local.authority, -Year) %>%select(-Location)  %>%
     select(-Local.Authority) %>%
     select(Local.authority, Year, matches(".")) %>%
+    left_join(authority.mapping %>% select(Local.authority, County)) %>% select(Local.authority, County, Year, matches(".")) %>% 
     unique
 
 
